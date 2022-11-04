@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		
+		<title>Vanex Currency Exchange</title>
+
+		<meta name="viewport" content="width=device-width">
+
+		<link rel="stylesheet" href="style.css">		
+
+	</head>
+
+	<body class="body--vanex">
+
+		<header class="flex-container">
+
+			<div class="branding--top flex-item">
+				
+				<h1>Vanex <span>Currency Exchange</span></h1>
+
+			</div>
+
+		</header>
+
+		<main id="main">
+
+			<div class="cvs-ratestable"></div>
+
+			<div class="branding--bottom">
+
+				<a href="https://www.vanexgroup.com"><img src="vanex_logo.jpg" width="480" height="480px" alt="logo"></a>
+
+				<ul>
+					<li><a href="https://www.vanexgroup.com">www.VanexGroup.com</a></li>
+	     			<li>Office: <a href="tel:6044743188">604 474 3188</a></li>
+	     			<li>Fax: 604 474 3189</li>
+	     		</ul>
+
+			</div>	     		
+
+		</main>
+
+	</body>
+
+	<!-- CLEARVIEWSYS RATES TABLE HTML-MODULE - include script dependencies -->
+
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+	<script src="cvs-ratestable/main.js"></script>
+	<link rel="stylesheet" type="text/css" href="cvs-ratestable/main.css">
+
+	<script>
+
+		jQuery(document).ready( function($) {
+			'use strict';
+			
+			$('.cvs-ratestable').cvsRatestable({
+				showEntries: 			false,
+				search: 				false,
+				info: 					false,
+				pagination: 			false,
+				pageLength: 			10,
+				// Set to false to hide the column
+				columnOrder: 			{
+					'flag': 			3, 
+					'code': 			2, 
+					'country': 			false, 
+					'currency': 		1, 
+					'webuy': 			4, 
+					'wesell': 			5,
+					'invbuy': 			false,
+					'invsell': 			false,					
+				},
+				// Set to false to leave column heading empty
+				columnHeadings: 		{
+					'flag': 			false,
+					'code': 			false,
+					'country': 			'Country',
+					'currency': 		'Currency',
+					'webuy': 			'We Buy',
+					'wesell': 			'We Sell',
+					'invbuy': 			'Inv. Buy',
+					'invsell': 			'Inv. Sell',					
+				},
+				// Update ONLY if XML tags get changed by ClearViewSys
+				xmlElements: 			{
+					'flag': 			'FLAGURL',
+					'code': 			'ISO',
+					'country': 			'COUNTRY',
+					'currency': 		'NAME',
+					'webuy': 			'WEBUY',
+					'wesell': 			'WESELL',
+					'invbuy': 			'INVBUY',
+					'invsell': 			'INVSELL',
+				},
+				updateFrequency: 		3000,
+				cvsFolder: 				'cvs',
+			});
+			
+		});
+
+	</script>
+
+	<!-- EOF >> CLEARVIEWSYS RATES TABLE HTML-MODULE - include script dependencies -->
+
+</html>

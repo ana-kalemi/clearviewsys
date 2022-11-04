@@ -1,0 +1,111 @@
+
+#currency_widget_table_header {
+	background-color: #000000;
+	color: #FFEE05;
+	font: 18px Futura;
+}
+
+td {
+}
+
+tr.row_even {
+	background-color: #000000;
+		color: #FFF;
+
+}
+
+tr.row_odd {
+	background-color: #000;
+	color: #FFF;
+}
+
+body {
+	background-color: #000;
+}
+
+img{
+	max-width: 128px;
+	border: 1px solid #444444;
+}
+
+.country
+{
+	text-align: left;
+	color: #FFF;
+	background-color: #000;
+}
+
+#currency_table td{
+	font-size:18pt;
+	padding-top:0px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom:3px;
+	vertical-align:center;
+}
+
+
+.inversebuy
+{
+	color:#FFF;
+	text-align:center;
+}
+
+.flag
+{
+	color:#000;
+	text-align:left;
+	background-color:#000;	
+	padding-left:0px;
+	padding-right:0px;
+}
+
+
+.buy
+{
+	color: #FF0004;
+	text-align: center;
+	background-color: #000;
+	padding-top:10px;
+
+}
+
+.sell
+{
+	color: #FFE400;
+	text-align: center;
+	background-color: #000;
+}
+
+.headerbuy
+{
+	background-color: #000000;
+	color: #FFEE05;
+	text-align: center;
+}
+
+.headersell
+{
+	background-color: #000000;
+	color: #FFEE05;
+	text-align: center;
+}
+
+.header
+{
+	color: #FFEE05;
+	text-align: center;
+}
+
+.currency
+{
+	color:#FFF;
+	text-align:center;
+}
+
+.time
+{
+	text-align:center;
+	color:#FFF;
+
+}

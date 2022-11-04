@@ -1,0 +1,252 @@
+@font-face {
+  font-family: 'BlankGothic'; /* fonts name */
+  src: url('../fonts/BankGothic Lt BT Light.ttf'); /* path to fonts */
+}
+@font-face {
+  font-family: 'MyriadProBold'; /* fonts name */
+  src: url('../fonts/MyriadProBold.ttf'); /* path to fonts */
+}
+@font-face {
+  font-family: 'MyriadProSemiBold'; /* fonts name */
+  src: url('../fonts/MyriadProSemiBold.ttf'); /* path to fonts */
+}
+html, body {
+  height: 100%;
+}
+body {
+  font-family: "BlankGothic", sans-serif;
+  font-size: 16px;
+  min-height: 600px;
+  background: -moz-linear-gradient(90deg, #02D8FE 0, #0188e3 50%, #0347D0 100%);/* FF3.6+ */
+  background: -webkit-gradient(linear, 90deg, color-stop(0, 02D8FE), color-stop(50%, 0188e3), color-stop(100%, 0347D0));/* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(90deg, #02D8FE 0, #0188e3 50%, #0347D0 100%);/* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(90deg, #02D8FE 0, #0188e3 50%, #0347D0 100%);/* Opera 11.10+ */
+  background: -ms-linear-gradient(90deg, #02D8FE 0, #0188e3 50%, #0347D0 100%);/* IE10+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1301FE', endColorstr='#F4F60C', GradientType='1'); /* for IE */
+  background: linear-gradient(90deg, #02D8FE 0, #0188e3 50%, #0347D0 100%);/* W3C */
+}
+li {
+  list-style-type: none;
+}
+ul {
+  padding: 0;
+}
+tbody th {
+  border: none !important;
+}
+img {
+  max-width: 100% !important;
+}
+.footer {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: -moz-linear-gradient(90deg, #FDE583 0, #FDDC59 50%, #fcd748 100%);/* FF3.6+ */
+  background: -webkit-gradient(linear, 90deg, color-stop(0, FDE583), color-stop(50%, FDDC59), color-stop(100%, fcd748));/* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(90deg, #FDE583 0, #FDDC59 50%, #fcd748 100%);/* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(90deg, #FDE583 0, #FDDC59 50%, #fcd748 100%);/* Opera 11.10+ */
+  background: -ms-linear-gradient(90deg, #FDE583 0, #FDDC59 50%, #fcd748 100%);/* IE10+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1301FE', endColorstr='#F4F60C', GradientType='1'); /* for IE */
+  background: linear-gradient(90deg, #FDE583 0, #FDDC59 50%, #fcd748 100%);/* W3C */
+}
+.footer p {
+  margin-bottom: 0;
+}
+.font-48 {
+  font-size: 48px;
+  letter-spacing: 6px;
+  margin-bottom: 0;
+}
+.font-65 {
+  font-size: 65px;
+  letter-spacing: 6px;
+  margin-bottom: 0;
+}
+.font-20{
+  font-size: 20px!important;
+}
+.font-24{
+  font-size: 24px!important;
+}
+.font-30 {
+  font-size: 30px;
+}
+.font-34{
+  font-size: 34px;
+}
+.font-32{
+  font-size: 32px;
+}
+.margin-right-10 {
+  margin-right: 10px;
+}
+.margin-right-20 {
+  margin-right: 20px;
+}
+.margin-right-25 {
+  margin-right: 25px;
+}
+.margin-right-30 {
+  margin-right: 30px;
+}
+.margin-left-20 {
+  margin-left: 20px;
+}
+.margin-left-25 {
+  margin-left: 25px;
+}
+.margin-left-30 {
+  margin-left: 30px;
+}
+.margin-bottom-20{
+  margin-bottom: 20px !important;
+}
+.margin-bottom-15{
+  margin-bottom: 15px !important;
+}
+.text-bold{
+  font-weight: bold;
+}
+/*--------Style DIV load---------*/
+.header-logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.header-logo-info{
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  font-size: 40px;
+  text-shadow: 1px 1px 1px #000;
+  padding: 0;
+  text-transform: uppercase;
+  line-height: 1;
+}
+.time_update {
+  display: inline-block;
+}
+.note-text {
+  display: inline-block;
+}
+.table-currency {
+  text-align: center;
+  margin-bottom: 0 !important;
+  min-height: 60px;
+}
+.table-currency thead tr {
+  text-align: center !important;
+  color: #fff;
+}
+.table-currency thead tr th {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center !important;
+  vertical-align: middle;
+  border-bottom: none;
+  color: #fff !important;
+  font-family: "MyriadProBold",sans-serif;
+}
+#other-rates-slider .table-currency thead tr th{
+  padding: 0px;
+}
+.best-rates{
+  font-size: 30px;
+  text-shadow: 1px 1px 1px #222;
+  padding-top: 8px;
+}
+.table-currency tbody tr td.displayColCountry,
+.table-currency thead tr .country {
+  text-align: left !important;
+  padding-left: 3%;
+}
+.table-currency .sell {
+  color: #fff !important;
+}
+.table-currency .buy {
+  color: #fff !important;
+}
+.table-currency .displayColCode {
+  color:#d5f573 !important;
+}
+.table-currency .displayColWeBuy{
+  color: #fff !important;
+}
+.table-currency .displayColWeSell{
+  color: #fff !important;
+}
+
+.table-currency tbody tr {
+  font-size: 46px;
+}
+.table-currency tbody tr td {
+  vertical-align: middle;
+  padding: 6px 2px;
+  border: none;
+  font-family: "MyriadProSemiBold",sans-serif;
+}
+.table-currency tbody tr td img {
+  margin: 0 auto;
+  max-width: 116px !important;
+}
+.main_table {
+  margin-bottom: 20px;
+}
+/*----End Style Div load---------*/
+.time-update-wrapper {
+  padding: 6px 15px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+.time-update-wrapper p{
+  margin-bottom: 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+.bottom-slogan {
+  padding:15px 5px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  font-size: 18px;
+}
+.bottom-slogan p{
+  margin-bottom: 0;
+  color: #000;
+}
+.note p{
+  text-shadow: 3px 3px 3px #000;
+  font-size: 26px;
+  text-align: center;
+}
+.note{
+  padding-bottom: 20px;
+}
+
+/*-------@media-----------*/
+@media screen and (min-width: 1200px) {
+  .table-currency th {
+    font-size: 46px;
+    font-weight: bold;
+  }
+  .main-container {
+    width: 1400px;
+    margin: 0 auto;
+  }
+}
+@media screen and (min-width: 320px) and  (max-width: 1198px) {
+  .table-currency th {
+    font-size: 42px !important;
+  }
+  .table-currency img {
+    width: 100% !important;
+    height: auto !important;
+    max-height: 100%;
+  }
+}
+/*----------------------*/

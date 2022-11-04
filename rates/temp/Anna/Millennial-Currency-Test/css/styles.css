@@ -1,0 +1,142 @@
+html, body {
+    height: 100%;
+}
+body{
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    color: #222;
+    background: #ffffff;
+}
+tbody th{
+    border: none !important;
+}
+img{
+    max-width: 100%;
+}
+/*--------Style DIV load---------*/
+.wrapper{
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -55px;
+    padding: 0 0 55px;
+}
+.content{
+    overflow: hidden;
+}
+.footer {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+    font-weight: bold;
+    font-size: 24px;
+    color: #ffffff;
+    background: #652d90;
+}
+.footer p{
+    margin-bottom: 0;
+}
+
+.logo-wrapper{
+    text-align: center;
+    padding: 15px 0 15px 0;
+}
+.logo-wrapper img{
+    height: 200px;
+}
+.time_update{
+    display: inline-block;
+}
+.note-text{
+    display: inline-block;
+}
+
+.table-currency{
+    text-align: center;
+    margin-bottom: 0 !important;
+    min-height: 185px;
+}
+.table-currency thead{
+    font-weight: bold;
+    color: #ffffff;
+    background: #652d90;
+}
+.table-currency thead tr{
+    padding: 20px 0 20px 0;
+    text-align: center !important;
+}
+.table-currency thead tr th{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center !important;
+    vertical-align: middle;
+    border-bottom: 1px solid #808080;
+}
+.table-currency tbody tr td.displayColCountry,
+.table-currency thead tr .country{
+    padding-left: 1%;
+}
+.table-currency tbody tr td{
+    border-bottom: 2px solid #808080;
+    border-left: 2px solid #808080;
+    vertical-align: middle;
+    padding: 5px;
+    color: #3E3E3E;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.table-currency tbody tr td img{
+    margin: 0 auto;
+    width: 130px;
+    height: 75px;
+}
+/*----End Style Div load---------*/
+/**slider*/
+.carousel-inner .item img {
+    margin: 0 auto;
+    width: 100%;
+    min-height: 920px;
+}
+.advertising{
+    background: #652d90;
+    color: #ffffff;
+    font-size: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center !important;
+    font-weight: bold;
+    border-bottom: 1px solid #808080;
+}
+
+.section-update{
+    padding-left: 10px;
+}
+.section-update h4{
+    margin-bottom: 3px;
+    margin-top: 6px;
+
+}
+.carousel-indicators li{
+    border: 1px solid #652d90 !important;
+}
+.carousel-indicators .active{
+    background-color: #652d90 !important;
+}
+
+/*-------@media-----------*/
+@media screen and (min-width: 1200px){
+    .table-currency th{
+        font-size: 30px;
+    }
+}
+@media screen and (min-width: 320px) and  (max-width: 1198px){
+    .table-currency th{
+        font-size: 26px !important;
+    }
+    .table-currency img{
+        width: 100% !important;
+        height: auto !important;
+        max-height: 100%;
+    }
+}
+/*----------------------*/

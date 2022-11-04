@@ -1,0 +1,156 @@
+@font-face {
+  font-family: 'Trebuchet Bold'; /* fonts name */
+  src: url('../fonts/trebucbd.ttf'); /* path to fonts */
+}
+@font-face {
+  font-family: 'Trebuchet'; /* fonts name */
+  src: url('../fonts/trebuc.ttf'); /* path to fonts */
+}
+html, body {
+  height: 100%;
+}
+body {
+  font-family: "Trebuchet Bold", sans-serif;
+  font-size: 16px;
+  color: #222;
+  min-height: 600px;
+  height: 100vh;
+}
+li {
+  list-style-type: none;
+}
+ul {
+  padding: 0;
+}
+tbody th {
+  border: none !important;
+}
+img {
+  max-width: 100% !important;
+}
+p {
+  margin-bottom: 0;
+}
+.table{
+  margin-bottom: 5px;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #4598c3;
+  color: #fff;
+}
+.footer p {
+  margin-bottom: 0;
+}
+.header-logo {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  text-transform: uppercase;
+  font-family: 'Trebuchet Bold', sans-serif;
+  color: #4b99c0;
+  font-size: 50px;
+  font-weight: bold;
+}
+.header-logo > div {
+  padding: 0 15px;
+}
+.logo img {
+  display: inline-block;
+  margin-right: 20px;
+  width: 200px;
+}
+.time_update {
+  display: inline-block;
+}
+.note-text {
+  display: inline-block;
+}
+table tr th,
+table tr td {
+  color: #fff;
+  text-align: center;
+  vertical-align: middle !important;
+}
+table tr td {
+  background-color: #4598c3;
+  padding: 4px 0 !important;
+}
+table tr td img {
+  width: 110px !important;
+}
+.table thead th {
+  border: none;
+  text-transform: uppercase !important;
+  font-size: 28px;
+}
+.table td {
+  border-top: 4px solid #fff;
+  font-size: 34px;
+}
+.table th {
+  border-top: none;
+}
+.code,
+.invsell,
+.sell,
+.flag {
+  background-color: #4fa0ca;
+}
+.invbuy,
+.country,
+.buy {
+  background-color: #59aad4;
+}
+.displayColWeSell,
+.displayColWeBuy,
+.displayColInvSell,
+.displayColINVBuy {
+  font-size: 20px;
+}
+tbody tr td:nth-child(even){
+  background: #59aad4;
+}
+tbody tr td:nth-child(odd){
+  background: #4fa0ca;
+}
+
+.img-wrapper{
+  background: url("../images/table_bg.jpg");
+  background-size: cover;
+  height: 565px;
+  display: flex;
+  color: #fff;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 52px;
+  font-weight: bold;
+}
+.img-wrapper p{
+  margin-bottom: 40px;
+}
+/*-------@media-----------*/
+@media screen and (min-width: 1200px) {
+  .table-currency th {
+    font-size: 40px;
+    font-weight: normal;
+  }
+  .main-container {
+    width: 1400px;
+    margin: 0 auto;
+  }
+}
+@media screen and (min-width: 320px) and  (max-width: 1198px) {
+  .table-currency th {
+    font-size: 34px !important;
+  }
+}
+/*----------------------*/

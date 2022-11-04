@@ -1,0 +1,171 @@
+/*-----------------*/
+/*----Base Styles----*/
+/*-----------------*/
+body {
+  font-size: 14px;
+  background-image:url("../images/Granville.jpg");
+  background-color: rgba(255,255,255,0.8);
+  background-size: cover;
+  position: relative;
+  background-blend-mode: color;
+}
+
+img {
+  max-width: 100% !important;
+}
+/*--------------------------*/
+/*-----------Header---------*/
+/*--------------------------*/
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  padding: 3vh 0 3vh 0;
+}
+.header h1{
+  color: #a43a2a;
+  font-size: 60px;
+  font-family: 'Lora', serif;
+  margin-left: 30px;
+}
+.header-logo {
+}
+.header-logo img {
+  margin: 0 auto;
+  width: 100px;
+}
+/*------------------------------------*/
+/*------Rate board table styles---*/
+/*------------------------------------*/
+.table {
+  margin-bottom: 0;
+}
+.table > thead > tr > th{
+  border-bottom: none;
+}
+.table-wrapper table thead tr {
+  background: #075304;
+  color: #F30439;
+}
+.table-wrapper table thead tr th {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  font-size: 26px;
+  text-align: center;
+  border-left: 1px solid #a43a2a;
+}
+.table-wrapper table thead tr th:first-of-type {
+  border-left: none;
+}
+.table-wrapper table#africa thead tr th,
+.table-wrapper table#europe thead tr th,
+.table-wrapper table#asia thead tr th,
+.table-wrapper table#north-america thead tr th,
+.table-wrapper table#south-america thead tr th {
+  padding: 0;
+}
+.table-wrapper table tr td {
+  font-size: 24px;
+  vertical-align: middle;
+  text-align: center;
+  border-top: none;
+  font-weight: 600;
+  padding: 6px 0;
+  color: #000;
+
+}
+.table-wrapper table tbody tr {
+  border-bottom: 1px solid #a43a2a;
+}
+.table-wrapper table tbody tr:last-of-type{
+  border-bottom: none;
+}
+.displayColFlag img {
+  margin: 0 auto;
+  width: 80px;
+  border: 1px solid #a43a2a;
+}
+.table-wrapper table tbody tr td.displayColCode{
+  font-weight: 600;
+}
+.position-relative {
+  position: relative;
+}
+.slider img{
+  margin: 0 auto;
+}
+.carousel-indicators .active {
+  background-color: #a43a2a;
+}
+.carousel-indicators {
+  bottom: -20px;
+  display: none;
+}
+.carousel-indicators li {
+  border: 1px solid #a43a2a;
+}
+.right.carousel-control,
+.left.carousel-control
+{
+  visibility:hidden;
+}
+/*----------------------*/
+/**------time update-----*/
+/*----------------------*/
+.time-update-wrapper {
+  padding: 1vh 15px 1vh 15px;
+  background: #075304;
+  font-size: 23px;
+  color: #F30439;
+  font-weight: bold;
+}
+.time-update-wrapper p{
+  margin: 0;
+}
+.time_update {
+  display: inline-block;
+}
+.note-text {
+  display: inline-block;
+}
+
+@media only screen and (max-width: 768px) {
+  .cur{
+    display: none;
+  }
+  .displayColCurrency{
+    display: none;
+  }
+  .header{
+    text-align: center;
+  }
+  .header h1{
+    font-size: 40px;
+  }
+}
+@media only screen and (max-width: 575px) {
+  .country{
+    display: none;
+  }
+  .displayColCountry{
+    display: none;
+  }
+  .time-update-wrapper{
+    font-size: 16px;
+    text-align: center;
+  }
+  .header h1{
+    font-size: 36px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .table-wrapper table thead tr th{
+    font-size: 24px;
+  }
+  .table-wrapper table tr td{
+    font-size: 22px;
+  }
+  .header h1{
+    font-size: 30px;
+  }
+}

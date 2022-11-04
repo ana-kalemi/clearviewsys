@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/css" href="currency_table_widget.css"?>
+<CATALOG>
+    <TIMESTAMP>Rates updated on 2018-03-14 at 15:10:57</TIMESTAMP>
+    <RATE>
+        <ISFLAGGED>**</ISFLAGGED>
+        <FLAGURL>flags/AED.JPG</FLAGURL>
+        <ISO>AED</ISO>
+        <NAME>Dirhams</NAME>
+        <COUNTRY>United Arab Emirates</COUNTRY>
+        <WEBUY>0.2438</WEBUY>
+        <WESELL>0.2709</WESELL>
+        <INVBUY>4.1016</INVBUY>
+        <INVSELL>3.6914</INVSELL>
+    </RATE>
+    <RATE>
+        <ISFLAGGED>**</ISFLAGGED>
+        <FLAGURL>flags/AUD.JPG</FLAGURL>
+        <ISO>AUD</ISO>
+        <NAME>Dollars</NAME>
+        <COUNTRY>Australia</COUNTRY>
+        <WEBUY>0.7216</WEBUY>
+        <WESELL>0.774</WESELL>
+        <INVBUY>1.3858</INVBUY>
+        <INVSELL>1.292</INVSELL>
+    </RATE>
+    <RATE>
+        <ISFLAGGED>**</ISFLAGGED>
+        <FLAGURL>flags/EUR.JPG</FLAGURL>
+        <ISO>EUR</ISO>
+        <NAME>Euro</NAME>
+        <COUNTRY>Euro Member Countries</COUNTRY>
+        <WEBUY>1.1532</WEBUY>
+        <WESELL>1.1884</WESELL>
+        <INVBUY>0.8671</INVBUY>
+        <INVSELL>0.8415</INVSELL>
+    </RATE>
+    <RATE>
+        <ISFLAGGED>**</ISFLAGGED>
+        <FLAGURL>flags/GBP.JPG</FLAGURL>
+        <ISO>GBP</ISO>
+        <NAME>Pounds</NAME>
+        <COUNTRY>United Kingdom</COUNTRY>
+        <WEBUY>1.2829</WEBUY>
+        <WESELL>1.3623</WESELL>
+        <INVBUY>0.7795</INVBUY>
+        <INVSELL>0.7341</INVSELL>
+    </RATE>
+    <RATE>
+        <ISFLAGGED>**</ISFLAGGED>
+        <FLAGURL>flags/INR.JPG</FLAGURL>
+        <ISO>INR</ISO>
+        <NAME>Rupees</NAME>
+        <COUNTRY>India</COUNTRY>
+        <WEBUY>0</WEBUY>
+        <WESELL>0.01754</WESELL>
+        <INVBUY>0</INVBUY>
+        <INVSELL>56.9995</INVSELL>
+    </RATE>
+    <RATE>
+        <ISFLAGGED>**</ISFLAGGED>
+        <FLAGURL>flags/USD.JPG</FLAGURL>
+        <ISO>USD</ISO>
+        <NAME>Dollars</NAME>
+        <COUNTRY>United States of America</COUNTRY>
+        <WEBUY>0.9239</WEBUY>
+        <WESELL>0.9713</WESELL>
+        <INVBUY>1.0824</INVBUY>
+        <INVSELL>1.0296</INVSELL>
+    </RATE>
+</CATALOG>

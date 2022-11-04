@@ -1,0 +1,240 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>CurrencyXchanger Release Notes</title>
+<style type="text/css">
+body,td,th {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	color: #404040;
+}
+body {
+	background-color: #EFEFEF;
+}
+h1 {
+	color: #1192AF;
+}
+h2 {
+	color: #073E4A;
+}
+</style>
+</head>
+
+<body>
+  <h1>CurrencyXchanger Version Release Notes</h1>
+<h2>4.360 Beta</h2>
+<ul>
+  <li> Added a new column 'market value' to the 'consolidated cash' windows</li>
+  <li>reorganized the consolidated cash columns - as per Alex recommendation</li>
+  <li>added a new column (Remarks) in consolidated cash window as per Alex Ivandic recommendations</li>
+  <li> changed the colour of the balance and market value column in sub-ledger and consolidate cash for better visual distinction </li>
+  <li>Added a version release notes menu accessible from the File menu </li>
+  <li>Added a button in booking to pick a Wire Template </li>
+  <li>There is a new server preferences for remembering windows position (by default the system won't remember window positions anymore)</li>
+</ul>
+  <hr>
+<h2>4.350
+  Beta</h2> 
+<ul>
+  <li> added Clickatel SMS Messaging option in the Server Preferences - needs testing</li>
+<li> SMS protocol via Clickatell SMTP protocol works - tested</li>
+<li> Bookings can now accept Account ID for simpler transaction handling when picking a booking</li>
+<li> The booking value date will change the value date of the invoice</li>
+<li> added 'base currency' to the registers. Allowing for future multi-national synching and reporting</li>
+<li> indexed the 'cancelled' field on registers for faster searching</li>
+<li> made the booking module, book positive and negative amounts showing the Open Currency Positions balance if filtered by currency</li>
+<li> bookings can now be filtered by currency and user. The font is larger and inverse rate has been added as a new column </li>
+</ul>
+
+  <hr>
+<h2>4.330 Beta</h2> 
+<ul>
+
+<li> Added Email Confirmation for Bookings</li>
+<li> Added Value Date for Bookings</li>
+<li> Added Email Header and Signature to System Preferences</li>
+<li> Can now add a &lt;CUSTOMER&gt; tag and some other predefined tags in the email signature or header to be replaced by customer full for mail merge</li>
+<li> Booking printing is POS ready</li>
+<li> Added Booking Disclaimer to the System Preferences</li>
+<li> Separated the Email Settings in a separate tab in the System Preferences dialog </li>
+<li> new menu for printing currency P&amp;L statement omitting certain accounts from the P&amp;L report
+
+<li> added roles column to users listbox</li>
+<li> further checks implemented to prevent the modification of invoices that belong to someone else </li>
+<li> lots of improvement on the tellerproof module: progress bar indicator; etc...</li>
+<li> added a new disclaimer tab to server preferences</li>
+<li> the hmReport license can now be registered in the Server Preferences</li>
+<li> changed the user authentication page a bit</li>
+<li> enlarged the FTP fields in the server prefs page</li>
+<li> indices are lost</li>
+<li> increased the email lenght for administrator in the server preferences</li>
+<li> created new methods for recreating all lost indexes programatically</li>
+<li> created a new method for exporting all indexes programmatically</li>
+
+  </ul>
+<hr>
+<h2>4.300 Beta</h2> 
+<ul>
+
+<li> currency picker is now using listbox object for better and faster experience, flags are included as well</li>
+<li> the currency picker won't pick 'trade-only' currencies anymore</li>
+<li> can now make a currency 'non-tradeable' even if there are accounts linked to it. </li>
+<li> added a new privilege for users: Allow Adjustements of Accounts</li>
+<li> The invoice module now hides the buttons that are irrelevant to the users that don't have the privilege</li>
+<li> high risk and sanctioned countries will pop up a warning: the risk level must be set by the users from the 'Countries' module</li>
+<li> the invoice due diligence page has a new field for &quot;Purpose of Transaction&quot;; it also has a relationship to third-party field</li>
+<li> there is a new source/destination country for SOF (or DOF) in case funds are being transferred overseas. </li>
+<li> minor estetical changes to the invoice page</li>
+<li> The Sync Preferences can now accept exceptions for certain table synching direction for a particular site. This</li>
+  <li> ...will enable very advanced setup for sync </li>
+<li> added the ability to select whether we use direct rate or inverse rate in the invoice and lock one or the other. </li>
+<li> saving  the HTML docs now automatically names the files with .html extension (including on the Mac)</li>
+<li> fixed a bug in the reconciliation module where the &quot;Cancel&quot; button would not cancel the transaction and the user </li>
+<li> ... would think that the system actually saved the transactions. bug reported by Naitik </li>
+<li> the 'apply changes' button doesn't appear on a new invoice page, in case during a transaction the registers get saved by mistake</li>
+<li> added a new rold to user privileges: Controller </li>
+<li> controller can do cash control and teller proof checks for other users, just like amangers can</li>
+<li> managers can not do the cash control anymore, unless they are the controllers too (separation of duties)</li>
+<li> updated the users view to use the new listbox</li>
+  <li> added 'group' to user privileges; this is only to group them but not for making them follow a group (not yet)
+<li> added a new blue list for accounts allowing only a certain group to access it</li>
+<li> added a new red list to accounts preventing a certain group to access it</li>
+<li> the account pull down menu from the invoice now sorts the accounts by name (instead of main account, then name) </li>
+  </ul>
+<hr>
+<h2>4.200</h2> 
+<ul>
+
+<li> created an upsell and downsell buttons that work based on denominations</li>
+<li> created a button for cancelling invoices and registers</li>
+<li> a new filter in the registers and invoices for finding cancelled invoices/registers</li>
+<li> created a new user privilege for updating the rates. Users need permission to update all rates</li>
+<li> the replicate account when holding shift key has a dialog box. </li>
+<li> accounts are not unique anymore</li>
+<li> added a field for minimum order quantity in accounts (for banks and cash)</li>
+<li> added a new column in the sub-ledger for 'reorder in' showing how close we are to reorder quantity</li>
+<li> fixed a bug in the invoice entry; when the buy or sell wasn't selected entering an amount with addrow would pick the sell rate</li>
+<li> added index to invoice isLCT, isReportable, isReported, isEFT</li>
+<li> customer search form has 'group' for searching customers in the same group</li>
+<li> the audit trail search box can now search by action trigger</li>
+
+
+</ul>
+<hr>
+<h2>4.130</h2> 
+<ul>
+  <li> fixed the adjustment window</li>
+<li> Added the number of rounding digits limit from 12 to 20</li>
+<li> the 24hour rule was amended to check and ignore the same invoice and only look for past invoice but including today</li>
+<li> modified the rounding digits and calculations in the invoice.</li>
+<li> fixed a bug in the rule-based fee structure that was introduced in version 4.120</li>
+
+
+</ul>
+<hr>
+<h2>4.120</h2> 
+<ul>
+<li> fixed printing the phone number on receipts</li>
+<li> increased the size of the email field</li>
+<li> deleted the customer ID on one of the thermal receipts (didn't have enough space)</li>
+<li> added unrealized gain to the Z-Report</li>
+<li> invoice entry has a new fresh look</li>
+<li> the Rule-based fee structure can now accept Customer Groups (instead of a more limiting Customer ID)</li>
+<li> allowing very sophisticated rule-based fee structures</li>
+<li> IMPORTANT NOTICE: rule based fee structures that had conditions with customerID will not work from this version on</li>
+<li> a bug was introduced in the system for 24 hours rules checks were the 24 hours rule would pop on every transaction</li>
+  <li> bug reported by Alex: 
+
+<li> fixed a bug in the cities where multiple cities with the same name couldn't be added</li>
+
+</ul>
+<hr>
+<h2>4.100
+</h2> 
+<ul>
+<li> the fee structure is updated to include tiered rates</li>
+<li> Z-report has been amended to print all accounts or active accounts only; with date range</li>
+<li> added the option of setting the default to either buy or sell when the invoice opens</li>
+<li> the buy and sell currencies can now be different (as opposed to always defaulting to the buy currency)</li>
+  <li> for backward compatibility, the server preferences needs to be changed to buy (after this upgrade)
+&nbsp;
+</ul>
+<hr>
+<h2>4.080 </h2> 
+<ul>
+<li> bug fix: modified the xCheckCustomerDuringInvoice method to update the last check date of a customer during invoice </li>
+<li> bug fix: checking customer during invoicing does not bring the progress bar anymore as it was causing the invoice to lose focus: </li>
+<li> the edit rate page has now copy/paste functionality</li>
+<li> added a feature to X-Report to print all accounts or active accounts only</li>
+  <li> added two columns for transfer in and outs
+
+<li> can now restore a selection of deleted records from the audit trail</li>
+<li> when printing quick-till report, it now asks whether you want to print to thermal automatically or not</li>
+<li> added index on Sync_Queue sendAttempts to increase the speed of search on the table. </li>
+</ul>
+<hr>
+<h2>4.070
+</h2> 
+<ul>
+<li> hold shift when pressing duplicate (in accounts) will create all currency accountrs </li>
+  <li> fixed: audit trail date and register ID: is now indexed for fast searching
+
+<li> fixed: wire template arrow keys during entry used to change the record, instead of going to the end of line</li>
+<li> increased the size of the printable remark from 80 to 100 by globex request  </li>
+<li> Expired Date is not mandatory - Generates an exception report  </li>
+<li> now the picture ID is saved in the record (once again). 4D has a bug that can't keep the picture IDs outside a datafile during a transaction</li>
+
+
+</ul>
+<hr>
+<h2>4.060</h2> 
+<ul>
+
+<li> fixed indedexes on wire templates</li>
+<li> added indexes to casninouts cashAccountID</li>
+  <li> added indexes to itemsinout accountID
+
+<li> fixed the indexes on bookings that appeared in version 4.055 (indexes were dropped on Bookings ID and [Bookings]CustomerID</li>
+<li> fixed the audit trail view form Invoice ID button that opens the related invoice</li>
+<li> another attempt to fix the Sweden controlbox bug in server mode. </li>
+<li> attempt to fix a problem with the controlbox in server mode.</li>
+<li> attmept to fix the 'review button' not clickable in the pickCustomer form</li>
+<li> fixed: the customer view page didn't display the picture ID number</li>
+<li> attempt to fix the bug related to Administrators and Designers not being able to touch modules when privileges record are deleted</li>
+<li> fixed a bug in the display of progress bar for the sync validation</li>
+<li> saving a new invoice will now save as part of the invice whether the customer is a company or not (for new picked customers only)</li>
+<li> can now recreate missing customers using invoice information, so if a customer is missing in the system we can recreate it using the invoices</li>
+<li> created  method for recreating missing customers from invoice; recreateCustomersFromInvoices</li>
+  <li> created method for recreating missing accounts from Registers; recreateAccountsFromRegisters
+
+<li>added progress to sync validation</li>
+  <li> added default view for sync_queue
+&nbsp;  
+<li> added a feature to allow apply to selection using the 4D formula editor when holding shift and pressing EDIT on the toolbar</li>
+<li> showing data range in exception log bug is fixed </li>
+<li> fixed the cash disbursement amount</li>
+<li> added the machine alias in the receipt instead of the machine name</li>
+  <li> the creation date and time will be printed on the invoice and sent to the control box
+<li> some fixes with printing copy of invoice</li>
+<li> fixed a couple of issues with Control box and Skatteverket compliance</li>
+<li> added a new print form for narrow 6cm wide POS Thermal printers</li>
+</ul>
+<hr>
+<h2>4.042</h2> 
+<ul>
+<li> changes by Barclay to save some of the fields outside the database</li>
+  <li> including the picture ID, secondary ID, and the sync_Q blob to reduce</li>
+<li> the size of the database</li>
+<li> new search for customers that were active in the past 3,6,9,months</li>
+<li> customer profile review is now based on the risk profile- higher risk customers</li>
+<li> have a 1/3 review period; medium risk are half review period; low risk </li>
+<li> find duplicate customers can now work based on a selection</li>
+<li> deleting a line from the invoice would cause the user to be lost</li>
+<li> the new vesion has fixed that bug.</li>
+<li> Created a new module for Picture ID Types (fully synchronizable)</li>
+<li> added a code for skatteverket printing</li>
+</ul>
+
+</body>
+</html>

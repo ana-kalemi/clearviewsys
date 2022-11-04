@@ -1,0 +1,1772 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.2",
+    "versionPublish": "2.2"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "analytics": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "18px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": "{PROJECT_IMAGES}clear-view-systems-cvs-logo350x350-199.png",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Clear View Systems Ltd.</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Products</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Support</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Blogs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Contact</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "font-size": "23px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "H1": {
+              "font-size": "48px !important",
+              "font-family": "'Roboto', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "14px"
+            },
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "header2-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "{PROJECT_IMAGES}depositphotos-3074434-xl3913x2514-1752000x1285-172.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#28324e",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "<span style=\"font-weight: normal;\">CurrencyXchanger</span>",
+          "text": "Professional Currency Exchange Software<br><br>Desktop Platform for your Money Exchange Business<br>Windows | Mac | Cloud Sync<br>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" data-toolbar=\"-mbrBtnMove\">WATCH A DEMO</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "msg-box4",
+          "_styles": {
+            "H2": {
+              "color": "#28324e",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "P": {
+              "color": "#28324e",
+              "font-size": "19px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "msg-box4-27",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}featured-in-strip1175x130-131.png",
+            "bgColor": "#f2f2f2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "image": "{PROJECT_IMAGES}clear-view-systems-cvs-logo350x350-116.png",
+          "title": "<span style=\"font-weight: normal;\">Who are we?</span>",
+          "text": "<p>We are Clear View Systems, a small Canadian software development company based in Vancouver. We have developed one of the best Money Exchange Software for small to medium Money Exchange Businesses (Bureau De Change). But don't take our word for it. Do your research online and you will be glad you visited our site.&nbsp;</p><p>&nbsp;</p><p>Our flagship product CurrencyXchanger (CXR) is an affordable Currency Exchanger Software used by over 300 money exchangers in 30 countries. We have some of the best user reviews of any software in the same category.&nbsp;</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "H2": {
+              "font-family": "'Titillium Web', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "BLOCKQUOTE": {
+              "font-size": "20px !important"
+            }
+          },
+          "_anchor": "content1-7",
+          "text": "<h2><span style=\"line-height: 1.3em;\">Made for every Money Service Business (MSB)</span><br></h2><p>Whether you own a small shop or run a multi-branch Money Exchange business, CurrencyXchanger &nbsp;can fully automate your daily operation from start to finish. In fact we guarantee that you will see a boost in your operation only one month after you start using CXR.&nbsp;</p><blockquote><p>\"This is the best and most professional software I've come across compared to my previous 4 software for the last 18 years.\" Alan Lau</p></blockquote>"
+        },
+        {
+          "_name": "msg-box4",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box4-21",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}istock-000014305657medium1701x1129-175.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#093d4d",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "image": "{PROJECT_IMAGES}depositphotos-65651801-m1732x1155-198.jpg",
+          "title": "<span style=\"font-weight: normal;\">Who uses CurrencyXchanger?</span>",
+          "text": "<p>• Money Services Business (MSB) a.k.a. Bureau de Change (BDC)</p><p>• Hotels, Motels, Casinos, Cruise Ships, Tourist Resorts</p><p>• Financial Institutions (banks, credit unions, etc)</p><p>• Forex Dealers and Currency Wholesalers</p><p>• Travel Agencies</p><p>• Import/Export companies</p><p>• Precious metal dealers and wholesalers</p><p>• International Airports</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "24px"
+            },
+            "SPAN": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "msg-box4-28",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "image": "{PROJECT_IMAGES}cxr-pos-3d-rendered1128x1248-200.png",
+          "title": "CXR POS Edition",
+          "text": "<p>If you have a small kiosk or store that offers cash-based foreign currency exchanger to your customers then CurrencyXchanger POS Edition is the perfect match for your business. </p><p><br></p><p>This edition is better suited for currency exchange outlets in airports, travel agencies, hotels, motels, in-store exchange outlets, and other businesses that offer currency exchange services to their customer and accept cash and travellers checks as the only form of payment.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "msg-box4",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "P": {
+              "color": "#475577",
+              "font-size": "18px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box4-29",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "image": "{PROJECT_IMAGES}cxr-be-3d-rendered-11338x1116-179.png",
+          "title": "CXR Business Edition",
+          "text": "<p>CurrencyXchanger BE is the perfect fit for Money Exchange Businesses that would like to extend their business to offer all methods of payments.</p><p> </p><p><br></p><p>If you own a multi-function currency exchange store offering a variety of services such as cheque cashing, bill payments, wholesale, bookings, deliveries, and future contracts, then CurrencyXchanger Business Edition will be the ideal choice for your business.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "msg-box4",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "P": {
+              "color": "#475577",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
+            },
+            "SPAN": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "msg-box4-30",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "image": "{PROJECT_IMAGES}cxr-pro-4-rendered-11194x1182-188.png",
+          "title": "CXR&nbsp;Pro Edition",
+          "text": "<p>CurrencyXchanger Pro (CXR-Pro) offers all the features of the Business Edition plus some specific online remittance functionality. CXR-Pro is made for foreign exchange businesses who offer Money Remittance service through their own network of international remittance agents. </p><p><br></p><p>The eWire module allows agents to send and retrieve money transfer in form of an electronic payment order (eWire). This funtionality makes it possible for agents to track their payments.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "msg-box4",
+          "_styles": {
+            "H2": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            "DIV": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "msg-box4-26",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}depositphotos-11227302-l-20152000x1808-1292000x1808-177.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "image": "{PROJECT_IMAGES}digital-rate-board-integration-currencyxchanger1228x934-163.jpg",
+          "title": "Digital Currency Rate Board",
+          "text": "<span style=\"font-size: 17px; line-height: 27px;\">A digital currency rate board/panel is used to display foreign exchange rates an LCD or LED monitor. These boards can also be used to display flight price information, interest rates and lottery results.</span><div><span style=\"font-size: 17px; line-height: 27px;\"><br></span></div><div><span style=\"font-size: 17px; line-height: 27px;\">The Digital Currency Rate board is a piece of software developed using Javascript, CSS and HTML 5 allowing maximum flexibility and easy customization. We can customize the basic look and feel (colours, fonts, placing your logo) for you.&nbsp;</span></div><div><span style=\"font-size: 17px; line-height: 27px;\"><br></span></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.clearviewsys.com/Digital-Currency-Rate-Board.html\" data-toolbar=\"-mbrBtnMove\">LIVE SAMPLES</a>"
+        },
+        {
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-43",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "image": "{PROJECT_IMAGES}marija-lujic339x333-147.jpg",
+          "title": "1 888 390 0840",
+          "text": "<p>Did you know that we have 24/7 call center in North America? They will happily take your call or your message anytime and direct it to the right person in the company. &nbsp;</p><p><br></p><p>Our friendly support team is always happy to help customers. This is Marija from our tech support team (on the left) and she speaks English, French, Swedish, and Serbian. She is new but she is learning fast.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.clearviewsys.com/contactus.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
+          "_styles": {
+            "H2": {
+              "color": "#475577"
+            },
+            "P": {
+              "color": "#475577"
+            }
+          }
+        },
+        {
+          "image": "{PROJECT_IMAGES}iphone.png",
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px !important"
+            },
+            "H2": {
+              "font-family": "'Titillium Web', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-10",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "{PROJECT_IMAGES}depositphotos-4662016-m-20151000x562-133.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/jyb3akH_pLI?rel=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#2c82c9",
+            "inverse": true,
+            "video": {
+              "url": "https://www.youtube.com/embed/iku9cJkatLM?rel=0&autoplay=0&loop=0",
+              "loop": false,
+              "autoplay": false,
+              "width": 1280,
+              "height": 720
+            },
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "100 Video Tutorials",
+          "text": "<p>We are the only company that offers over 100 video tutorials with our Currency Exchange Software for free. Every tutorial is available on our youtube channel. You can almost google/bing any question about CurrencyXchanger and you will probably be directed to a tutorial. For example, try googling \"How to export data to excel from CurrencyXchanger?\"</p><br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://youtube.com/clearviewsystemsltd/\" data-toolbar=\"-mbrBtnMove\">Video Tutorials</a>"
+        },
+        {
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-22",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/jyb3akH_pLI?rel=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "firstType": "green",
+            "secondType": "orange",
+            "thirdType": "favorite",
+            "fourthType": "blue"
+          },
+          "title1": "Startup Edition",
+          "currency1": "$",
+          "price1": "49",
+          "period1": "per month",
+          "list1": "<ul><li>5 Currencies</li><li>10 Accounts</li><li>Cash to Cash Only</li><li>No CRM</li><li><span style=\"line-height: 1.42857143;\">+Upgrades</span></li><li><span style=\"line-height: 1.42857143;\">Support <b>2hrs/month</b></span></li><li><br></li><li><br></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">&nbsp;STARTUP Features</a>",
+          "title2": "POS Edition",
+          "currency2": "$",
+          "price2": "119",
+          "period2": "per month",
+          "list2": "<ul><li>100 Currencies</li><li>150 Accounts</li><li>Cash/Cards Only</li><li>+CRM</li><li>+Upgrades</li><li>+Sanction Lists</li><li>+Automatic Rates</li><li>Support <b>4hrs/month</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">POS Features</a>",
+          "title3": "Business (Most Popular)",
+          "currency3": "$",
+          "price3": "229",
+          "period3": "per month",
+          "list3": "<ul><li>All World Currencies</li><li>Unlimited Accounts</li><li>All forms of payment</li><li>+CRM</li><li><span style=\"line-height: 1.42857143;\">+Upgrades</span></li><li><span style=\"line-height: 1.42857143;\">+Sanction Lists</span></li><li><span style=\"line-height: 1.42857143;\">+Automatic Rates</span></li><li><span style=\"line-height: 1.42857143;\">Support <b>6hrs/month</b></span><br></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BE Features</a>",
+          "title4": "Pro Edition",
+          "currency4": "$",
+          "price4": "339",
+          "period4": "per month",
+          "list4": "<ul><li><span style=\"line-height: 1.42857143;\">All World Currencies</span></li><li><span style=\"line-height: 1.42857143;\">Unlimited Accounts</span></li><li><span style=\"line-height: 1.42857143;\">All forms of payment</span></li><li>Cloud Synchronization</li><li><span style=\"line-height: 1.42857143;\">+CRM</span></li><li><span style=\"line-height: 1.42857143;\">+Upgrades</span></li><li><span style=\"line-height: 1.42857143;\">+Sanction Lists</span></li><li>+Automatic Rates</li><li>Support <b>8hrs/month</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">PRO Features</a>"
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-24",
+          "title": "Screenshots from CurrencyXchanger",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "The following slideshow shows some of the major modules of the system."
+        },
+        {
+          "_inherit": "slider",
+          "_name": "slider2",
+          "_params": {
+            "autoplay": true,
+            "slides": [
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-117.jpg",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-161.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-122.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-113.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-149.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-161.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-108.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-181.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-167.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-147.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-183.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-130.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-178.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_anchor": "slider2-23",
+          "articleLayout": true
+        },
+        {
+          "_styles": {
+            ".caption h3": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#fff"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-21",
+          "_params": {
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "{PROJECT_IMAGES}featured-in-strip1650x250-137.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#28324e",
+            "showTitle": false,
+            "showCaption": false
+          },
+          "title": "EASY TO USE!",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Reporting is very important to me and I wanted the flexibility to design my own reports. The report features of CurrencyXchanger were one of the biggest reasons why I changed, as I could see the flexibility the system provided to custom generate reports. The old system I used had a ‘set’ of reports and these were not always in line with what I needed. The price – at this point I would have paid anything as I was so frustrated by the old system, but your price is extremely reasonable.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">That initial support was crucial to being able to swap over with little interruption to my business. This was one of the main selling points for me, that I would have the assistance I needed in the early days to be able to learn how to use the system. Most of all, I know that if I need the system to do something there is a possibility for customization.\"</p>",
+              "authorName": "Cassy Pearson",
+              "authorBio": "Managing Director, Exchange Now, Australia"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"After trying around 5 different Currency Exchange Software, we decided to go for Currency Xchanger. To our surprise, it was the best and the most capable software in this Category. Its absolutely lucid in terms of Customization. Every aspect of Retail Foreign Exchange Business is addressed. Different modules like Expenses, Banking, Customization of Customer Profiles, In built Money Laundering Checks, Bookings for Wire Transfers are the best features of the Software. Its very robust and capable Software. There are no other software available in the market which has all these features. If you are running a Foreign Exchange Business this is a absolutely must have software.&nbsp;</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Technical Support and Customer Service- Absolutely 10 out 10 marks on this. Even though on different Continent and different Time Zone, the response time is very swift. Responded to every query. Addressed all the issues and helped a lot in building required reporting system.\"</p>",
+              "authorName": "N. Makne",
+              "authorBio": "Director, Travel Money Shop, UK"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            }
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section__header": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#4c6972"
+            },
+            ".mbr-reviews__author-bio": {
+              "color": "#484f5a"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px !important",
+              "color": "#4c6972 !important"
+            },
+            ".mbr-reviews__text P": {
+              "font-size": "18px"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Reporting is very important to me and I wanted the flexibility to design my own reports. The report features of CurrencyXchanger were one of the biggest reasons why I changed, as I could see the flexibility the system provided to custom generate reports. The old system I used had a ‘set’ of reports and these were not always in line with what I needed. The price – at this point I would have paid anything as I was so frustrated by the old system, but your price is extremely reasonable.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">That initial support was crucial to being able to swap over with little interruption to my business. This was one of the main selling points for me, that I would have the assistance I needed in the early days to be able to learn how to use the system. Most of all, I know that if I need the system to do something there is a possibility for customization.\"</p>",
+              "authorName": "Cassy Pearson",
+              "authorBio": "Managing Director, Exchange Now, Australia"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"After trying around 5 different Currency Exchange Software, we decided to go for Currency Xchanger. To our surprise, it was the best and the most capable software in this Category. Its absolutely lucid in terms of Customization. Every aspect of Retail Foreign Exchange Business is addressed. Different modules like Expenses, Banking, Customization of Customer Profiles, In built Money Laundering Checks, Bookings for Wire Transfers are the best features of the Software. Its very robust and capable Software. There are no other software available in the market which has all these features. If you are running a Foreign Exchange Business this is a absolutely must have software.&nbsp;</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Technical Support and Customer Service- Absolutely 10 out 10 marks on this. Even though on different Continent and different Time Zone, the response time is very swift. Responded to every query. Addressed all the issues and helped a lot in building required reporting system.\"</p>",
+              "authorName": "N. Makne",
+              "authorBio": "Director, Travel Money Shop, UK"
+            }
+          ],
+          "_anchor": "testimonials1-5",
+          "_params": {
+            "count": "2",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "What do our customers say?"
+        },
+        {
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "32px",
+              "color": "#101010"
+            }
+          },
+          "_anchor": "form1-8",
+          "_params": {
+            "formoidUserID": "support@clearviewsys.com",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#27aae0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showName": true,
+            "showEmail": true,
+            "showPhone": true
+          },
+          "title": "Demo Request Form<br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">BOOK DEMO</a>"
+        },
+        {
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "social-buttons2-15",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Our social channels",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/currencyxchnger\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-google\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>     <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a>"
+        },
+        {
+          "_name": "contacts1",
+          "_anchor": "contacts1-22",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": "{PROJECT_IMAGES}clear-view-systems-cvs-logo350x350-149.png",
+          "text1": "ADDRESS<br>1113-2012 Fullerton Ave. <br>North Vancouver, V7P 3E3<br>CANADA<br><br>Incorporated on April 17, 2003 <br>Incorporation# 668173<br>British Columbia, Canada. <br><br>Rating: A+ Better Business Bureau<br><br>",
+          "text2": "CONTACTS<br>North America:  1 (888) 390 0840<br>International:   +1 (519) 971 5149<br>Fax: 1 (866) 416 3169<br>support@clearviewsys.com<br><br>Our call center is open 24/7<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><b>Clear View Systems Ltd.</b></p><p class=\"mbr-contacts__text\"><b><br></b></p><p class=\"mbr-contacts__text\"><b>Empowering the Currency Exchange Industry since 2003</b></p><p class=\"mbr-contacts__text\"><b><br></b></p><p class=\"mbr-contacts__text\"><b>300+ Customers in 30 Countries</b></p>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff !important",
+              "font-size": "14px !important"
+            }
+          },
+          "_anchor": "footer1-19",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000"
+          },
+          "text": "Copyright (c) 2003- 2015 Clear View Systems Ltd., BC, Canada"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "analytics": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "18px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-21",
+          "_params": {
+            "color": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": "{PROJECT_IMAGES}clear-view-systems-cvs-logo350x350-199.png",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Clear View Systems Ltd.</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Products</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Support</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Blogs</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">Contact</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_name": "header2",
+          "_styles": {
+            "P": {
+              "font-size": "23px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "H1": {
+              "font-size": "48px !important",
+              "font-family": "'Roboto', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-size": "14px"
+            },
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "header2-22",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "{PROJECT_IMAGES}depositphotos-3074434-xl3913x2514-1752000x1285-172.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#28324e",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "<span style=\"font-weight: normal;\">CurrencyXchanger</span>",
+          "text": "Professional Currency Exchange Software<br><br>Desktop Platform for your Money Exchange Business<br>Windows | Mac | Cloud Sync<br>",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" data-toolbar=\"-mbrBtnMove\">WATCH A DEMO</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "msg-box4",
+          "_styles": {
+            "H2": {
+              "color": "#28324e",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "P": {
+              "color": "#28324e",
+              "font-size": "19px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "msg-box4-23",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}featured-in-strip1175x130-131.png",
+            "bgColor": "#f2f2f2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "image": "{PROJECT_IMAGES}clear-view-systems-cvs-logo350x350-116.png",
+          "title": "<span style=\"font-weight: normal;\">Who are we?</span>",
+          "text": "<p>We are Clear View Systems, a small Canadian software development company based in Vancouver. We have developed one of the best Money Exchange Software for small to medium Money Exchange Businesses (Bureau De Change). But don't take our word for it. Do your research online and you will be glad you visited our site.&nbsp;</p><p>&nbsp;</p><p>Our flagship product CurrencyXchanger (CXR) is an affordable Currency Exchanger Software used by over 300 money exchangers in 30 countries. We have some of the best user reviews of any software in the same category.&nbsp;</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "H2": {
+              "font-family": "'Titillium Web', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "BLOCKQUOTE": {
+              "font-size": "20px !important"
+            }
+          },
+          "_anchor": "content1-24",
+          "text": "<h2><span style=\"line-height: 1.3em;\">Made for every Money Service Business (MSB)</span><br></h2><p>Whether you own a small shop or run a multi-branch Money Exchange business, CurrencyXchanger &nbsp;can fully automate your daily operation from start to finish. In fact we guarantee that you will see a boost in your operation only one month after you start using CXR.&nbsp;</p><blockquote><p>\"This is the best and most professional software I've come across compared to my previous 4 software for the last 18 years.\" Alan Lau</p></blockquote>"
+        },
+        {
+          "_name": "msg-box4",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box4-25",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}istock-000014305657medium1701x1129-175.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#093d4d",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "image": "{PROJECT_IMAGES}depositphotos-65651801-m1732x1155-198.jpg",
+          "title": "<span style=\"font-weight: normal;\">Who uses CurrencyXchanger?</span>",
+          "text": "<p>• Money Services Business (MSB) a.k.a. Bureau de Change (BDC)</p><p>• Hotels, Motels, Casinos, Cruise Ships, Tourist Resorts</p><p>• Financial Institutions (banks, credit unions, etc)</p><p>• Forex Dealers and Currency Wholesalers</p><p>• Travel Agencies</p><p>• Import/Export companies</p><p>• Precious metal dealers and wholesalers</p><p>• International Airports</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "msg-box4",
+          "_styles": {
+            "P": {
+              "color": "#475577",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
+            },
+            "H2": {
+              "color": "#000000",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "msg-box4-26",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "image": "{PROJECT_IMAGES}cxr-pos-3d-rendered1128x1248-200.png",
+          "title": "<span style=\"font-weight: normal;\">CXR POS Edition</span>",
+          "text": "<p>If you have a small kiosk or store that offers cash-based foreign currency exchanger to your customers then CurrencyXchanger POS Edition is the perfect match for your business. </p><p><br></p><p>This edition is better suited for currency exchange outlets in airports, travel agencies, hotels, motels, in-store exchange outlets, and other businesses that offer currency exchange services to their customer and accept cash and travellers checks as the only form of payment.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "msg-box4",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "P": {
+              "color": "#475577",
+              "font-size": "18px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "msg-box4-27",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "image": "{PROJECT_IMAGES}cxr-be-3d-rendered-11338x1116-179.png",
+          "title": "<span style=\"font-weight: normal;\">CXR Business Edition</span>",
+          "text": "<p>CurrencyXchanger BE is the perfect fit for Money Exchange Businesses that would like to extend their business to offer all methods of payments.</p><p> </p><p><br></p><p>If you own a multi-function currency exchange store offering a variety of services such as cheque cashing, bill payments, wholesale, bookings, deliveries, and future contracts, then CurrencyXchanger Business Edition will be the ideal choice for your business.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "msg-box4",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "P": {
+              "color": "#475577",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "msg-box4-28",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "image": "{PROJECT_IMAGES}cxr-pro-4-rendered-11194x1182-188.png",
+          "title": "<span style=\"font-weight: normal;\">CXR&nbsp;Pro Edition</span>",
+          "text": "<p>CurrencyXchanger Pro (CXR-Pro) offers all the features of the Business Edition plus some specific online remittance functionality. CXR-Pro is made for foreign exchange businesses who offer Money Remittance service through their own network of international remittance agents. </p><p><br></p><p>The eWire module allows agents to send and retrieve money transfer in form of an electronic payment order (eWire). This funtionality makes it possible for agents to track their payments.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "msg-box4",
+          "_styles": {
+            "H2": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "SPAN": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            "DIV": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "msg-box4-29",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}depositphotos-11227302-l-20152000x1808-1292000x1808-177.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "image": "{PROJECT_IMAGES}digital-rate-board-integration-currencyxchanger1228x934-163.jpg",
+          "title": "Digital Currency Rate Board",
+          "text": "<span style=\"font-size: 17px; line-height: 27px;\">A digital currency rate board/panel is used to display foreign exchange rates an LCD or LED monitor. These boards can also be used to display flight price information, interest rates and lottery results.</span><div><span style=\"font-size: 17px; line-height: 27px;\"><br></span></div><div><span style=\"font-size: 17px; line-height: 27px;\">The Digital Currency Rate board is a piece of software developed using Javascript, CSS and HTML 5 allowing maximum flexibility and easy customization. We can customize the basic look and feel (colours, fonts, placing your logo) for you.&nbsp;</span></div><div><span style=\"font-size: 17px; line-height: 27px;\"><br></span></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.clearviewsys.com/Digital-Currency-Rate-Board.html\" data-toolbar=\"-mbrBtnMove\">LIVE SAMPLES</a>"
+        },
+        {
+          "_name": "msg-box4",
+          "_styles": {
+            "H2": {
+              "color": "#505050",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "18px"
+            },
+            "P": {
+              "color": "#505050",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
+            },
+            "SPAN": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "msg-box4-30",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "image": "{PROJECT_IMAGES}depositphotos-7703751-m-20151000x667-105.jpg",
+          "title": "<span style=\"font-family: 'Open Sans', sans-serif; font-size: 18px; line-height: 1.5em;\">1 (888) 390-0840</span><br>",
+          "text": "<p>Did you know that we have 24/7 call center in North Amercia that will take your call anytime and forward it to someone who can help you? Our support team is always happy to help customers.&nbsp;</p><br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "image": "{PROJECT_IMAGES}iphone.png",
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px !important"
+            },
+            "H2": {
+              "font-family": "'Titillium Web', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".btn": {
+              "font-size": "20px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-31",
+          "_params": {
+            "textAlign": "left",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "{PROJECT_IMAGES}depositphotos-4662016-m-20151000x562-133.jpg",
+            "bgColor": "#2969b0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/jyb3akH_pLI?rel=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#28324e",
+            "inverse": true,
+            "video": {
+              "url": "https://www.youtube.com/embed/iku9cJkatLM?rel=0&autoplay=0&loop=0",
+              "loop": false,
+              "autoplay": false,
+              "width": 1280,
+              "height": 720
+            },
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "100 Video Tutorials",
+          "text": "<p>We are the only company that offers over 100 video tutorials with our Currency Exchange Software for free. Every tutorial is available on our youtube channel. You can almost google/bing any question about CurrencyXchanger and you will probably be directed to a tutorial. For example, try googling \"How to export data to excel from CurrencyXchanger?\"</p><br>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://youtube.com/clearviewsystemsltd/\" data-toolbar=\"-mbrBtnMove\">Video Tutorials</a>"
+        },
+        {
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-32",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/jyb3akH_pLI?rel=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "firstType": "green",
+            "secondType": "orange",
+            "thirdType": "favorite",
+            "fourthType": "blue"
+          },
+          "title1": "Startup Edition",
+          "currency1": "$",
+          "price1": "49",
+          "period1": "per month",
+          "list1": "<ul><li>5 Currencies</li><li>10 Accounts</li><li>Cash to Cash Only</li><li>No CRM</li><li><span style=\"line-height: 1.42857143;\">+Upgrades</span></li><li><span style=\"line-height: 1.42857143;\">Support <b>2hrs/month</b></span></li><li><br></li><li><br></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">&nbsp;STARTUP Features</a>",
+          "title2": "POS Edition",
+          "currency2": "$",
+          "price2": "119",
+          "period2": "per month",
+          "list2": "<ul><li>100 Currencies</li><li>150 Accounts</li><li>Cash/Cards Only</li><li>+CRM</li><li>+Upgrades</li><li>+Sanction Lists</li><li>+Automatic Rates</li><li>Support <b>4hrs/month</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">POS Features</a>",
+          "title3": "Business (Most Popular)",
+          "currency3": "$",
+          "price3": "229",
+          "period3": "per month",
+          "list3": "<ul><li>All World Currencies</li><li>Unlimited Accounts</li><li>All forms of payment</li><li>+CRM</li><li><span style=\"line-height: 1.42857143;\">+Upgrades</span></li><li><span style=\"line-height: 1.42857143;\">+Sanction Lists</span></li><li><span style=\"line-height: 1.42857143;\">+Automatic Rates</span></li><li><span style=\"line-height: 1.42857143;\">Support <b>6hrs/month</b></span><br></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">BE Features</a>",
+          "title4": "Pro Edition",
+          "currency4": "$",
+          "price4": "339",
+          "period4": "per month",
+          "list4": "<ul><li><span style=\"line-height: 1.42857143;\">All World Currencies</span></li><li><span style=\"line-height: 1.42857143;\">Unlimited Accounts</span></li><li><span style=\"line-height: 1.42857143;\">All forms of payment</span></li><li>Cloud Synchronization</li><li><span style=\"line-height: 1.42857143;\">+CRM</span></li><li><span style=\"line-height: 1.42857143;\">+Upgrades</span></li><li><span style=\"line-height: 1.42857143;\">+Sanction Lists</span></li><li>+Automatic Rates</li><li>Support <b>8hrs/month</b></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">PRO Features</a>"
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-33",
+          "title": "Screenshots from CurrencyXchanger",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "The following slideshow shows some of the major modules of the system."
+        },
+        {
+          "_inherit": "slider",
+          "_name": "slider2",
+          "_params": {
+            "autoplay": true,
+            "slides": [
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-117.jpg",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-161.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-122.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-113.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-149.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-161.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-108.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-181.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-167.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-147.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-183.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-130.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "{PROJECT_IMAGES}cxr-screenshots770x577-178.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "_anchor": "slider2-34",
+          "articleLayout": true
+        },
+        {
+          "_styles": {
+            ".caption h3": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#fff"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-35",
+          "_params": {
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "{PROJECT_IMAGES}featured-in-strip1650x250-137.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#28324e",
+            "showTitle": false,
+            "showCaption": false
+          },
+          "title": "EASY TO USE!",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Reporting is very important to me and I wanted the flexibility to design my own reports. The report features of CurrencyXchanger were one of the biggest reasons why I changed, as I could see the flexibility the system provided to custom generate reports. The old system I used had a ‘set’ of reports and these were not always in line with what I needed. The price – at this point I would have paid anything as I was so frustrated by the old system, but your price is extremely reasonable.. That initial support was crucial to being able to swap over with little interruption to my business. This was one of the main selling points for me, that I would have the assistance I needed in the early days to be able to learn how to use the system. Most of all, I know that if I need the system to do something there is a possibility for customization.\"</p>",
+              "authorName": "Cassy Pearson",
+              "authorBio": "Managing Director, Exchange Now, Australia"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"After trying around 5 different Currency Exchange Software, we decided to go for Currency Xchanger. To our surprise, it was the best and the most capable software in this Category. Its absolutely lucid in terms of Customization. Every aspect of Retail Foreign Exchange Business is addressed. Different modules like Expenses, Banking, Customization of Customer Profiles, In built Money Laundering Checks, Bookings for Wire Transfers are the best features of the Software. Its very robust and capable Software. There are no other software available in the market which has all these features. If you are running a Foreign Exchange Business this is a absolutely must have software.&nbsp;</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Technical Support and Customer Service- Absolutely 10 out 10 marks on this. Even though on different Continent and different Time Zone, the response time is very swift. Responded to every query. Addressed all the issues and helped a lot in building required reporting system.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Very happy with over all functioning of the Software. We are using at different locations currently and will be using in all of our future Trading Locations. Strongly recommended.\"</p>",
+              "authorName": "N. Makne",
+              "authorBio": "Director, Travel Money Shop, UK"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            }
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section__header": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-reviews__author-name": {
+              "color": "#4c6972"
+            },
+            ".mbr-reviews__author-bio": {
+              "color": "#484f5a"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px !important",
+              "color": "#4c6972 !important"
+            },
+            ".mbr-reviews__text P": {
+              "font-size": "18px"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Reporting is very important to me and I wanted the flexibility to design my own reports. The report features of CurrencyXchanger were one of the biggest reasons why I changed, as I could see the flexibility the system provided to custom generate reports. The old system I used had a ‘set’ of reports and these were not always in line with what I needed. The price – at this point I would have paid anything as I was so frustrated by the old system, but your price is extremely reasonable.. That initial support was crucial to being able to swap over with little interruption to my business. This was one of the main selling points for me, that I would have the assistance I needed in the early days to be able to learn how to use the system. Most of all, I know that if I need the system to do something there is a possibility for customization.\"</p>",
+              "authorName": "Cassy Pearson",
+              "authorBio": "Managing Director, Exchange Now, Australia"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"After trying around 5 different Currency Exchange Software, we decided to go for Currency Xchanger. To our surprise, it was the best and the most capable software in this Category. Its absolutely lucid in terms of Customization. Every aspect of Retail Foreign Exchange Business is addressed. Different modules like Expenses, Banking, Customization of Customer Profiles, In built Money Laundering Checks, Bookings for Wire Transfers are the best features of the Software. Its very robust and capable Software. There are no other software available in the market which has all these features. If you are running a Foreign Exchange Business this is a absolutely must have software.&nbsp;</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Technical Support and Customer Service- Absolutely 10 out 10 marks on this. Even though on different Continent and different Time Zone, the response time is very swift. Responded to every query. Addressed all the issues and helped a lot in building required reporting system.</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">Very happy with over all functioning of the Software. We are using at different locations currently and will be using in all of our future Trading Locations. Strongly recommended.\"</p>",
+              "authorName": "N. Makne",
+              "authorBio": "Director, Travel Money Shop, UK"
+            }
+          ],
+          "_anchor": "testimonials1-36",
+          "_params": {
+            "count": "2",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "What do our customers say?"
+        },
+        {
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "32px",
+              "color": "#101010"
+            }
+          },
+          "_anchor": "form1-37",
+          "_params": {
+            "formoidUserID": "support@clearviewsys.com",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#27aae0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showName": true,
+            "showEmail": true,
+            "showPhone": true
+          },
+          "title": "Demo Request Form<br>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">BOOK DEMO</a>"
+        },
+        {
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "social-buttons2-38",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Our social channels",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/currencyxchnger\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-google\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>     <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a>"
+        },
+        {
+          "_name": "contacts1",
+          "_anchor": "contacts1-39",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": "{PROJECT_IMAGES}clear-view-systems-cvs-logo350x350-149.png",
+          "text1": "ADDRESS<br>1113-2012 Fullerton Ave. <br>North Vancouver, V7P 3E3<br>CANADA<br><br>Incorporated on April 17, 2003 <br>Incorporation# 668173<br>British Columbia, Canada. <br><br>Rating: A+ Better Business Bureau<br><br>",
+          "text2": "CONTACTS<br>North America:  1 (888) 390 0840<br>International:   +1 (519) 971 5149<br>Fax: 1 (866) 416 3169<br>support@clearviewsys.com<br><br>Our call center is open 24/7<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><b>Clear View Systems Ltd.</b></p><p class=\"mbr-contacts__text\"><b><br></b></p><p class=\"mbr-contacts__text\"><b>Empowering the Currency Exchange Industry since 2003</b></p><p class=\"mbr-contacts__text\"><b><br></b></p><p class=\"mbr-contacts__text\"><b>300+ Customers in 30 Countries</b></p>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff !important",
+              "font-size": "14px !important"
+            }
+          },
+          "_anchor": "footer1-40",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000"
+          },
+          "text": "Copyright (c) 2003- 2015 Clear View Systems Ltd., BC, Canada"
+        },
+        {
+          "_styles": {
+            ".caption h3": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#fff"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-41",
+          "_params": {
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "{PROJECT_IMAGES}bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#28324e",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "EASY TO USE!",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,91 @@
+<dataSet><data><name>ARS       		0.31304 		0.31936 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>5/14/09</tDate>
+<dataRow>Currency :ARSArgentina (Pesos)We buy :0.31304 CADWe Sell :0.31936 CADInverse Buy :3.1945 CADInverse Sell :3.13124 CAD</dataRow>
+</data>
+<data><name>AUD       		0.86612 		0.91031 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>5/14/09</tDate>
+<dataRow>Currency :AUDAustralia (Dollars)We buy :0.86612 CADWe Sell :0.91031 CADInverse Buy :1.15457 CADInverse Sell :1.09852 CAD</dataRow>
+</data>
+<data><name>AUD-VIP   		0.87938 		0.88822 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>5/14/09</tDate>
+<dataRow>Currency :AUD-VIPAustralia (Dollars)We buy :0.87938 CADWe Sell :0.88822 CADInverse Buy :1.13716 CADInverse Sell :1.12585 CAD</dataRow>
+</data>
+<data><name>CAD       		1       		1       </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate></tDate>
+<dataRow>Currency :CADCanada (Dollars)We buy :1 CADWe Sell :1 CADInverse Buy :1 CADInverse Sell :1 CAD</dataRow>
+</data>
+<data><name>CNY       		0.169246		0.1927  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>5/14/09</tDate>
+<dataRow>Currency :CNYChina (Yuan Renminbi)We buy :0.169246 CADWe Sell :0.1927 CADInverse Buy :5.9086 CADInverse Sell :5.1894 CAD</dataRow>
+</data>
+<data><name>DZD       		0.01614 		0.01646 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>5/14/09</tDate>
+<dataRow>Currency :DZDAlgeria (Algeria Dinars)We buy :0.01614 CADWe Sell :0.01646 CADInverse Buy :61.96939 CADInverse Sell :60.74227 CAD</dataRow>
+</data>
+<data><name>EUR       		1.5802  		1.6102  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>5/14/09</tDate>
+<dataRow>Currency :EUREuro Member Countries  (Euro)We buy :1.5802 CADWe Sell :1.6102 CADInverse Buy :0.63283 CADInverse Sell :0.62104 CAD</dataRow>
+</data>
+<data><name>ILS       		0.28156 		0.28724 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>5/14/09</tDate>
+<dataRow>Currency :ILSIsrael (New Shekels)We buy :0.28156 CADWe Sell :0.28724 CADInverse Buy :3.55169 CADInverse Sell :3.48136 CAD</dataRow>
+</data>
+<data><name>IRR       		0.00124 		0.00126 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate></tDate>
+<dataRow>Currency :IRRIran (Rials)We buy :0.00124 CADWe Sell :0.00126 CADInverse Buy :808.08081 CADInverse Sell :792.07921 CAD</dataRow>
+</data>
+<data><name>JOD       		1.64865 		1.68195 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>5/14/09</tDate>
+<dataRow>Currency :JODJordan (Dinars)We buy :1.64865 CADWe Sell :1.68195 CADInverse Buy :0.60656 CADInverse Sell :0.59455 CAD</dataRow>
+</data>
+<data><name>MXN       		0.08811 		0.09256 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>5/14/09</tDate>
+<dataRow>Currency :MXNMexico (Pesos)We buy :0.08811 CADWe Sell :0.09256 CADInverse Buy :11.349 CADInverse Sell :10.804 CAD</dataRow>
+</data>
+<data><name>MZM       		0.0002  		0.0002  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>5/14/09</tDate>
+<dataRow>Currency :MZMZambia (Kwacha)We buy :0.0002 CADWe Sell :0.0002 CADInverse Buy :5,050.50505 CADInverse Sell :4,950.49505 CAD</dataRow>
+</data>
+<data><name>PGK       		0.42224 		0.43077 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>5/14/09</tDate>
+<dataRow>Currency :PGKPapua New Guinea (Kina)We buy :0.42224 CADWe Sell :0.43077 CADInverse Buy :2.36835 CADInverse Sell :2.32145 CAD</dataRow>
+</data>
+<data><name>SEK       		0.14602 		0.15347 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>5/14/09</tDate>
+<dataRow>Currency :SEKSweden (Kronor)We buy :0.14602 CADWe Sell :0.15347 CADInverse Buy :6.84838 CADInverse Sell :6.51593 CAD</dataRow>
+</data>
+<data><name>USD       		1.1678  		1.1914  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>5/14/09</tDate>
+<dataRow>Currency :USDUnited States of America (Dollars)We buy :1.1678 CADWe Sell :1.1914 CADInverse Buy :0.85631 CADInverse Sell :0.83935 CAD</dataRow>
+</data>
+</dataSet>

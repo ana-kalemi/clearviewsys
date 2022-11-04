@@ -1,0 +1,109 @@
+.menu li a, .dropbtn {
+    padding: 20px 20px 20px 20px;
+}
+
+.copyright .center-block-main {
+    font-size: 16px;
+    text-align: center;
+    padding-left: 0;
+}
+
+.form {
+    padding-right: 0;
+    padding-top: 0;
+    border-right: 1px #009688 solid;
+}
+
+.af-textWrap input {
+    width: 100%!important;
+}
+
+.af-textWrap {
+    width: 99%!important;
+}
+
+.af-selectWrap {
+    width: 100%!important;
+}
+
+#awf_field-99751364 {
+    width: 100%!important;
+}
+
+#awf_field-99751366 {
+    width: 100%!important;
+}
+
+.privacyPolicy p {
+    font-size: 14px;
+}
+
+.af-checkWrap {
+    width: 100%!important;
+    font-size: 14px;
+}
+
+.previewLabel {
+    display: contents;
+}
+
+.div-clients-links {
+    text-align: -webkit-center;
+}
+
+.bg-dark {
+    height: auto!important;
+}
+
+footer .col-sm-3 div {
+    padding-left: 0;
+}
+
+.div-logo-footer {
+    height: auto!important;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.footer-menu-first {
+    padding-left: 3%;
+}
+
+.footer ul {
+    font-size: 18px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.footer-menu-second {
+    padding-top: 90px !important;
+}
+
+.footer-phone li {
+    font-size: 18px;
+}
+
+.footer-phone li.phone {
+    font-size: 18px;
+}
+
+.margin-bottom-30 {
+    padding-left: 5%;
+}
+
+#awf_field-99751367 {
+    margin-bottom: 3px!important;
+}
+
+.menu {
+    width: 100%;
+    display: flex;
+    place-content: center;
+}
+
+.digital_num {
+    font-size: 2.75em;
+    font-weight: 700;
+    color: #eed999;
+}

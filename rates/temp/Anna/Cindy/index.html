@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Rate board</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+<div class="wrapper rates-page">
+    <section class="top-ten-currencies-section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="w-100">
+                    <!-- table head-->
+                    <table class="table " id="rates-page-table">
+                        <thead>
+                        <tr>
+                            <th class="flag" width="">Flag</th>
+                            <th class="country" width="">Country</th>
+                            <th class="code" width="">Code</th>
+                            <th class="cur" width="">Currency</th>
+                            <th class="buy" width="">We Buy</th>
+                            <th class="sell" width="">We Sell</th>
+                            <th class="invbuy" width="">Inv Buy</th>
+                            <th class="invsell" width="">Inv Sell</th>
+                        </tr>
+                        </thead>
+                        <tbody class="main-tbody"></tbody>
+                    </table>
+                    <!-- ------------ -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="time-update-wrapper-section">
+        <div class="container">
+            <div class="row">
+                <p class="time_update"></p>
+                <p class="note-text"> – Please note rates are subject to change without notice</p>
+            </div>
+        </div>
+    </section>
+</div><!--close /.wrapper'-->
+
+<!-- javascript -->
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/table_creater.js"></script>
+
+</body>
+</html>

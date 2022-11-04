@@ -1,0 +1,152 @@
+
+:root{
+	--rate-table-hearder-color :#ffffff;
+	--rate-table-buy-sell-color: #000000;
+	--rate-table-background-color:#ffffff;
+	--rate-table-border-color:#000000;
+	--rate-table-border-thicknes: 2px;
+}
+
+@font-face {
+	font-family: "Museo Sans 500";
+	src: url(../font/MuseoSans_500.otf);
+  }
+  
+
+#currency_widget_table_header {
+	background-color:#4D72FA;
+	color: #faff4e;
+	font: bold 14px Arial;
+	
+}
+
+tr.row_even {
+	/* color change here prasad */
+	/* background-color: #ff0000; */
+	background-color: var(--rate-table-background-color);;
+	font-family:DS-Digital,Arial;
+	
+    font-size: 14pt;
+	/* color:#FFFFFF; */
+	color:#FFFFFF;
+	border: var(--rate-table-border-thicknes) solid var(--rate-table-border-color);
+}
+
+tr.row_odd {
+
+	/* background-color: #ff0000; */
+	background-color: var(--rate-table-background-color);
+	font-family:  DS-Digital,Arial;
+	font-size: 14pt;
+	color:#FFFFFF;
+	border: var(--rate-table-border-thicknes) solid var(--rate-table-border-color);
+	
+}
+
+body {
+	
+	background-color: #000000;
+	
+	
+}
+.country
+{
+	
+text-align: left;
+}
+
+#currency_table td{
+	font-size:36pt;
+	padding-top:2px;
+	padding-left:2px;
+	padding-right:2px;
+	padding-bottom:2px;
+	font-family:"Museo Sans 500",DS-Digital, Arial;
+	vertical-align:middle;
+	horizontal-align:middle;
+	
+
+	}
+
+.inversebuy
+{
+	/* buy rate color change pms this is old value color:#DEEBEB; */ 
+	color: var(--rate-table-buy-sell-color);
+	text-align:center;
+	border: var(--rate-table-border-thicknes) solid var(--rate-table-border-color);
+}
+.buy
+{
+	
+	color:#DEEBEB;
+	text-align:center;
+	
+}
+.sell
+{
+	color: var(--rate-table-buy-sell-color);
+	text-align:center;
+
+}
+
+.headerbuy
+{
+	/*background-color:#4D72FA;*/
+	color:var(--rate-table-hearder-color);
+	background-color:#ff0000;
+	border: var(--rate-table-border-thicknes) solid var(--rate-table-border-color);
+	text-align:center;
+}
+
+.headersell
+{
+/* background-color:#4D72FA; */
+color:var(--rate-table-hearder-color);
+background-color:#ff0000;
+border: var(--rate-table-border-thicknes) solid var(--rate-table-border-color);
+text-align:center;
+}
+.header
+{ 
+background-color:#ff0000;
+color:var(--rate-table-hearder-color);
+
+
+
+text-align:center;
+}
+
+.currency
+{
+	
+	text-align:left;
+}
+
+.time
+{
+	text-align:left;
+}
+.country
+{
+/* color:#DEEBEB; this old value currency */
+/* color:#a6192e;  */
+/* country  names  */
+color: var(--rate-table-buy-sell-color);;
+border: var(--rate-table-border-thicknes) solid var(--rate-table-border-color);
+}
+
+/* pms add this class , class is define already not used */
+.code{
+	/* country code text USD AUD */
+	color: var(--rate-table-buy-sell-color);
+	text-align: center;
+	
+}
+
+table .header {
+	border-collapse: collapse;
+	border: var(--rate-table-border-thicknes) solid var(--rate-table-border-color);
+	font-family: DS-Digital,Arial;	
+}
+
+

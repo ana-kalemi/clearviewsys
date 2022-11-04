@@ -1,0 +1,84 @@
+.af-form-wrapper{
+
+}
+.af-form{
+    max-width: none !important;
+    background-color: transparent !important;
+    border: none !important;
+    padding: 10px !important;
+}
+.af-header{
+    background-color: transparent !important;
+    border:none !important;
+    color: #84d0d7 !important;
+    font-family: 'Lato', sans-serif !important;
+    font-size: 2.25em !important;
+    font-weight: 300 !important;
+}
+.previewLabel{
+    color: #84d0d7 !important;
+    font-family: 'Lato', sans-serif !important;
+    font-size: 1.5em !important;
+    font-weight: 300 !important;
+    float: left !important;
+    text-align: right;
+    width: 25% !important;
+}
+.af-selectWrap{
+
+}
+.bodyText p{
+    margin: 0!important;
+}
+.af-textWrap{
+    color: #ffffff;
+}
+.af-textWrap input{
+    background: transparent !important;
+    border: 1px solid #84d0d7 !important;
+    border-radius: 4px;
+    height: 28px !important;
+    line-height: 28px !important;
+    padding-left: 5px;
+    width: 70% !important;
+    color: #84d0d7 !important;
+    font-weight: 400 !important;
+    font-family: 'Lato', sans-serif !important;
+}
+
+.af-textWrap textarea{
+    background: transparent !important;
+    border: 1px solid #84d0d7 !important;
+    border-radius: 4px;
+    height: 80px !important;
+    width: 70% !important;
+    color: #84d0d7 !important;
+    font-weight: 400 !important;
+    font-family: 'Lato', sans-serif !important;
+}
+.af-selectWrap select{
+    height: 28px !important;
+    line-height: 28px !important;
+    border: 1px solid #84d0d7 !important;
+    border-radius: 4px;
+    width: 71% !important;
+    font-family: 'Lato', sans-serif !important;
+}
+
+.af-checkWrap{
+    text-align: center !important;
+}
+.choice{
+    color: #84d0d7 !important;
+}
+
+.privacyPolicy p,
+.privacyPolicy a{
+    color: #84d0d7 !important;
+}
+
+
+/**Live chat*/
+#LiveChat_1324690455_btn img{
+    display: none !important;
+}

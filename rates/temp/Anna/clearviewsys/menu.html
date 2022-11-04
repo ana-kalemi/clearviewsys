@@ -1,0 +1,123 @@
+<!--======== Menu =====-->
+<div class=" clearfix">
+    <nav>
+        <div class="logo"></div>
+        <a href="#" id="pull" class="font-18">MENU</a>
+        <ul class="menu">
+            <li><a href="./../../../../index.html" class="index-page">Home</a></li>
+            <li class="dropdown">
+                <a href="https://www.clearviewsys.com/rates/temp/Anna/clearviewsys/currency-exchange-software-products.html"
+                   class="dropbtn products-page">Products</a>
+                <div class="dropdown-content">
+                    <div class="link-wrapper">
+                        <div class="arrow"></div>
+                        <a href="CurrencyXchanger-POS-Edition.html">
+                            CurrencyXchanger POS
+                        </a>
+                        <a href="CurrencyXchanger-POS-Edition.html">
+                            CurrencyXchanger BE
+                        </a>
+                        <a href="CurrencyXchanger-BE-Edition.html">
+                            CurrencyXchanger Pro
+                        </a>
+                        <a href="CurrencyXchanger-Pro-Edition.html">Digital Currency Rate Board</a>
+                        <a href="Digital-Currency-Rate-Board.html">
+                            Screenshots
+                        </a>
+                        <a href="services.html">Services</a>
+                    </div>
+                </div>
+            </li>
+            <!-- <li><a href="https://blog.clearviewsys.com/">Blog</a></li> -->
+            <li>
+                <a href="CurrencyXchanger-Top-Reviews-And-Client-Testimonials.html" class="client-page">
+                    Clients
+                </a>
+            </li>
+            <li class="dropdown">
+                <a href="https://www.clearviewsys.com/rates/temp/Anna/clearviewsys/support.html" class="dropbtn support-page">Support</a>
+                <div class="dropdown-content">
+                    <div class="link-wrapper">
+                        <div class="arrow"></div>
+                        <a href="CurrencyXchanger-Pro-Edition.html">Training Videos</a>
+                        <a href="clearviewsys/Digital-Currency-Rate-Board.html">Online User Manual</a>
+                    </div>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="amlcompliance.html"
+                   class="dropbtn amlcompliance-page">Compliance</a>
+                <div class="dropdown-content">
+                    <div class="link-wrapper">
+                        <div class="arrow"></div>
+                        <a href="https://www.clearviewsys.com/rates/temp/Anna/clearviewsys/amlcompliance.html">AML Compliance</a>
+                        <a href="https://www.clearviewsys.com/rates/temp/Anna/clearviewsys/What-is-AML-Compliance.html">AML Compliance FAQ</a>
+                        <a href="https://www.clearviewsys.com/rates/temp/Anna/clearviewsys/fintrac.html">FINTRAC</a>
+                        <a href="https://www.fincen.gov/resources/financial-institutions/money-services-businesses">
+                            FINCEN
+                        </a>
+                        <a href="https://www.fincen.gov/sites/default/files/shared/nmls_2007.pdf">
+                            Countering Money Laundering (pdf)
+                        </a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <a href="faq.html" class="faq-page">FAQ</a>
+            </li>
+            <li>
+                <a href="contactus.html" class="contact-us-page">Contact Us</a>
+            </li>
+        </ul>
+    </nav>
+</div>
+<!--========END Menu=====-->
+<script>
+    /**menu*/
+    $(function() {
+        var pull 		= $('#pull');
+        menu 		= $('ul.menu');
+        menuHeight	= menu.height();
+
+        $(pull).on('click', function(e) {
+            e.preventDefault();
+            menu.slideToggle();
+        });
+    });
+
+    $(function() {
+        var w = $(window).width();
+        if(w <= 740 ){
+            $('.menu .dropdown').on('click', function(e){
+                e.preventDefault();
+                $(this).find('.dropdown-content').slideToggle();
+            });
+
+            $(function() {
+                $('.dropdown .dropdown-content a').click(function() {
+                    location.href = $(this).attr('href');
+                });
+            });
+        }
+    });
+    $(window).resize(function(){
+        var w = $(window).width();
+        if(w > 320 && menu.is(':hidden')) {
+            menu.removeAttr('style');
+        }
+
+        if(w <= 740 ){
+
+            $('.menu .dropdown').on('click', function(e){
+                e.preventDefault();
+                $(this).find('.dropdown-content').slideToggle();
+            });
+
+            $(function() {
+                $('.dropdown .dropdown-content a').click(function() {
+                    location.href = $(this).attr('href');
+                });
+            });
+        }
+    });
+</script>

@@ -1,0 +1,49 @@
+<dataSet><data><name>GBP       		10.73   		11.6208 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>1/27/2009</tDate>
+<dataRow>Currency :GBPUnited Kingdom (Pounds)We buy :10.73 SEKWe Sell :11.6208 SEKInverse Buy :0.0932 SEKInverse Sell :0.0861 SEK</dataRow>
+</data>
+<data><name>USD       		6.326   		6.8624  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>12/18/2008</tDate>
+<dataRow>Currency :USDUnited States of America (Dollars)We buy :6.326 SEKWe Sell :6.8624 SEKInverse Buy :0.15808 SEKInverse Sell :0.14572 SEK</dataRow>
+</data>
+<data><name>EUR       		8.791   		9.4947  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>1/27/2009</tDate>
+<dataRow>Currency :EUREuro Member Countries  (Euro)We buy :8.791 SEKWe Sell :9.4947 SEKInverse Buy :0.1138 SEKInverse Sell :0.1053 SEK</dataRow>
+</data>
+<data><name>DKK       		1.1727  		1.2643  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>1/27/2009</tDate>
+<dataRow>Currency :DKKDenmark (Kroner)We buy :1.1727 SEKWe Sell :1.2643 SEKInverse Buy :0.8527 SEKInverse Sell :0.791 SEK</dataRow>
+</data>
+<data><name>NOK       		1.0486  		1.1306  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>1/27/2009</tDate>
+<dataRow>Currency :NOKNorway (Krone)We buy :1.0486 SEKWe Sell :1.1306 SEKInverse Buy :0.9537 SEKInverse Sell :0.8845 SEK</dataRow>
+</data>
+<data><name>PLN       		2.057   		2.309   </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/19/2009</tDate>
+<dataRow>Currency :PLNPoland (Zlotych)We buy :2.057 SEKWe Sell :2.309 SEKInverse Buy :0.48615 SEKInverse Sell :0.43318 SEK</dataRow>
+</data>
+<data><name>THB       		0.1925  		0.2239  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>1/29/2009</tDate>
+<dataRow>Currency :THBThailand (Baht)We buy :0.1925 SEKWe Sell :0.2239 SEKInverse Buy :5.1953 SEKInverse Sell :4.4665 SEK</dataRow>
+</data>
+<data><name>TRL       		2.983   		3.373   </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate></tDate>
+<dataRow>Currency :TRLTurkey (Liras)We buy :2.983 SEKWe Sell :3.373 SEKInverse Buy :0.33521 SEKInverse Sell :0.2965 SEK</dataRow>
+</data>
+</dataSet>

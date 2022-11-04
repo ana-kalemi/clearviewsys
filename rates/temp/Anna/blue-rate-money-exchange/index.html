@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Rate board</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/calculator.css"/>
+    <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+<div class="wrapper">
+    <section class="header">
+        <div class="container">
+            <div class="row">
+                <div class="w-100">
+                    <h3>NO FEES, BEST RATE GUARANTEED, FAST& SECURE</h3>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="header-menu-wrapper">
+        <div class="container">
+            <div class="row header-menu">
+                <div class="col-md-3">
+                    <img src="images/logo_horizont.png" alt="">
+                </div>
+                <nav class="nav col">
+                    <a class="nav-link active" href="/rates/temp/Anna/blue-rate-money-exchange/">Home</a>
+                    <a class="nav-link" href="/rates/temp/Anna/blue-rate-money-exchange/best-rates-today.html">Best Rates Today</a>
+                    <a class="nav-link" href="/rates/temp/Anna/blue-rate-money-exchange/about-us.html">About Us</a>
+                    <a class="nav-link " href="/rates/temp/Anna/blue-rate-money-exchange/contact-us.html">Contact Us</a>
+                </nav>
+            </div>
+        </div>
+    </section>
+    <section class="under-header-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h1>WELCOME TO BLUE RATE MONEY EXCHANGE</h1>
+                    <button class="btn-blue">BEST RATES TODAY</button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="under-main-banner-section">
+        <div class="container">
+            <div class="row description-row">
+                <div class="col-md-4 ">
+                    <img src="images/logo_vertical.png" alt="">
+                </div>
+                <div class="col-md-7">
+                    <div class="row margin-bottom-40">
+                        Blue Rate Money Exchange originated in New Zealand about a decade ago and has since grown into a
+                        well developed licensed provider of international financial services.
+                    </div>
+                    <div class="row">
+                        Over the years, with the ethos of Trust and Efficiency, we have provided numerous clients with
+                        international money exchange and transfer services at the guaranteed best exchange rate.
+                    </div>
+                </div>
+            </div>
+            <div class="row calculate-row">
+                <div class="cvs-calc-wrapper-front cvs-calc-blue cvs-calc-template col">
+                    <div class="cvs-calc-inner-wrapper">
+                        <div class="border-blue-2 margin-bottom-5">
+                            <div class="cvs-switcher-wrapper">
+                                <span class="cvs-switcher active" data-type="afx_buy">WE BUY</span>
+                                <span class="cvs-switcher" data-type="afx_sell">WE SELL</span>
+                            </div>
+                            <div class="cvs-calc-inner">
+                                <div class="cvs-calc-half top">
+                                    <div class="cvs-amount cvs-input">
+                                        <span>Amount</span>
+                                        <input type="text" name="cvs-calc-amount-input"
+                                               class="cvs-calc-amount-input" id="cvs-calc-amount-input" value="1000">
+                                    </div>
+                                </div>
+                                <div class="cvs-calc-half top">
+                                    <div class="cvs-amount cvs-select">
+                                        <span>Currency</span>
+                                        <select name="cvs-calc-code-select" id="cvs-calc-code-select"
+                                                class="cvs-calc-code-select custom-select">
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cvs-calc-inner">
+                                <div class="cvs-calc-currency-inner">
+                                    <div>
+                                        <span>USA</span>
+                                        <img src="images/flags/USD.JPG" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cvs-calc-inner">
+                                <div class="cvs-calc-half ">
+                                    <div class="cvs-wesell cvs-sell">
+                                        <p>YOU <span class="user-action-type">RECEIVE</span>(AUD)</p>
+                                        <p class="" id="cvs_user_amount">0</p>
+                                    </div>
+                                </div>
+                                <div class="cvs-calc-half">
+                                    <div class="cvs-wesell cvs-buy">
+                                        <p>WE <span class="afx-action-type">BUY </span><span
+                                                id="cvs-currency-code">USA</span></p>
+                                        <p class="" id="cvs_afx_amount">1000</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="cvs-inv-rate-wrap">
+                            <span>Rates are subject to change at a moment's notice (indication rate only)</span>
+                        </p>
+                        <input type="hidden" name="cvs_afx_buy" id="cvs_afx_buy" value=""/>
+                        <input type="hidden" name="cvs_afx_sell" id="cvs_afx_sell" value=""/>
+                        <input type="hidden" name="cvs_afx_inv_buy" id="cvs_afx_inv_buy" value=""/>
+                        <input type="hidden" name="cvs_afx_inv_sell" id="cvs_afx_inv_sell" value=""/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="top-ten-currencies-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <h1 class="color-light margin-bottom-60 ">TOP 10 CURRENCIES</h1>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <!-- table head-->
+                    <table class="table " id="main-page-table-left">
+                        <thead>
+                        <tr>
+                            <th class="flag" width="25%">Flag</th>
+                            <th class="country" width="25%">Country</th>
+                            <th class="code" width="">Code</th>
+                            <th class="cur" width="">Currency</th>
+                            <th class="buy" width="25%">We Buy</th>
+                            <th class="sell" width="25%">We Sell</th>
+                            <th class="invbuy" width="">Inv Buy</th>
+                            <th class="invsell" width="">Inv Sell</th>
+                        </tr>
+                        </thead>
+                        <tbody class="main-page-tbody-left"></tbody>
+                    </table>
+                    <!-- ------------ -->
+                </div>
+                <div class="col-md-6">
+                    <!-- table head-->
+                    <table class="table" id="main-page-table-right">
+                        <thead>
+                        <tr>
+                            <th class="flag" width="25%">Flag</th>
+                            <th class="country" width="25%">Country</th>
+                            <th class="code" width="">Code</th>
+                            <th class="cur" width="">Currency</th>
+                            <th class="buy" width="25%">We Buy</th>
+                            <th class="sell" width="25%">We Sell</th>
+                            <th class="invbuy" width="">Inv Buy</th>
+                            <th class="invsell" width="">Inv Sell</th>
+                        </tr>
+                        </thead>
+                        <tbody class="main-page-tbody-right"></tbody>
+                    </table>
+                    <!-- ------------ -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--FOOTER-->
+    <section class="footer">
+        <div class="container">
+            <div class="row">
+                Copyright © 2019 Blue Rate Money Exchange - All Rights Reserved.
+            </div>
+        </div>
+    </section>
+    <!------END FOOTER------------>
+</div><!--close /.wrapper'-->
+
+
+<!-- javascript -->
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.marquee.min.js"></script>
+<script src="js/table_creater.js"></script>
+<script src="js/cvs-rates-calculator.js"></script>
+
+</body>
+</html>

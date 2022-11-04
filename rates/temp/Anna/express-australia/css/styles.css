@@ -1,0 +1,151 @@
+/*-----------------*/
+/*----Base Styles----*/
+/*-----------------*/
+html, body {
+  
+}
+body {
+  font-size: 16px;
+  background: url("../images/bg.jpg") no-repeat scroll center 0 #c6c4c1;
+ }
+img {
+  max-width: 100% !important;
+}
+.wrapper {
+
+}
+/*--------------------------*/
+/*-----------Header---------*/
+/*--------------------------*/
+.header{
+  display: flex;
+  justify-content: space-between;
+  padding: 2.5vh 0 2.5vh 0;
+  align-items: center;
+}
+.header h1{
+  color: #353234;
+  font-size: 50px;
+  font-family: 'Calibri', sans-serif;
+  font-style: italic;
+  font-weight: bold;
+
+}
+.header-logo {
+}
+.header-logo img {
+  margin: 0 auto;
+  width: 100px;
+}
+/*------------------------------------*/
+/*------Rate board table styles---*/
+/*------------------------------------*/
+.table {
+  margin-bottom: 0;
+}
+.table > thead > tr > th{
+  border-bottom: none;
+}
+.table-wrapper table thead tr {
+  background: url("../images/menu-bg.jpg") repeat-x scroll 0 bottom rgba(223, 69, 35, 1);
+  color: #fff;
+}
+.table-wrapper table thead tr th {
+  font-size: 28px;
+  text-align: center;
+  text-transform: uppercase;
+  border-left: 1px solid #df4724;
+}
+.table-wrapper table thead tr th:first-of-type {
+  border-left: none;
+}
+.table-wrapper table#africa thead tr th,
+.table-wrapper table#europe thead tr th,
+.table-wrapper table#asia thead tr th,
+.table-wrapper table#north-america thead tr th,
+.table-wrapper table#south-america thead tr th {
+  padding: 0;
+}
+.table-wrapper table tr td {
+  font-size: 28px;
+  vertical-align: middle;
+  text-align: center;
+  border-top: none;
+  font-weight: 600;
+  padding: 4px 0;
+  color: #000;
+  border-left: 1px solid #CA2E17;
+
+}
+.table-wrapper table tbody tr {
+  border-bottom: 1px solid #CA2E17;
+}
+
+.table-wrapper table tbody tr:last-of-type {
+  border-bottom: none;
+}
+
+.displayColFlag img {
+  margin: 0 auto;
+  width: 120px;
+}
+.table-wrapper table tbody tr td.displayColFlag,
+.table-wrapper table tbody tr td.displayColCode{
+  width: 16%;
+}
+.position-relative {
+  position: relative;
+}
+.slider img{
+  margin: 0 auto;
+}
+.carousel-indicators .active {
+  background-color: #CA2E17;
+}
+.carousel-indicators {
+  bottom: -20px;
+  display: none;
+}
+.carousel-indicators li {
+  border: 1px solid #CA2E17;
+}
+.right.carousel-control,
+.left.carousel-control
+{
+  visibility:hidden;
+}
+
+.footer-section{
+  background: #BCB9B6;
+}
+.footer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer p{
+  margin: 0;
+}
+.footer-wrapper{
+  color: #fff;
+  font-weight: bold;
+}
+/*----------------------*/
+/**------time update-----*/
+/*----------------------*/
+.time-update-wrapper {
+  padding: 5px 15px;
+  color: #fff;
+  background: #BCB9B6;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.time-update-wrapper p{
+  margin: 0;
+}
+.time_update {
+  display: inline-block;
+}
+.note-text {
+  display: inline-block;
+}

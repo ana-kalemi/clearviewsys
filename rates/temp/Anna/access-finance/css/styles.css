@@ -1,0 +1,108 @@
+/*-----------------*/
+/*----Base Styles----*/
+/*-----------------*/
+html, body {
+    height: 100%;
+}
+body{
+    font-size: 14px;
+    color: #ffffff;
+    background: #000000;
+}
+img{
+    max-width: 100% !important;
+}
+
+.wrapper{
+    min-height: 100%;
+    height: auto;
+    background: #ffffff;
+}
+/*--------------------------*/
+/*-----------Header---------*/
+/*--------------------------*/
+.header-logo{
+    padding: 25px 0;
+}
+
+.header-logo img{
+    margin: 0 auto;
+}
+/*------------------------------------*/
+/*------Rate board table styles---*/
+/*------------------------------------*/
+.table{
+    margin-bottom: 0;
+}
+.table-wrapper table thead tr{
+    background: #2F3D62;
+    color: #e3b835;
+}
+.table-wrapper table thead tr th{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 36px;
+    text-align: center;
+    border-left: 1px solid #e3b835;
+}
+.table-wrapper table thead tr th:first-of-type{
+    border-left: none;
+}
+
+.table-wrapper table#africa thead tr th,
+.table-wrapper table#europe thead tr th,
+.table-wrapper table#asia thead tr th,
+.table-wrapper table#north-america thead tr th,
+.table-wrapper table#south-america thead tr th{
+    padding: 0;
+}
+
+.table-wrapper table tr td{
+    font-size: 32px;
+    vertical-align: middle;
+    text-align: center;
+    border-top: none;
+    text-transform: uppercase;
+    font-weight: normal;
+    padding: 4px;
+    color: #000000;
+}
+
+.table-wrapper table tbody tr{
+    border-bottom: 1px solid #e3b835;
+}
+
+.displayColFlag img{
+    margin: 0 auto;
+    width: 140px;
+}
+.position-relative{
+    position: relative;
+}
+
+#slider{
+    height: 300px;
+    background: #2F3D62;
+    overflow: hidden;
+}
+#slider img{
+    height: 300px;
+    margin: 0 auto;
+}
+/*----------------------*/
+/**------time update-----*/
+/*----------------------*/
+.time-update-wrapper {
+    padding: 15px 15px 0px 15px;
+    background: #2F3D62;
+    font-size: 20px;
+    color: #e3b835;
+}
+
+.time_update{
+    display: inline-block;
+}
+
+.note-text{
+    display: inline-block;
+}

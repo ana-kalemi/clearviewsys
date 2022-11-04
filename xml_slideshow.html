@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Advanced Slider</title>
+
+<link rel="stylesheet" type="text/css" href="css/style.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="css/advanced-slider-base.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="css/pixel/pixel.css" media="screen"/>
+
+<script type="text/javascript" src="slider_source/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="slider_source/jquery.advancedSlider.min.js"></script>
+<!--[if IE]><script type="text/javascript" src="slider_source/excanvas.compiled.js"></script><![endif]-->
+
+<script type="text/javascript">
+
+	$(document).ready(function() {
+		$('.slider').advancedSlider ( {xmlSource:'slider.xml', 
+        width:530, 
+        height:250, 
+        shadow:false,
+        thumbnailsType:'none', 
+        alignType:'centerCenter', 
+        visibleThumbnails:0, 
+        slideshow:true,
+        timerAnimation:false,
+        navigationButtons:false,
+        horizontalSlices:1,
+        verticalSlices:1,
+        slideshowControls:false,
+        slideshowDelay:5000,
+        thumbnailTooltip:false, 
+        thumbnailSync:false});
+	});
+	
+</script>
+
+</head>
+
+<body>
+	
+    <div class="slider">This page is best viewed with JavaScript enabled.</div>
+    
+</body>
+
+</html>

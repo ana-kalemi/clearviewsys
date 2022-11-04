@@ -1,0 +1,116 @@
+/*-----------------*/
+/*----Base Styles----*/
+/*-----------------*/
+html, body {
+    height: 100%;
+}
+body{
+    font-size: 14px;
+    color: #000000;
+    background: #D2D3D5;
+}
+img{
+    max-width: 100% !important;
+}
+
+.wrapper{
+    min-height: 100%;
+    height: auto;
+}
+
+/*--------------------------*/
+/*-----------Header---------*/
+/*--------------------------*/
+.header-logo{
+    padding: 20px 0 40px 0;
+}
+
+.header-logo img{
+    margin: 0 auto;
+}
+
+/*------------------------------------*/
+/*------Rate board table styles---*/
+/*------------------------------------*/
+.table{
+    margin-bottom: 0;
+}
+.table-wrapper table thead tr{
+    background: #FAE16B;
+    color: #000000;
+}
+.table-wrapper table thead tr th{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 40px;
+    text-align: center;
+}
+.table-wrapper table tr td{
+    font-size: 28px;
+    vertical-align: middle;
+    text-align: center;
+}
+.table-wrapper table tbody tr{
+    height: 65px;
+}
+
+.table-wrapper table .flag{
+    width: 9%;
+}
+.table-wrapper table .country{
+    min-width: 20%;
+}
+
+/*-----------------------------------*/
+/**color theme - light*/
+/*-----------------------------------*/
+.cvs-light thead tr th{
+    color: #454545;
+    background: #FAC90A;
+}
+.cvs-light thead tr th:nth-child(even){
+    background: #FAC90A;
+}
+.cvs-light tbody tr td{
+    color: #454545;
+}
+.cvs-light tbody tr:nth-child(odd){
+    background: #f7f7f7;
+}
+.cvs-light tbody tr:nth-child(odd) td:nth-child(even){
+    background: #ffffff;
+}
+.cvs-light tbody tr:nth-child(odd) td:nth-child(odd){
+    background: #f7f7f7;
+}
+.cvs-light tbody tr:nth-child(even){
+    background: #efefef;
+}
+.cvs-light tbody tr:nth-child(even) td:nth-child(even){
+    background: #f7f7f7;
+}
+.cvs-light tbody tr:nth-child(even) td:nth-child(odd){
+    background: #efefef;
+}
+.cvs-light tbody tr td.tfoot{
+    color: #454545;
+    background: #d1d1d1 !important;
+    padding-left: 10px;
+}
+
+/*----------------------*/
+/**------time update-----*/
+/*----------------------*/
+.time-update-wrapper {
+    padding: 15px 15px 0px 15px;
+    background: #FAC90A;
+    font-size: 20px;
+}
+
+.time_update{
+    display: inline-block;
+}
+
+.note-text{
+    display: inline-block;
+}

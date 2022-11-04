@@ -1,0 +1,616 @@
+
+/*==============MENU==================*/
+@media screen and (max-width:1150px){
+    .header-menu .logo{
+        display: none;
+    }
+    ul.menu{
+        width: 100%;
+    }
+    .logo-header{
+        display: none;
+    }
+}
+
+@media screen and (min-width:741px){
+    nav a#pull{
+        display:none;
+    }
+}
+@media screen and (max-width:740px){
+    .header-home{
+        padding-top: 20px;
+    }
+    .logo-header{
+        display: none;
+    }
+
+    ul.menu{
+        display:none;
+    }
+    nav #pull{
+        display:block;
+        color:#fff;
+        padding:10px 3%;
+        text-decoration:none;
+        width:94%;
+        position:relative;
+    }
+    nav a#pull:after{
+        content:"";
+        background:url('../images/icons/icon-menu-mobile.png') no-repeat;
+        width:20px;
+        height:20px;
+        display:inline-block;
+        position:absolute;
+        top:12px;
+        right:3%;
+    }
+    ul.menu li{
+        width: 100%;
+    }
+
+    .menu li a.active {
+        background-color: #33747a;
+        box-shadow: 0 -10px 0 0 #33747a;
+    }
+    .menu li a, .dropbtn {
+        padding:15px 0 15px 15px;
+        width: 95%;
+        text-align: left;
+    }
+    .menu li a:hover{
+        box-shadow: none;
+    }
+    .menu li a.active{
+        box-shadow: none;
+    }
+
+    .dropbtn {
+        text-align: left;
+        padding: 15px;
+    }
+    .menu .arrow{
+        display: none;
+    }
+    .dropdown-content{
+        position: relative;
+    }
+
+    .menu .dropdown:hover .dropdown-content {
+        display: none;
+    }
+    .link-wrapper{
+        box-shadow: none;
+        border-radius: 0;
+        background: transparent;
+    }
+    .menu .dropdown-content a{
+        padding: 10px 0px 10px 25px;
+        border: none;
+        color: #ffffff;
+        z-index: 100;
+    }
+}
+/*==============END MENU==================*/
+@media (min-width: 1200px) {
+
+}
+
+@media (max-width: 1200px) {
+    .slider-home-page{
+        padding: 0 70px;
+    }
+    .header-contact .header-two {
+        padding: 50px 25px 115px;
+    }
+    .header-contact .header-two h3{
+        font-size: 1.5em;
+    }
+    .header-two-left{
+        padding-top: 50px;
+    }
+    .header-contact .header-two ul li {
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width: 992px) {
+
+    h1{
+        font-size: 2.5em;
+    }
+
+    .margin-bottom-60{
+        margin-bottom: 30px !important;
+    }
+
+    .div-phone-wrapper{
+        bottom: 0;
+    }
+
+    .header-contact .div-phone-wrapper{
+        bottom: 30px;
+    }
+    .div-phone h1{
+        text-align: center;
+    }
+    .div-phone .padding-top-15{
+        padding-top: 0;
+    }
+
+    .div-phone-wrapper .div-phone .col-md-6 h4 {
+        padding-top: 0;
+        text-align: center;
+    }
+
+    .slider-home-page{
+        padding: 0 20px;
+    }
+    .header-two{
+        padding-top: 10px;
+    }
+    .section-form-text{
+        padding: 0;
+    }
+    footer .col-sm-3 div{
+        padding-left: 30px;
+    }
+
+    .under-header {
+        padding: 50px 25px 0;
+    }
+    .some-features{
+        padding-bottom: 20px;
+    }
+    .pro-page .under-slider{
+        padding: 40px;
+    }
+    .under-slider ul {
+        margin: 20px auto;
+    }
+
+    .under-slider{
+        padding: 40px 15px 0px 15px;
+    }
+
+    .under-slider ul{
+        width: 40%;
+    }
+
+    .rate-page .some-features .ul-wrapper {
+        padding-left: 30px;
+    }
+
+    .some-features .ul-wrapper {
+        padding-left: 50px;
+    }
+
+    .clients-review-wrapper{
+        padding: 40px;
+    }
+
+    .hardware ul {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .amlComplaince-page  .some-features .ul-wrapper {
+        padding-left: 0px;
+    }
+
+    .header-contact .header-two {
+        padding: 50px 15px 135px;
+    }
+    .header-contact .left-div h3 {
+        padding-left: 10px;
+    }
+    .header-two-left{
+        padding-top: 25px;
+    }
+    .header-contact .header-two p, .header-contact .header-two span {
+        font-size: 0.8em !important;
+    }
+
+    .contact-us-partners {
+        padding: 60px 20px 45px;
+    }
+
+    .download-wrapper {
+        padding: 25px 0;
+    }
+
+    .ticker-wrapper {
+        text-align: center;
+    }
+}
+
+@media (max-width: 901px) {
+    .div-clients-links-wrapper{
+        display: none;
+    }
+    .div-paste{
+        display: none;
+    }
+    .bg-yellow.paste-yellow.margin-bottom-20{
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width: 768px) {
+
+    footer .col-sm-3 div {
+        text-align: center;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    .section-form-text div{
+        padding: 50px;
+    }
+    footer .center-block-main, .section-form .center-block-main{
+        padding: 0;
+    }
+
+    .product-box.left-box {
+        padding-right: 0;
+        text-align: center;
+    }
+    .product-box.right-box {
+        padding-left: 0;
+        text-align: center;
+    }
+    .table-wrapper {
+        padding-left: 0;
+        padding-right: 2px;
+        padding-bottom: 0;
+    }
+
+    .pos-page .section-form-text div,
+    .pro-page .section-form-text div{
+        padding: 50px 0 50px 0;
+    }
+    .under-header .slider-home-page{
+        padding: 5px !important;
+    }
+
+    .pos-page .under-slider ul{
+        width: 60%;
+    }
+
+    .under-slider ul{
+        width: 40%;
+    }
+    .div-logo-footer{
+        padding-top: 20px;
+    }
+
+    .clients-review-wrapper{
+        padding: 15px;
+    }
+
+    .height-190 .col-md-3,
+    .height-190 .col-sm-4,
+    .height-190 .col-xs-6{
+        height: auto;
+    }
+    .top-10-reasons ul{
+        padding-left: 10px;
+    }
+
+    .business-type{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .advantages{
+        padding: 40px 15px;
+    }
+    .advantages ul{
+        padding-left: 15px;
+    }
+
+    .business-type-section {
+        overflow: hidden;
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+    .business-type-section {
+        overflow: hidden;
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+
+    .amlComplaince-page .some-features{
+        padding-top: 25px;
+    }
+    .margin-bottom-70 {
+        margin-bottom: 35px;
+    }
+
+    .header-two .header-two-left,
+    .header-two .right-div,
+    .header-two .left-div{
+        text-align: center !important;
+    }
+    .partner-left{
+        padding-right: 0;
+    }
+    .partner-right{
+        padding-left: 0;
+    }
+
+    .download-div {
+        height: 175px;
+        padding: 25px 5px 25px 5px;
+        text-align: center;
+    }
+
+    .right-div .text-right{
+        text-align: center;
+    }
+    .header-contact .right-div div{
+        margin-bottom: 0;
+    }
+
+    .header-two-left {
+        padding-top: 0;
+        margin-bottom: 20px;
+    }
+
+    .header-contact .right-div{
+        padding-bottom: 50px;
+    }
+
+    .header-contact .header-two{
+        background-size: cover;
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+
+    .column-title-wrapper {
+        padding: 40px 15px;
+    }
+
+    .header-contact .div-phone-wrapper{
+        position: relative;
+    }
+
+    .header-contact .header-two {
+        padding: 50px 15px 20px;
+    }
+
+    .font-21 {
+        font-size: 1.1em;
+    }
+
+    .font-40 {
+        font-size: 2em;
+    }
+
+    .clients h2{
+        text-align: center;
+    }
+}
+
+@media (max-width: 767px) {
+    .hidden-xs {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width:680px){
+    .under-slider ul{
+        width: 45%;
+    }
+}
+
+@media screen and (max-width:600px){
+    .main-title{
+        font-size: 3em
+    }
+    h1{
+        font-size: 2em;/* 32px/16=3em */
+    }
+    h2{
+        font-size: 1.375em;/* 22px/16=2.25em */
+    }
+    h3{
+        font-size: 1.875em; /* 30px/16=1.875em */
+    }
+    h4{
+        font-size: 1.5em; /* 24px/16=1.5em */
+    }
+    h5{
+        font-size: 1.125em;/* 18px/16=1.125em */
+    }
+    .font-60{
+        font-size: 3em
+    }
+
+    .under-slider ul {
+        margin: 30px auto;
+        width: 50%;
+    }
+
+    .some-features .ul-wrapper{
+        padding-left: 20px;
+    }
+    .section-form-text div{
+        padding: 25px;
+    }
+    .copyright .center-block-main{
+        text-align: center;
+        padding-left: 0;
+    }
+    .copyright{
+        padding-top: 15px;
+        padding-bottom: 45px;
+    }
+
+    .under-video {
+        padding: 30px 5px;
+    }
+    .under-video h2 {
+        margin-bottom: 25px;
+    }
+
+    .padding-40 {
+        padding: 30px 15px 20px;
+    }
+
+    .header-clients .header-two {
+        margin-left: -15px;
+        margin-right: -15px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .product-video {
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+
+    .under-header .slider-home-page .slider{
+        box-shadow: none;
+    }
+    .under-header {
+        padding: 30px 10px 0;
+    }
+
+    .pos-page .some-features.services{
+        padding: 25px 15px;
+    }
+    .clients-review{
+        padding: 15px;
+    }
+    .contact-us-partners-wrapper {
+        padding: 30px 0 20px;
+    }
+
+    .contact-us-partners-wrapper h2{
+        margin-bottom: 30px;
+    }
+}
+
+@media screen and (max-width:480px){
+    .slider-home-page{
+        padding: 0;
+    }
+    .header-two h2, .header-two h5{
+        margin-bottom: 20px;
+    }
+    .slider-home-page .slider{
+        box-shadow: none;
+    }
+    .slick-arrow-prev{
+        left: 0;
+    }
+    .slick-arrow-next{
+        right: 0;
+    }
+    .some-features .ul-wrapper{
+        padding-left: 10px;
+    }
+    .div-banner {
+        padding: 25px 15px;
+    }
+    .table tr td:nth-child(1) {
+        padding-left: 5px;
+        width:20%;
+        font-size: 0.7em;
+    }
+    .under-slider ul {
+        margin: 30px auto;
+        width: 75%;
+    }
+    .pos-page .under-slider ul{
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:410px){
+
+}
+
+@media screen and (max-width:360px){
+    .main-title{
+        font-size: 2.5em;
+        margin-bottom: 15px;
+    }
+    .font-60{
+        font-size: 2.5em
+    }
+    h1{
+        font-size: 2em;/* 32px/16=3em */
+    }
+    h2{
+        font-size: 1.375em;/* 22px/16=2.25em */
+    }
+    h3{
+        font-size: 1.875em; /* 30px/16=1.875em */
+    }
+    h4{
+        font-size: 1.5em; /* 24px/16=1.5em */
+    }
+    h5{
+        font-size: 1.125em;/* 18px/16=1.125em */
+    }
+
+    .margin-bottom-70 {
+        margin-bottom: 35px !important;
+    }
+
+    .under-slider ul {
+        margin: 15px auto;
+        width: 90%;
+    }
+
+    .div-why-wrapper .div-why {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .some-features{
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+
+    .under-slider{
+        padding: 45px 15px 15px;
+    }
+
+    .div-phone .padding-top-15{
+        padding-top: 0;
+    }
+
+    .margin-bottom-50 {
+        margin-bottom: 25px !important;
+    }
+
+    .product-box-wrapper{
+        padding-top: 20px;
+    }
+    .product-box a{
+        width: auto;
+        min-width: 175px;
+    }
+    .product-video .embed-responsive{
+        height: 200px;
+    }
+
+    .height-150 .col-md-3,
+    .height-150 .col-xs-6{
+        height: 170px;
+    }
+
+    .rate-page .some-features .ul-wrapper {
+        padding-left: 15px;
+    }
+
+    .clients-review-wrapper {
+        padding: 15px;
+    }
+    .clients-review {
+        padding: 15px;
+    }
+}

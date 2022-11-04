@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Salamat Exchange</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Lora:700i" rel="stylesheet">
+    <!-- Bootstrap CSS file -->
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <!-- Custom CSS file -->
+    <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+<section>
+    <div class="container-fluid">
+        <div class="header">
+            <div class="header-logo">
+                <img src="images/logo.png" class="img-responsive" alt="">
+            </div>
+            <div>
+                <h1>Vancouver Money Market</h1>
+            </div>
+        </div>
+    </div>
+</section><!--close  section /.header-->
+
+<section class="rates-table">
+    <div class="col-md-7 col-xs-12">
+        <div class="row">
+            <div class="table-wrapper">
+                <table class="table" id="currency_table">
+                    <thead>
+                    <tr>
+                        <th class="flag">Flag</th>
+                        <th class="country">Country</th>
+                        <th class="cur">Currency</th>
+                        <th class="code">Code</th>
+                        <th class="buy">We Buy</th>
+                        <th class="sell">We Sell</th>
+                    </tr>
+                    </thead>
+                    <tbody class="main_tbody"></tbody>
+                </table>
+            </div><!--close div /.table-wrapper .cvs-green-->
+        </div>
+        <div class="row">
+            <div class="time-update-wrapper">
+                <p class="time_update"></p>
+            </div>
+        </div>
+    </div>
+    <!-----slider---->
+    <div class="col-md-5 col-xs-12 slider">
+        <div class="row">
+            <div id="carousel" class="carousel slide">
+                <ol class="carousel-indicators">
+                    <li class="active" data-target="#carousel" data-slide-to="0"></li>
+                    <li data-target="#carousel" data-slide-to="1"></li>
+                </ol>
+                <!--Slides-->
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <img src="images/slider/vmme-advertise-2-1.png" alt=""/>
+                        <div class="carousel-caption">
+                            <!--here you can write some text-->
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="images/slider/vmme-advertise-2-1-1.png" alt=""/>
+                        <div class="carousel-caption">
+                            <!--here you can write some text-->
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="images/slider/vmme-advertise-3-1.png" alt=""/>
+                        <div class="carousel-caption">
+                            <!--here you can write some text-->
+                        </div>
+                    </div>
+                </div>
+                <a href="#carousel" class="left carousel-control" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" ></span>
+                </a>
+                <a href="#carousel"  class="right carousel-control" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" ></span>
+                </a>
+            </div><!-- /.carousel slide-->
+        </div>
+    </div>
+    <!-----end slider---->
+</section><!--close  section /.rates-table-->
+
+<!-- javascript -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/table_creater.js"></script>
+<script>
+    $(function () {
+        $('.carousel').carousel({
+            interval: 8000
+        });
+    });
+</script>
+</body>
+</html>

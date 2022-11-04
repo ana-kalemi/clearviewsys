@@ -1,0 +1,289 @@
+@font-face {
+  font-family: 'Trebuchet Bold'; /* fonts name */
+  src: url('../fonts/trebucbd.ttf'); /* path to fonts */
+}
+@font-face {
+  font-family: 'Trebuchet'; /* fonts name */
+  src: url('../fonts/trebuc.ttf'); /* path to fonts */
+}
+html, body {
+  height: 100%;
+}
+body {
+  font-family: "Trebuchet Bold", sans-serif;
+  font-size: 16px;
+  color: #222;
+  min-height: 600px;
+  height: 100vh;
+}
+li {
+  list-style-type: none;
+}
+ul {
+  padding: 0;
+}
+tbody th {
+  border: none !important;
+}
+img {
+  max-width: 100% !important;
+}
+.footer {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer p {
+  margin-bottom: 0;
+}
+.font-48 {
+  font-size: 48px;
+  letter-spacing: 6px;
+  margin-bottom: 0;
+}
+.font-65 {
+  font-size: 65px;
+  letter-spacing: 6px;
+  margin-bottom: 0;
+}
+.font-30 {
+  font-size: 30px;
+}
+.margin-right-10 {
+  margin-right: 10px;
+}
+.margin-right-20 {
+  margin-right: 20px;
+}
+.margin-right-25 {
+  margin-right: 25px;
+}
+.margin-right-30 {
+  margin-right: 30px;
+}
+.margin-left-20 {
+  margin-left: 20px;
+}
+.margin-left-25 {
+  margin-left: 25px;
+}
+.margin-left-30 {
+  margin-left: 30px;
+}
+/*--------Style DIV load---------*/
+.header-logo {
+  background: #1e93bb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-logo-info{
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  font-size: 24px;
+  text-shadow: 1px 1px 1px #000;
+  padding: 0 15px 0 0;
+}
+.header-logo img {
+  width: 300px;
+  margin: 0 auto;
+}
+.time_update {
+  display: inline-block;
+}
+.note-text {
+  display: inline-block;
+}
+.table-currency {
+  text-align: center;
+  margin-bottom: 0 !important;
+  min-height: 60px;
+}
+.table-currency thead {
+  border-bottom: 2px solid #fff;
+  background: #1e93bb !important;
+  border-top: 2px solid #fff;
+}
+.table-currency thead tr {
+  text-align: center !important;
+  color: #fff;
+}
+.table-currency thead tr th {
+  padding-top: 2px;
+  padding-bottom: 2px;
+  text-align: center !important;
+  vertical-align: middle;
+  border-bottom: none;
+  background: #1e93bb !important;
+  color: #F29224 !important;
+  text-shadow: 1px 1px 1px #000;
+}
+#other-rates-slider .table-currency thead tr th{
+  padding: 0px;
+}
+.best-rates{
+  font-size: 30px;
+  text-shadow: 1px 1px 1px #222;
+  padding-top: 8px;
+}
+.table-currency tbody tr td.displayColCountry,
+.table-currency thead tr .country {
+  text-align: left !important;
+  padding-left: 3%;
+}
+.table-currency thead tr .invbuy {
+  color: #222;
+}
+.table-currency .code {
+}
+.table-currency .flag {
+}
+.table-currency tbody tr {
+  font-size: 32px;
+}
+.table-currency tbody tr td {
+  vertical-align: middle;
+  padding: 1px;
+  border: none;
+}
+.table-currency tbody tr td img {
+  margin: 0 auto;
+  max-width: 70px !important;
+}
+.main_table {
+  margin-bottom: 20px;
+}
+/*----End Style Div load---------*/
+.time-update-wrapper {
+  padding: 6px 15px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+.time-update-wrapper p{
+  margin-bottom: 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+.bottom-slogan {
+  padding: 8px 15px;
+  background: #1e93bb;
+  color: #F29224;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  text-shadow: 1px 1px 1px #000;
+  font-weight: bold;
+}
+.bottom-slogan p{
+  margin-bottom: 0;
+}
+.horizontal_container {
+  width: 100%;
+  background: #333;
+  overflow: hidden;
+  box-sizing: border-box;
+  height: 80px;
+  position: relative;
+  cursor: pointer;
+  line-height: 80px;
+}
+.js-marquee {
+  display: flex;
+  align-items: center;
+}
+.rate-row {
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+.rate-row:after {
+  content: "|";
+  margin: 0 35px 0 10px;
+  font-size: 30px;
+}
+.horizontal_flag {
+  width: 128px;
+}
+.horizontal_flag img {
+  width: 100px;
+}
+.horizontal_code {
+  font-size: 30px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.horizontal_rate {
+  font-size: 30px;
+  margin-left: 15px;
+}
+.horizontal_buy {
+  color: #1e93bb;
+}
+.horizontal_sell {
+  color: #ff6d00;
+}
+
+/*-----------------------------------*/
+/**color theme - light*/
+/*-----------------------------------*/
+.cvs-light thead tr th{
+  color: #454545;
+  background: #d1d1d1 !important;
+}
+.cvs-light thead tr th:nth-child(even){
+  background: #e2e2e2 !important;
+}
+.cvs-light tbody tr td{
+  color: #454545 !important;
+}
+.cvs-light tbody tr:nth-child(odd){
+  background: #f7f7f7 !important;
+}
+.cvs-light tbody tr:nth-child(odd) td:nth-child(even){
+  background: #ffffff !important;
+}
+.cvs-light tbody tr:nth-child(odd) td:nth-child(odd){
+  background: #f7f7f7 !important;
+}
+.cvs-light tbody tr:nth-child(even){
+  background: #efefef !important;
+}
+.cvs-light tbody tr:nth-child(even) td:nth-child(even){
+  background: #f7f7f7;
+}
+.cvs-light tbody tr:nth-child(even) td:nth-child(odd){
+  background: #efefef !important;
+}
+.cvs-light tbody tr td.tfoot{
+  color: #454545 !important;
+  background: #d1d1d1 !important;
+  padding-left: 10px !important;
+}
+
+/*-------@media-----------*/
+@media screen and (min-width: 1200px) {
+  .table-currency th {
+    font-size: 46px;
+    font-weight: bold;
+  }
+  .main-container {
+    width: 1400px;
+    margin: 0 auto;
+  }
+}
+@media screen and (min-width: 320px) and  (max-width: 1198px) {
+  .table-currency th {
+    font-size: 34px !important;
+  }
+  .table-currency img {
+    width: 100% !important;
+    height: auto !important;
+    max-height: 100%;
+  }
+}
+/*----------------------*/

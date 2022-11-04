@@ -1,0 +1,252 @@
+@import url('typo_base64.css');
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font: normal 400 1.7rem/1.58em "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+	padding: 48px 5px;
+	margin: 0;
+}
+
+body * {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box
+}
+
+p {
+	margin: 0 0 1.58em
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font: normal 400 64px/58px 'Conthrax Sb';
+	padding: 0;
+	margin: 0
+}
+
+h2 {
+	font-size: 6rem
+}
+
+h3 {
+	font-size: 5.6rem
+}
+
+h4 {
+	font-size: 5.2rem
+}
+
+h5 {
+	font-size: 4.8rem
+}
+
+h6 {
+	font-size: 4.4rem
+}
+
+a {
+	color: #000;
+	-webkit-transition: all .2s ease-in-out;
+	-o-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+}
+
+a:hover,
+a:focus {
+	color: #e4000f;	
+}
+
+.flex-container {
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: row;
+	-ms-flex-direction: row;
+	flex-direction: row;
+	-webkit-flex-wrap: nowrap;
+	-ms-flex-wrap: nowrap;
+	flex-wrap: nowrap;
+	-webkit-justify-content: flex-start;
+	-ms-flex-pack: start;
+	justify-content: flex-start;
+	-webkit-align-content: stretch;
+	-ms-flex-line-pack: stretch;
+	align-content: stretch;
+	-webkit-align-items: flex-start;
+	-ms-flex-align: start;
+	align-items: flex-start
+}
+
+.flex-item {
+	-webkit-order: 0;
+	-ms-flex-order: 0;
+	order: 0;
+	-webkit-flex: 0 1 auto;
+	-ms-flex: 0 1 auto;
+	flex: 0 1 auto;
+	-webkit-align-self: auto;
+	-ms-flex-item-align: auto;
+	align-self: auto
+}
+
+header.flex-container {
+	margin: 0 0 2.5vw
+
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;	
+}
+
+.branding--top {
+	text-align: center;
+}
+
+.branding--top h1 {
+	margin-bottom: 24px;
+	text-transform: uppercase;
+}
+
+.branding--top span {
+	font-size: 30px;
+	line-height: 58px;
+	text-transform: none;
+}
+
+#main {
+	background: #fff;
+	padding: 0 0 2.5vw;
+	width: 100%;
+	margin: auto
+}
+
+.body--vanex .cvs-widget--ratestable .cvs-timestamp {
+	background: #E4000F;
+	color: #fff;
+
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 26px 1vw 24px;
+    left: 0;	
+
+    border: none;
+    margin: 0;
+
+    font: normal 400 16px/18px "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+
+    z-index: 999999;
+}
+
+/* Table styles */
+
+.body--vanex table.dataTable {
+	font-size: 24px;
+}
+
+.body--vanex table.dataTable thead th {
+	padding: 24px 40px;
+	font-size: 1.1em;
+}
+
+.body--vanex table.dataTable tbody td {
+    padding: 8px 40px;
+    font-size: .9em;
+}
+
+.body--vanex .data-flag {
+	text-align: center;
+	font-size: 0;
+}
+
+.body--vanex .cvs-ratestable img {
+	width: 96px;
+	display: inline-block;
+	margin-bottom: -6px; 
+}
+
+.body--vanex table.dataTable, 
+.body--vanex .cvs-ratestable th, 
+.body--vanex .cvs-ratestable td,
+.body--vantex table.dataTable.no-footer {
+	border: none!important;
+}
+
+/* Branding bottom */
+
+.branding--bottom {
+	text-align: center;
+}
+
+.branding--bottom ul {
+	margin: 0 0 36px;
+    padding: 0;
+}
+
+.branding--bottom ul li {
+	list-style-type: none;
+}
+
+.branding--bottom img {
+	width: 100%;
+	max-width: 360px;
+	height: auto;
+}
+
+@media(max-width:746px) {
+
+	body {
+		padding: 48px 5px 48px;		
+	}
+
+	.branding--top h1 {
+		margin-bottom: 30px;
+	}
+
+	.branding--top {
+		-webkit-flex: 0 1 100%;
+		-ms-flex: 0 1 100%;
+		flex: 0 1 100%;
+	}
+
+	.branding--top span {
+		font-size: 30px;
+	    line-height: 36px;
+	    text-transform: none;
+	    display: block;
+	    margin-top: 16px;
+	}	
+
+}
+
+@media(max-width:640px) {
+
+	.flex-container {
+		-webkit-flex-wrap: no;
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap
+	}
+
+	.body--vanex .cvs-ratestable img {
+		width: 48px;
+	}	
+
+	.body--vanex table.dataTable thead th {
+		padding: 24px 10px;
+		font-size: 18px;
+	}
+
+	.body--vanex table.dataTable tbody td {
+	    padding: 8px 10px;
+	    font-size: 15px;
+	}
+
+
+}

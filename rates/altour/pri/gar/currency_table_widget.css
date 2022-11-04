@@ -1,0 +1,23 @@
+
+#currency_widget_table_header {
+	background-color:#666666;
+	color: #faff4e;
+	font: bold 12px Arial;
+}
+
+tr.row_even {
+	background-color: #000000;
+	font-family:DS-Digital,Arial;
+    font-size: 10pt;
+	color:#FFCC00;
+	
+}
+
+tr.row_odd {
+	background-color: #000000;
+	font-family:DS-Digital,Arial;
+	font-size: 10pt;
+	color:#FFCC00;
+	
+}
+

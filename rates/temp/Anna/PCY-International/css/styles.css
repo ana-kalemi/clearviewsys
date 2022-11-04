@@ -1,0 +1,194 @@
+@font-face {
+  font-family: 'Trebuchet Bold'; /* fonts name */
+  src: url('../fonts/trebucbd.ttf'); /* path to fonts */
+}
+@font-face {
+  font-family: 'Trebuchet'; /* fonts name */
+  src: url('../fonts/trebuc.ttf'); /* path to fonts */
+}
+html, body {
+  height: 100%;
+}
+body {
+  font-family: "Trebuchet Bold", sans-serif;
+  font-size: 18px;
+  color: #222;
+  min-height: 600px;
+  height: 100vh;
+}
+li {
+  list-style-type: none;
+}
+ul {
+  padding: 0;
+}
+tbody th {
+  border: none !important;
+}
+img {
+  max-width: 100% !important;
+}
+p {
+  margin-bottom: 0;
+}
+.text-bold{
+  font-weight: bold;
+}
+.margin-top-45{
+  margin-top: 45px;
+}
+.info-div{
+  margin-top: 45px;
+  font-weight: bold;
+}
+.info-div p {
+  margin-bottom: 10px !important;
+}
+.table{
+  margin-bottom: 5px;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background: #000;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.notes p{
+  margin-bottom: 20px;
+}
+.company-title{
+  color: #f6c243;
+  font-size: 50px;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-family: 'Trebuchet Bold', sans-serif;
+  text-decoration: underline;
+  text-align: center;
+  display: block;
+}
+.footer p {
+  margin-bottom: 0;
+}
+.header-logo {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+}
+.header-logo > div {
+  padding: 0 15px;
+}
+.logo img {
+  display: inline-block;
+  margin-right: 20px;
+  width: 320px;
+}
+.time_update {
+  display: inline-block;
+}
+.note-text {
+  display: inline-block;
+}
+table tr th,
+table tr td {
+  color: #fff;
+  text-align: center;
+  vertical-align: middle !important;
+}
+table tr td {
+  padding: 8px 0 !important;
+  border-top: none;
+  font-size: 26px;
+  line-height: 26px;
+}
+table tr td img {
+  width: 50px !important;
+  margin: 0 3px;
+}
+.table thead th {
+  border: none;
+  font-size: 32px;
+  font-weight: bold;
+}
+.table th {
+  border-top: none;
+}
+.img-wrapper{
+  text-align: right;
+}
+/**START horizontal*/
+.js-marquee{
+  height: 80px;
+}
+.horizontal_container {
+  width: 100%;
+  background: #f6c143;
+  overflow: hidden;
+  box-sizing: border-box;
+  height: 80px;
+  position: relative;
+  cursor: pointer;
+  line-height: 80px;
+  margin-bottom: 3px;
+}
+.js-marquee {
+  display: flex;
+  align-items: center;
+}
+.rate-row {
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+.rate-row:after {
+  content: "|";
+  margin: 0 35px 0 10px;
+  font-size: 30px;
+}
+.horizontal_flag {
+  width: 128px;
+}
+.horizontal_flag img {
+  width: 100px;
+}
+.horizontal_code {
+  font-size: 30px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.horizontal_rate {
+  font-size: 30px;
+  margin-left: 15px;
+}
+.horizontal_buy {
+  color: #000;
+}
+.horizontal_sell {
+  color: #000;
+}
+/**END horizontal**/
+
+/*-------@media-----------*/
+@media screen and (min-width: 1200px) {
+  .table-currency th {
+    font-size: 40px;
+    font-weight: normal;
+  }
+  .main-container {
+    width: 1400px;
+    margin: 0 auto;
+  }
+}
+@media screen and (min-width: 320px) and  (max-width: 1198px) {
+  .table-currency th {
+    font-size: 26px !important;
+  }
+}
+/*----------------------*/

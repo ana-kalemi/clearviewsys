@@ -1,0 +1,181 @@
+<dataSet><data><name>AED       		0.24517 		0.29965 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :AEDUnited Arab Emirates (Dirhams)We buy :0.24517 USDWe Sell :0.29965 USDInverse Buy :4.07882 USDInverse Sell :3.33722 USD</dataRow>
+</data>
+<data><name>ARS       		0.22343 		0.28437 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :ARSArgentina (Pesos)We buy :0.22343 USDWe Sell :0.28437 USDInverse Buy :4.47563 USDInverse Sell :3.51657 USD</dataRow>
+</data>
+<data><name>AUD       		0.84652 		0.96359 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :AUDAustralia (Dollars)We buy :0.84652 USDWe Sell :0.96359 USDInverse Buy :1.18131 USDInverse Sell :1.03779 USD</dataRow>
+</data>
+<data><name>BRL       		0.49904 		0.63231 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :BRLBrazil (Brazil Real)We buy :0.49904 USDWe Sell :0.63231 USDInverse Buy :2.00385 USDInverse Sell :1.58151 USD</dataRow>
+</data>
+<data><name>CAD       		0.90733 		1.03281 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :CADCanada (Dollars)We buy :0.90733 USDWe Sell :1.03281 USDInverse Buy :1.10214 USDInverse Sell :0.96824 USD</dataRow>
+</data>
+<data><name>CHF       		0.90451 		1.0296  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :CHFSwitzerland (Francs)We buy :0.90451 USDWe Sell :1.0296 USDInverse Buy :1.10558 USDInverse Sell :0.97125 USD</dataRow>
+</data>
+<data><name>CLP       		0.001608		0.002150</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/24/2010</tDate>
+<dataRow>Currency :CLPChile (Pesos)We buy :0.0016082 USDWe Sell :0.0021505 USDInverse Buy :621.81321 USDInverse Sell :465.00814 USD</dataRow>
+</data>
+<data><name>CNY       		0.13133 		0.16379 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :CNYChina (Yuan Renminbi)We buy :0.13133 USDWe Sell :0.16379 USDInverse Buy :7.6145 USDInverse Sell :6.10532 USD</dataRow>
+</data>
+<data><name>EGP       		0.14915 		0.20179 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :EGPEgypt (Pounds)We buy :0.14915 USDWe Sell :0.20179 USDInverse Buy :6.70468 USDInverse Sell :4.95563 USD</dataRow>
+</data>
+<data><name>EUR       		1.22474 		1.3876  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :EUREuro Member Countries  (Euro)We buy :1.22474 USDWe Sell :1.3876 USDInverse Buy :0.8165 USDInverse Sell :0.72067 USD</dataRow>
+</data>
+<data><name>GBP       		1.46535 		1.6641  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :GBPUnited Kingdom (Pounds)We buy :1.46535 USDWe Sell :1.6641 USDInverse Buy :0.68243 USDInverse Sell :0.60092 USD</dataRow>
+</data>
+<data><name>HKD       		0.12103 		0.13776 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :HKDHong Kong (Dollars)We buy :0.12103 USDWe Sell :0.13776 USDInverse Buy :8.26276 USDInverse Sell :7.25887 USD</dataRow>
+</data>
+<data><name>HNL       		0.046667		0.059395</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :HNLHonduras (Lempiras)We buy :0.0466678 USDWe Sell :0.0593954 USDInverse Buy :21.4280474 USDInverse Sell :16.8363207 USD</dataRow>
+</data>
+<data><name>ILS       		0.22991 		0.29598 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :ILSIsrael (New Shekels)We buy :0.22991 USDWe Sell :0.29598 USDInverse Buy :4.34944 USDInverse Sell :3.37858 USD</dataRow>
+</data>
+<data><name>INP       		1.42316 		1.61998 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate></tDate>
+<dataRow>Currency :INPIreland (Northern Ireland Pound)We buy :1.42316 USDWe Sell :1.61998 USDInverse Buy :0.70266 USDInverse Sell :0.61729 USD</dataRow>
+</data>
+<data><name>INR       		0.018943		0.024856</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :INRIndia (Rupees)We buy :0.0189435 USDWe Sell :0.0248565 USDInverse Buy :52.78856 USDInverse Sell :40.23093 USD</dataRow>
+</data>
+<data><name>JMD       		0.0103  		0.0131  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :JMDJamaica (Dollars)We buy :0.0103 USDWe Sell :0.0131 USDInverse Buy :97.1251 USDInverse Sell :76.31258 USD</dataRow>
+</data>
+<data><name>JOD       		1.24266 		1.58156 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :JODJordan (Dinars)We buy :1.24266 USDWe Sell :1.58156 USDInverse Buy :0.80473 USDInverse Sell :0.63229 USD</dataRow>
+</data>
+<data><name>JPY       		0.010907		0.012415</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :JPYJapan (Yen)We buy :0.0109072 USDWe Sell :0.0124157 USDInverse Buy :91.682 USDInverse Sell :80.543 USD</dataRow>
+</data>
+<data><name>MXN       		0.07221 		0.08555 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :MXNMexico (Pesos)We buy :0.07221 USDWe Sell :0.08555 USDInverse Buy :13.84834 USDInverse Sell :11.68851 USD</dataRow>
+</data>
+<data><name>PHP       		0.01932 		0.02458 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :PHPPhilippines (Pesos)We buy :0.01932 USDWe Sell :0.02458 USDInverse Buy :51.77055 USDInverse Sell :40.67686 USD</dataRow>
+</data>
+<data><name>PKR       		0.010288		0.013093</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :PKRPakistan (Rupees)We buy :0.010288 USDWe Sell :0.0130938 USDInverse Buy :97.2006977 USDInverse Sell :76.3720234 USD</dataRow>
+</data>
+<data><name>PLN       		0.28519 		0.36297 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :PLNPoland (Zlotych)We buy :0.28519 USDWe Sell :0.36297 USDInverse Buy :3.50643 USDInverse Sell :2.75505 USD</dataRow>
+</data>
+<data><name>QAR       		0.23904 		0.31048 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :QARQatar (Rials)We buy :0.23904 USDWe Sell :0.31048 USDInverse Buy :4.18338 USDInverse Sell :3.22083 USD</dataRow>
+</data>
+<data><name>RUB       		0.02906 		0.03698 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :RUBRussia (Rubles)We buy :0.02906 USDWe Sell :0.03698 USDInverse Buy :34.4144 USDInverse Sell :27.03989 USD</dataRow>
+</data>
+<data><name>SAR       		0.232   		0.30134 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :SARSaudi Arabia (Riyals)We buy :0.232 USDWe Sell :0.30134 USDInverse Buy :4.31029 USDInverse Sell :3.31854 USD</dataRow>
+</data>
+<data><name>SGD       		0.69001 		0.78543 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :SGDSingapore (Dollars)We buy :0.69001 USDWe Sell :0.78543 USDInverse Buy :1.44926 USDInverse Sell :1.27318 USD</dataRow>
+</data>
+<data><name>TRL       		0.58156 		0.74016 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :TRLTurkey (Liras)We buy :0.58156 USDWe Sell :0.74016 USDInverse Buy :1.71952 USDInverse Sell :1.35105 USD</dataRow>
+</data>
+<data><name>TWD       		0.02662 		0.03602 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>7/30/2010</tDate>
+<dataRow>Currency :TWDTaiwan (New Dollars)We buy :0.02662 USDWe Sell :0.03602 USDInverse Buy :37.56292 USDInverse Sell :27.7639 USD</dataRow>
+</data>
+<data><name>VND       		0.000044		0.000061</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>4/28/2010</tDate>
+<dataRow>Currency :VNDViet Nam (Dong)We buy :0.0000448 USDWe Sell :0.0000618 USDInverse Buy :22,290.0831420 USDInverse Sell :16,181.2297734 USD</dataRow>
+</data>
+</dataSet>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Currency rates</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+</head>
+<body>
+<div class="container-fluid">
+    <!--header---->
+    <div class="container content">
+        <div class="row header">
+            <div class="col-md-12 header">
+                <a href="#"><img src="images/logo.png"  class="img-responsive" alt=""/></a>
+            </div>
+        </div>
+    <!---end header------>
+        <div class="row">
+            <div class="col-md-12 col-xs-12  load">
+                <h3 >Today's Live Rates</h3>
+                <h4 class="time_update" ></h4>
+                <!-- table head-->
+                <table class="table table-currency upperSection">
+                    <tr>
+                        <th class="flag">Flag</th>
+
+                        <th class="code">Code</th>
+                        <th class="cur">Currency</th>
+                        <th class="buy" >We BUY</th>
+                        <th class="sell">We SELL</th>
+                        <th class="invbuy">INV BUY</th>
+                        <th class="invsell">INV Sell</th>
+                        <th class="country">Country</th>
+                    </tr>
+                </table>
+                <!-- ------------ -->
+
+                <!--main courses -->
+                <div class="main_table fade_table1 upperSection">
+                    <table class="table table-currency">
+                        <tbody class="main_tbody">
+
+                        </tbody>
+                    </table>
+                </div>
+                <!-- ------------ -->
+
+                <!-- table head-->
+                <table class="table table-currency lowerSection">
+                    <tr>
+                        <th class="flag">Flag</th>
+                        <th class="code">Code</th>
+                        <th class="cur">Currency</th>
+                        <th class="buy" >We BUY</th>
+                        <th class="sell">We SELL</th>
+                        <th class="invbuy">INV BUY</th>
+                        <th class="invsell">INV Sell</th>
+                        <th class="country">Country</th>
+                    </tr>
+                </table>
+                <!-- ------------ -->
+
+                <!--other courses -->
+                <div class="table_scroll fade_table2 lowerSection">
+                    <table class="table table-currency">
+                        <tbody class="tbody low">
+
+                        </tbody>
+                    </table>
+                </div>
+                <!-- ------------ -->
+            </div>
+        </div>
+        <div class="row">
+            <!-----slider---->
+            <div class="container">
+                <div id="carousel" class="carousel slide">
+                    <ol class="carousel-indicators">
+                        <li class="active" data-target="#carousel" data-slide-to="0"></li>
+                        <li data-target="#carousel" data-slide-to="1"></li>
+                        <li data-target="#carousel" data-slide-to="2"></li>
+                    </ol>
+                    <!--Slides-->
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img src="images/image2.jpg" alt=""/>
+                            <div class="carousel-caption">
+                                <!--here you can write some text-->
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="images/image3.jpg" alt=""/>
+                            <div class="carousel-caption">
+                                <!--here you can write some text-->
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="images/image1.jpg" alt=""/>
+                            <div class="carousel-caption">
+                                <!--here you can write some text-->
+                            </div>
+                        </div>
+                    </div>
+                    <a href="#carousel" class="left carousel-control" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" ></span>
+                    </a>
+                    <a href="#carousel"  class="right carousel-control" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" ></span>
+                    </a>
+                </div>
+            </div>
+            <!-----end slider---->
+        </div>
+        <!--footer-->
+        <div class="container footer">
+            <div class="row">
+                <div class="col-md-12 ">
+                    <p class="">
+                        Powered by CurrencyXchanger 4 - © Clear View Systems Ltd., Canada
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!------------------>
+    </div><!--close div class='content'-->
+
+</div> <!--close div class='container-fluid'-->
+
+<!-- javascript -->
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/table_creater.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,351 @@
+/*-----------------------------------*/
+/**color theme - dark*/
+/*-----------------------------------*/
+.cvs-dark thead tr th{
+  color: #e6e6e6;
+  background: #252525;
+}
+.cvs-dark thead tr th:nth-child(even){
+  background: #353535;
+}
+.cvs-dark tbody tr td{
+  color: #cccccc;
+}
+.cvs-dark tbody tr:nth-child(odd){
+  background: #454545;
+}
+.cvs-dark tbody tr:nth-child(odd) td:nth-child(even){
+  background: #555555;
+}
+.cvs-dark tbody tr:nth-child(odd) td:nth-child(odd){
+  background: #656565;
+}
+.cvs-dark tbody tr:nth-child(odd) td:first-child{
+  background: #454545;
+}
+.cvs-dark tbody tr:nth-child(even){
+  background: #555555;
+}
+.cvs-dark tbody tr:nth-child(even) td:nth-child(even){
+  background: #656565;
+}
+.cvs-dark tbody tr:nth-child(even) td:nth-child(odd){
+  background: #757575;
+}
+.cvs-dark tbody tr:nth-child(even) td:first-child{
+  background: #555555
+}
+
+.cvs-dark tbody tr td.tfoot{
+  color: #e6e6e6;
+  background: #252525 !important;
+  padding-left: 10px;
+}
+
+/*-----------------------------------*/
+/**color theme - grey*/
+/*-----------------------------------*/
+.cvs-grey thead tr th{
+  color: #ffffff;
+  background: #757575;
+}
+.cvs-grey thead tr th:nth-child(even){
+  background: #656565;
+}
+.cvs-grey tbody tr td{
+  color: #ffffff;
+}
+.cvs-grey tbody tr:nth-child(odd) td:nth-child(even){
+  background: #989898;
+}
+.cvs-grey tbody tr:nth-child(odd) td:nth-child(odd){
+  background: #909090;
+}
+.cvs-grey tbody tr:nth-child(even) td:nth-child(even){
+  background: #ADADAD;
+}
+.cvs-grey tbody tr:nth-child(even) td:nth-child(odd){
+  background: #a5a5a5;
+}
+
+.cvs-grey tbody tr td.tfoot{
+  color: #ffffff;
+  background: #757575 !important;
+  padding-left: 10px;
+}
+
+/*-----------------------------------*/
+/**color theme - red*/
+/*-----------------------------------*/
+.cvs-red thead tr th{
+  color: #f9efef;
+  background: #b71c1c;
+}
+.cvs-red thead tr th:nth-child(even){
+  background: #c62a2a;
+}
+.cvs-red tbody tr td{
+  color: #604f4f;
+}
+.cvs-red tbody tr:nth-child(odd){
+  background: #f9efef;
+}
+.cvs-red tbody tr:nth-child(odd) td:nth-child(even){
+  background: #f2e2e2;
+}
+.cvs-red tbody tr:nth-child(odd) td:nth-child(odd){
+  background: #f9efef;
+}
+.cvs-red tbody tr:nth-child(even){
+  background: #f2e2e2;
+}
+.cvs-red tbody tr:nth-child(even) td:nth-child(even){
+  background: #e8d9d9;
+}
+.cvs-red tbody tr:nth-child(even) td:nth-child(odd){
+  background: #f2e2e2;
+}
+.cvs-red tbody tr td.tfoot{
+  color: #f9efef;
+  background: #b71c1c !important;
+  padding-left: 10px;
+}
+
+/*-----------------------------------*/
+/**color theme - blue*/
+/*-----------------------------------*/
+.cvs-blue thead tr th{
+  color: #e1f5fe;
+  background: #0277bd;
+}
+.cvs-blue thead tr th:nth-child(even){
+  background: #0288d1;
+}
+.cvs-blue tbody tr td{
+  color: #01579b;
+}
+.cvs-blue tbody tr:nth-child(odd){
+  background: #e1f5fe;
+}
+.cvs-blue tbody tr:nth-child(odd) td:nth-child(even){
+  background: #eefbff;
+}
+.cvs-blue tbody tr:nth-child(odd) td:nth-child(odd){
+  background: #e1f5fe;
+}
+.cvs-blue tbody tr:nth-child(even){
+  background: #c9ecf4;
+}
+.cvs-blue tbody tr:nth-child(even) td:nth-child(even){
+  background: #d2f1f9;
+}
+.cvs-blue tbody tr:nth-child(even) td:nth-child(odd){
+  background: #c9ecf4;
+}
+.cvs-blue tbody tr td.tfoot{
+  color: #e1f5fe;
+  background: #0277bd !important;
+  padding-left: 10px;
+}
+
+/*-----------------------------------*/
+/**color theme - dark-blue*/
+/*-----------------------------------*/
+.cvs-dark-blue thead tr th{
+}
+.cvs-dark-blue thead tr th:nth-child(even){
+
+}
+.cvs-dark-blue tbody tr td{
+
+}
+.cvs-dark-blue tbody tr:nth-child(odd){
+  background: #4e62dd;
+}
+.cvs-dark-blue tbody tr:nth-child(odd) td:nth-child(even){
+
+}
+.cvs-dark-blue tbody tr:nth-child(odd) td:nth-child(odd){
+
+}
+.cvs-dark-blue tbody tr:nth-child(even){
+  background: #3242cb;
+}
+.cvs-dark-blue tbody tr:nth-child(even) td:nth-child(even){
+
+}
+.cvs-dark-blue tbody tr:nth-child(even) td:nth-child(odd){
+
+}
+.cvs-dark-blue tbody tr td.tfoot{
+  color: #e1f5fe;
+  background: #0277bd !important;
+  padding-left: 10px;
+}
+/*-----------------------------------*/
+/**color theme - green*/
+/*-----------------------------------*/
+.cvs-green thead tr th{
+  color: #f1f8e9;
+  background: #558b2f;
+}
+.cvs-green thead tr th:nth-child(even){
+  background: #63933a;
+}
+.cvs-green tbody tr td{
+  color: #33691e;
+}
+.cvs-green tbody tr:nth-child(odd){
+  background: #dcedc8;
+}
+.cvs-green tbody tr:nth-child(odd) td:nth-child(even){
+  background: #e3efd3;
+}
+.cvs-green tbody tr:nth-child(odd) td:nth-child(odd){
+  background: #dcedc8;
+}
+.cvs-green tbody tr:nth-child(even){
+  background: #edf2e7;
+}
+.cvs-green tbody tr:nth-child(even) td:nth-child(even){
+  background: #f5f7f2;
+}
+.cvs-green tbody tr:nth-child(even) td:nth-child(odd){
+  background: #edf2e7;
+}
+.cvs-green tbody tr td.tfoot{
+  color: #f1f8e9;
+  background: #558b2f !important;
+  padding-left: 10px;
+}
+
+/*-----------------------------------*/
+/**color theme - light*/
+/*-----------------------------------*/
+.cvs-light thead tr th{
+  color: #454545;
+  background: #d1d1d1;
+}
+.cvs-light thead tr th:nth-child(even){
+  background: #e2e2e2;
+}
+.cvs-light tbody tr td{
+  color: #454545;
+}
+.cvs-light tbody tr:nth-child(odd){
+  background: #f7f7f7;
+}
+.cvs-light tbody tr:nth-child(odd) td:nth-child(even){
+  background: #ffffff;
+}
+.cvs-light tbody tr:nth-child(odd) td:nth-child(odd){
+  background: #f7f7f7;
+}
+.cvs-light tbody tr:nth-child(even){
+  background: #efefef;
+}
+.cvs-light tbody tr:nth-child(even) td:nth-child(even){
+  background: #f7f7f7;
+}
+.cvs-light tbody tr:nth-child(even) td:nth-child(odd){
+  background: #efefef;
+}
+.cvs-light tbody tr td.tfoot{
+  color: #454545;
+  background: #d1d1d1 !important;
+  padding-left: 10px;
+}
+
+/*-----------------------------------*/
+/**color theme - Yellow Blue*/
+/*-----------------------------------*/
+.cvs-yellow-blue thead tr th{
+  color: #f2e300;
+  background: #183883;
+  font-size: 15px;
+}
+.cvs-yellow-blue thead tr th:nth-child(even){
+  background: #183883;
+}
+.cvs-yellow-blue tbody tr td{
+  color: #606775;
+}
+.cvs-yellow-blue tbody tr:nth-child(odd){
+  background: #e4e9f2;
+}
+.cvs-yellow-blue tbody tr:nth-child(odd) td:nth-child(even){
+  background: #ebeef2;
+}
+.cvs-yellow-blue tbody tr:nth-child(odd) td:nth-child(odd){
+  background: #e4e9f2;
+}
+.cvs-yellow-blue tbody tr:nth-child(even){
+  background: #f9f9f9;
+}
+.cvs-yellow-blue tbody tr:nth-child(even) td:nth-child(even){
+  background: #f9f9f9;
+}
+.cvs-yellow-blue tbody tr:nth-child(even) td:nth-child(odd){
+  background: #ffffff;
+}
+.cvs-yellow-blue tbody tr td.tfoot{
+  color: #f2e300;
+  background: #183883 !important;
+  padding-left: 10px;
+}
+.cvs-wrapper.cvs-yellow-blue table{
+  border: 1px solid #EBEEF2;
+}
+
+/*-----------------------------------*/
+/**color theme - White Blue*/
+/*-----------------------------------*/
+.cvs-white-blue thead tr th{
+  color: #fff;
+  background: #395ea2;
+  font-size: 16px;
+  padding: 0.5em 1em;
+}
+.cvs-white-blue thead tr th:nth-child(even){
+  background: #395ea2;
+}
+.cvs-white-blue tbody tr td{
+  color: #333;
+  border-top: 1px solid #CCC !important;
+  border-right: 1px solid #CCC !important;
+  padding: 4px 4px 0 4px !important;
+}
+.cvs-white-blue tbody tr:nth-child(odd){
+  background: #fff;
+}
+.cvs-white-blue tbody tr:nth-child(odd) td:nth-child(even){
+  background: #fff;
+}
+.cvs-white-blue tbody tr:nth-child(odd) td:nth-child(odd){
+  background: #fff;
+}
+.cvs-white-blue tbody tr:nth-child(even){
+  background: #fff;
+}
+.cvs-white-blue tbody tr:nth-child(even) td:nth-child(even){
+  background: #fff;
+}
+.cvs-white-blue tbody tr:nth-child(even) td:nth-child(odd){
+  background: #fff;
+}
+.cvs-white-blue tbody tr td.tfoot{
+  color: #333;
+  background: #395ea2 !important;
+  padding-left: 10px;
+}
+.cvs-wrapper.cvs-white-blue table{
+  border: 1px solid #CCC;
+}
+.cvs-white-blue img{
+  width: 65px;
+  border: 1px solid #efefef;
+}
+.cvs-white-blue p{
+  margin-bottom: 0px;
+}
+/*=======================================================================================*/

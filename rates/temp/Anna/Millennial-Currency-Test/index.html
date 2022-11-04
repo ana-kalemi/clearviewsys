@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Millennial Currency</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+<div class="wrapper">
+    <div class="container-fluid">
+        <div class="row">
+
+            <section class="header">
+                <div class="logo-wrapper">
+                    <img src="images/millennial-logo1.jpg" alt="">
+                </div>
+            </section>
+
+            <section class="content">
+                <div class="col-md-7">
+                    <div class="row">
+                        <!-- table head-->
+                        <table class="table table-currency upperSection">
+                            <thead>
+                            <tr>
+                                <th class="flag" width="12%">Flag</th>
+                                <th class="code" width="10%">Code</th>
+                                <th class="country" width="38%">Country</th>
+                                <th class="cur">Currency</th>
+                                <th class="buy" width="20%">We BUY</th>
+                                <th class="sell" width="20%">We SELL</th>
+                                <th class="invbuy">We BUY</th>
+                                <th class="invsell">We SELL</th>
+                            </tr>
+                            </thead>
+                            <tbody class="main_tbody table-currency"></tbody>
+                        </table>
+                        <div class="section-update">
+                            <h4 class="time_update"></h4>
+                            <h4 class="note-text"></h4>
+                        </div>
+                        <!-- end table head ------- -->
+                    </div>
+                </div><!--close div /.col-md-6'-->
+
+                <div class="col-md-5">
+                    <div class="row advertising">
+                        Advertising
+                    </div>
+                    <div class="row">
+                        <div id="carousel" class="carousel slide">
+                            <ol class="carousel-indicators">
+                                <li class="active" data-target="#carousel" data-slide-to="0"></li>
+                                <li data-target="#carousel" data-slide-to="1"></li>
+                                <li data-target="#carousel" data-slide-to="2"></li>
+                                <li data-target="#carousel" data-slide-to="3"></li>
+                                <li data-target="#carousel" data-slide-to="4"></li>
+                            </ol>
+                            <!--Slides-->
+                            <div class="carousel-inner">
+                                <div class="item active" >
+                                    <img class="img-responsive" src="images/slider/slide1.jpg" alt=""/>
+                                    <div class="carousel-caption">
+                                        <!--here you can write some text-->
+                                    </div>
+                                </div>
+                                <div class="item" >
+                                    <img class="img-responsive" src="images/slider/slide2.jpg" alt=""/>
+                                    <div class="carousel-caption">
+                                        <!--here you can write some text-->
+                                    </div>
+                                </div>
+                                <div class="item" >
+                                    <img class="img-responsive" src="images/slider/slide3.jpg" alt=""/>
+                                    <div class="carousel-caption">
+                                        <!--here you can write some text-->
+                                    </div>
+                                </div>
+                                <div class="item" >
+                                    <img class="img-responsive" src="images/slider/slide4.jpg" alt=""/>
+                                    <div class="carousel-caption">
+                                        <!--here you can write some text-->
+                                    </div>
+                                </div>
+                                <div class="item" >
+                                    <img class="img-responsive" src="images/slider/slide5.jpg" alt=""/>
+                                    <div class="carousel-caption">
+                                        <!--here you can write some text-->
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="#carousel" class="left carousel-control" data-slide="prev">
+                                <span class="glyphicon glyphicon-chevron-left" ></span>
+                            </a>
+                            <a href="#carousel"  class="right carousel-control" data-slide="next">
+                                <span class="glyphicon glyphicon-chevron-right" ></span>
+                            </a>
+                        </div><!--close div /.carousel slide'-->
+                    </div>
+                </div><!--close div /.col-md-6'-->
+            </section><!--close /.content'-->
+        </div>
+    </div>
+</div><!--close /.wrapper'-->
+
+<section class="footer">
+    <div class="col-md-12 footer-row">
+        <p>Ask Millennial Currency about how we can save you money on your International Travel and Money Transfer!</p>
+    </div>
+</section><!--close section /.footer-->
+
+<!-- javascript -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+
+<!--Table create JS scripts-->
+<script src="js/table_creater.js"></script>
+<script>
+    $(function () {
+        $('.carousel').carousel({
+            interval: 4000
+        });
+    });
+</script>
+</body>
+</html>

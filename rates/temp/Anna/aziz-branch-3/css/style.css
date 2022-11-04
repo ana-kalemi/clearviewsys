@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'Trebuchet Bold'; /* fonts name */
+  src: url('../fonts/trebucbd.ttf'); /* path to fonts */
+}
+@font-face {
+  font-family: 'Trebuchet'; /* fonts name */
+  src: url('../fonts/trebuc.ttf'); /* path to fonts */
+}
+html, body {
+  height: 100%;
+}
+body {
+  font-family: "Trebuchet Bold", sans-serif;
+  font-size: 16px;
+  color: #222;
+  min-height: 600px;
+  height: 100vh;
+  background: #000000;
+}
+li {
+  list-style-type: none;
+}
+ul {
+  padding: 0;
+}
+tbody th {
+  border: none !important;
+}
+img {
+  max-width: 100% !important;
+}
+p {
+  margin-bottom: 0;
+}
+.table{
+  margin-bottom: 5px;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #fff;
+}
+.footer p {
+  margin-bottom: 0;
+}
+.time_update {
+  display: inline-block;
+}
+.note-text {
+  display: inline-block;
+}
+table tr th,
+table tr td {
+  color: #fff;
+  text-align: center;
+  vertical-align: middle !important;
+  border-top:none !important;
+}
+table tr td {
+  padding: 4px 0 !important;
+}
+table tr td img {
+  width: 106px !important;
+}
+.table thead th {
+  border: none;
+  text-transform: uppercase !important;
+  font-size: 28px;
+  font-weight: bold;
+}
+.table td {
+  font-size: 34px;
+}
+.table th {
+  border-top: none;
+  color: #FFFF01;
+}
+
+.displayColWeSell,
+.displayColWeBuy,
+.displayColInvSell,
+.displayColINVBuy {
+  font-size: 20px;
+}
+.displayColWeBuy {
+  color: #DA251E;
+}
+.displayColWeSell{
+  color: #FFFF01;
+}
+/*-------@media-----------*/
+@media screen and (min-width: 1200px) {
+  .table-currency th {
+    font-size: 40px;
+    font-weight: normal;
+  }
+  .main-container {
+    width: 1400px;
+    margin: 0 auto;
+  }
+}
+@media screen and (min-width: 320px) and  (max-width: 1198px) {
+  .table-currency th {
+    font-size: 34px !important;
+  }
+}
+/*----------------------*/

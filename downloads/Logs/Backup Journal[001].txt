@@ -1,0 +1,113 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0001].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 05/16/12 15:22:22
+Ending : 05/16/12 15:22:24
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0002].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 05/16/12 15:23:50
+Ending : 05/16/12 15:23:51
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0003].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 05/18/12 12:11:17
+Ending : 05/18/12 12:11:19
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0004].4BK
+Deleting old archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0001].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 05/20/12 09:15:33
+Ending : 05/20/12 09:15:35
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0005].4BK
+Deleting old archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0002].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 05/21/12 00:37:32
+Ending : 05/21/12 00:37:34
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0006].4BK
+Deleting old archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0003].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 05/21/12 13:04:21
+Ending : 05/21/12 13:04:23
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0007].4BK
+Deleting old archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0004].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 05/29/12 22:46:05
+Ending : 05/29/12 22:46:07
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0008].4BK
+Deleting old archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0005].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 05/29/12 22:49:37
+Ending : 05/29/12 22:49:39
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0009].4BK
+Deleting old archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0006].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 05/31/12 02:12:24
+Ending : 05/31/12 02:12:26
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0010].4BK
+Deleting old archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0007].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 06/01/12 03:34:36
+Ending : 06/01/12 03:34:38
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0011].4BK
+Deleting old archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0008].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 06/01/12 08:22:01
+Ending : 06/01/12 08:22:02
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0012].4BK
+Deleting old archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0009].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 06/21/12 22:00:08
+Ending : 06/21/12 22:00:11
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0013].4BK
+Deleting old archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0010].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 06/22/12 01:40:53
+Ending : 06/22/12 01:40:54
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0014].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 06/22/12 11:47:52
+Ending : 06/22/12 11:47:54
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0015].4BK
+Deleting old archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0012].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 06/26/12 01:08:16
+Ending : 06/26/12 01:08:19
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0016].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 06/26/12 03:48:04
+Ending : 06/26/12 03:48:06
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:tiran:Desktop:CurrencyXchanger_v13:TravelAutority[0017].4BK
+Scheduled : 00/00/00 00:00:00
+Starting : 06/27/12 14:15:30
+Ending : 06/27/12 14:15:32
+

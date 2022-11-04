@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Factor gate06</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+
+    <!-- OWL CSS file -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+<div class="wrapper">
+    <section class="header">
+        <div class="container-fluid">
+            <div class="row header-logo">
+                <div class="col-sm-2">
+                    <img src="images/logo-gate06.png" alt="">
+                </div>
+                <div class="col-sm-4">
+                    <p>CHAN<span>GE</span> <span class="minus">&mdash;</span></p>
+                </div>
+
+                <div class="col-sm-4">
+                    <p >EXCHAN<span>GE</span></p>
+                </div>
+                <div class="col-sm-2">
+                    <img src="images/change-logo.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section><!--close  section /.header-->
+
+    <section class="rates-table">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="table-wrapper">
+                        <table class="table">
+                            <thead>
+                            <tr>
+                                <th class="cur" width="16%">Currency</th>
+                                <th class="buy" width="25%">Nous Achetons / We Buy</th>
+                                <th class="flag" width="16%">Flag</th>
+                                <th class="buy" width="25%">Nous Vendons / We Sell</th>
+                                <th class="code" width="16%">Code</th>
+                            </tr>
+                            </thead>
+                        </table>
+                    </div><!--close div /.table-wrapper .cvs-green-->
+                </div>
+            </div><!--close div /.load .row-->
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="owl-carousel owl-theme" id="main-rates-slider">
+                        <div class="main-rates-slider-item table-wrapper">
+                            <table class="table" id="rate_0_999">
+                                <thead>
+                                <tr>
+                                    <th class="cur" width="16%"></th>
+                                    <th class="buy" width="25%"></th>
+                                    <th class="flag" width="16%"></th>
+                                    <th class="buy" width="25%"></th>
+                                    <th class="code" width="16%"></th>
+                                </tr>
+                                </thead>
+                                <tbody class="main_tbody"></tbody>
+                            </table>
+                        </div>
+                        <div class="main-rates-slider-item table-wrapper">
+                            <table class="table" id="rate_1000">
+                                <thead>
+                                <tr>
+                                    <th class="cur" width="16%"></th>
+                                    <th class="buy" width="25%"></th>
+                                    <th class="flag" width="16%"></th>
+                                    <th class="buy" width="25%"></th>
+                                    <th class="code" width="16%"></th>
+                                </tr>
+                                </thead>
+                                <tbody class="main_tbody"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!--rate Slides-->
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="carousel owl-carousel owl-theme" id="slider"></div>
+                </div>
+            </div>
+
+            <!-- Messages Slider -->
+            <div class="row info">
+                <div class="carousel owl-carousel owl-theme" id="message-slider">
+                    <div class="item" >
+                        <div class="col-md-2"></div>
+                        <div class="col-md-10">
+                            <p><span>0% </span>COMMISSION - <span>SANS</span> FRAIS</p>
+                            <p><span>0% </span>COMMISSION - <span>NO</span> FEES</p>
+                            <p class="empty-p">1</p>
+                        </div>
+                    </div>
+
+                    <div class="item" >
+                        <div class="col-md-2"></div>
+                        <div class="col-md-10">
+                            <p>Nous <span>acceptons </span>les cartes bancaires (Frais applicables)</p>
+                            <p>We <span>accept </span>debit and credit cards (Fees apply)</p>
+                            <p class="empty-p">1</p>
+                        </div>
+                    </div>
+
+                    <div class="item" >
+                        <div class="col-md-2"></div>
+                        <div class="col-md-10">
+                            <p>Nous achetons plus de <span>90</span> devises</p>
+                            <p>We buy more than <span>90</span> currencies</p>
+                            <p class="empty-p">1</p>
+                        </div>
+                    </div>
+
+                    <div class="item" >
+                        <div class="col-md-2"></div>
+                        <div class="col-md-10">
+                            <p>Nous vendons plus de <span>90</span> devises*</p>
+                            <p>We sell more than <span>90</span> currencies*</p>
+                            <p>*sur reservation / upon reservation</p>
+                        </div>
+                    </div>
+
+                    <div class="item" >
+                        <div class="col-md-2"></div>
+                        <div class="col-md-10">
+                            <p>Discrétion, confort avec salle d’attente au <span>sous-sol</span> à votre disposition</p>
+                            <p>Discrete, comfort with a waiting room at <span>level -1</span> at your disposal</p>
+                            <p class="empty-p">1</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="time-update-wrapper row">
+                <p class="time_update"></p>
+                <p class="note-text"> – Please note rates are subject to change without notice /
+                    Veuillez noter que les taux sont susceptibles d’être modifiés à tout moment </p>
+            </div>
+        </div><!--close div  /.container-fluid -->
+    </section><!--close  section /.rates-table-->
+
+</div><!--close /.wrapper-->
+
+<!-- javascript -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<!--Owl carousel plugin script-->
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/table_creater.js"></script>
+</body>
+</html>

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>The Currency Exchange</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/styles_second.css"/>
+</head>
+<body>
+<div class="wrapper">
+    <div class="container-fluid">
+        <div class="load">
+            <div class="row">
+                <div class="header-slogan">
+
+                </div>
+            </div>
+            <div class="row middle">
+                <div class="col-md-12 col-lg-5">
+                    <section class="rate-table row">
+                        <!-- table head-->
+                        <table class="table table-currency upperSection">
+                            <thead>
+                            <tr>
+                                <th class="country" width="40%">Currency</th>
+                                <th class="code" width="10%">Code</th>
+                                <th class="flag" width="10%">Flag</th>
+                                <th class="cur">Currency</th>
+                                <th class="buy" width="20%">We BUY</th>
+                                <th class="sell" width="20%">We SELL</th>
+                                <th class="invbuy">We BUY</th>
+                                <th class="invsell">We SELL</th>
+                            </tr>
+                            </thead>
+                            <tbody class="fade_table1 upperSection main_tbody main_table table-currency main_tbody upperScroll">
+                            </tbody>
+                        </table>
+                        <!-- end table head ------- -->
+                        <div class="time-update-wrapper">
+                            <h4 class="time_update"></h4>
+                            <h4 class="note-text"></h4>
+                        </div>
+                    </section> <!-- end div /.rate-table ------- -->
+                </div>
+                <div class="col-md-12 col-lg-7">
+                    <div id="carousel" class="carousel slide row">
+                        <ol class="carousel-indicators">
+                            <li class="active" data-target="#carousel" data-slide-to="0"></li>
+                            <li data-target="#carousel" data-slide-to="1"></li>
+                            <li data-target="#carousel" data-slide-to="2"></li>
+                            <li data-target="#carousel" data-slide-to="3"></li>
+                        </ol>
+                        <!--Slides-->
+                        <div class="carousel-inner">
+                            <div class="item active" >
+                                <img src="images/slider/slide_1_jpg.jpg" alt=""/>
+                                <div class="carousel-caption">
+                                    <!--here you can write some text-->
+                                </div>
+                            </div>
+                            <div class="item" >
+                                <img src="images/slider/slide_2_jpg.jpg" alt=""/>
+                                <div class="carousel-caption">
+                                    <!--here you can write some text-->
+                                </div>
+                            </div>
+                            <div class="item" >
+                                <img src="images/slider/slide_3_jpg.jpg" alt=""/>
+                                <div class="carousel-caption">
+                                    <!--here you can write some text-->
+                                </div>
+                            </div>
+                            <div class="item" >
+                                <img src="images/slider/slide_4_jpg.jpg" alt=""/>
+                                <div class="carousel-caption">
+                                    <!--here you can write some text-->
+                                </div>
+                            </div>
+                        </div>
+                        <a href="#carousel" class="left carousel-control" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left" ></span>
+                        </a>
+                        <a href="#carousel"  class="right carousel-control" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right" ></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div><!--close div /.load-->
+        <!------------------>
+    </div><!--close div  /.container-fluid -->
+</div><!--close /.wrapper'-->
+<!--footer-->
+<section class="footer">
+    <div class="col-md-12 footer-row">
+        <h1>Fee Free Currency Conversions</h1>
+    </div>
+</section>
+<!------------------>
+
+<!-- javascript -->
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/table_creater.js"></script>
+<script>
+    $(function () {
+        $('.carousel').carousel({
+            interval: 4000
+        });
+    });
+</script>
+</body>
+</html>

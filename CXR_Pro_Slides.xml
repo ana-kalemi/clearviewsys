@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slider>
+    
+
+ <slide>
+		<path>images/CurrencyXchanger_Pro.jpg</path>
+	</slide>
+	
+    <slide>
+		<path>images/CurrencyXchanger_Pro_Box.jpg</path>
+	</slide>
+
+    <slide>
+		<path>quotes/quote_rezai-01.png</path>
+	</slide>
+	
+ 	  <slide>
+		<path>quotes/quote_farooq-01.png</path>
+	</slide>
+
+	   <slide>
+		<path>quotes/quote_hospodar-01.png</path>
+	</slide>	
+	
+</slider>

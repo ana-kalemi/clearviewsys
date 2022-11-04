@@ -1,0 +1,179 @@
+html, body {
+    height: 100%;
+}
+body{
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    color: #222;
+    background: #1A3564;
+}
+li{
+    list-style-type: none;
+}
+ul{
+    padding: 0;
+}
+tbody th{
+    border: none !important;
+}
+img{
+    max-width: 100%;
+}
+/*--------Style DIV load---------*/
+.wrapper{
+    background: #1A3564;
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -100px;
+    padding: 0 0 100px;
+}
+.footer {
+    background-color: #1A3564;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    overflow: hidden;
+}
+.footer h1{
+    margin-bottom: 0;
+}
+.load{
+    text-align: center;
+    min-height: 100%;
+}
+.middle{
+    border-bottom: 3px solid #000000;
+}
+.rate-table{
+    background: #1A3564;
+    overflow: hidden;
+}
+.header-slogan{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: white;
+    background: #1A3564;
+    border-bottom: 3px solid #000000;
+}
+
+.time_update{
+    display: inline-block;
+}
+
+.note-text{
+    display: inline-block;
+}
+
+.fade_table1{
+    min-height: 185px;
+    overflow: hidden;
+}
+
+.table-currency{
+    text-align: center;
+    margin-bottom: 0 !important;
+    min-height: 60px;
+}
+.table-currency thead{
+    font-weight: bold;
+    border-bottom: 3px solid #000000;
+}
+.table-currency thead tr{
+    padding: 20px 0 20px 0;
+    text-align: center !important;
+    background: #F1F1F1;
+    color: #222222;
+}
+.table-currency thead tr th{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center !important;
+    background: #1A3564;
+    color: #ffffff;
+    vertical-align: middle;
+}
+.table-currency tbody tr td.displayColCountry,
+.table-currency thead tr .country{
+    text-align: left !important;
+    padding-left: 1%;
+}
+
+.table-currency .flag,
+.table-currency .code{
+    color: #F1F1F1;
+}
+
+.table-currency tbody tr{
+    background: white;
+    font-size: 22px;
+    color: #222222;
+}
+.table-currency tbody tr td{
+    border-bottom: 2px solid #000000;
+    border-right: 2px solid #000000;
+    vertical-align: middle;
+    padding: 4px;
+}
+
+.table-currency tbody tr td img{
+    margin: 0 auto;
+}
+
+.main_table{
+    margin-bottom: 20px;
+}
+/*----End Style Div load---------*/
+
+.time-update-wrapper{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    color: white;
+}
+.time-update-wrapper h4{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+/**slider*/
+.item{
+    background-size: cover;
+    text-align: center;
+}
+
+.item img {
+    width: 100%;
+    margin: 0 auto;
+    height: 100% !important;
+}
+
+.slide{
+    background: #1A3564;
+    border-left: 2px solid #000000;
+}
+
+.carousel-indicators li{
+    border: 1px solid #1A3564 !important;
+}
+
+.carousel-indicators .active{
+    background-color: #1A3564 !important;
+}
+
+/*-------@media-----------*/
+@media screen and (min-width: 1200px){
+    .table-currency th{
+        font-size: 22px;
+    }
+}
+@media screen and (min-width: 320px) and  (max-width: 1198px){
+    .table-currency th{
+        font-size: 26px !important;
+    }
+    .table-currency img{
+        width: 100% !important;
+        height: auto !important;
+        max-height: 100%;
+    }
+}
+/*----------------------*/

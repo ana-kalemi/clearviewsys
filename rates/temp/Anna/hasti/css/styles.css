@@ -1,0 +1,126 @@
+/*-----------------*/
+/*----Base Styles----*/
+/*-----------------*/
+html, body {
+    height: 100%;
+}
+body{
+    font-family: "", sans-serif;
+    font-size: 14px;
+    color: #58585a;
+}
+
+img{
+    max-width: 100% !important;
+}
+
+.wrapper{
+    min-height: 100%;
+    height: auto;
+    margin: 0 auto -35px;
+    padding: 0 0 35px;
+}
+
+/*--------------------------*/
+/*-----------Header---------*/
+/*--------------------------*/
+.header-logo{
+    padding: 20px 0 40px 0;
+}
+
+.header-logo img{
+    margin: 0 auto;
+}
+
+/*------------------------------------*/
+/*------Rate board table styles---*/
+/*------------------------------------*/
+.table-wrapper table thead tr{
+    background: #0b9444;
+    color: #ffffff;
+}
+.table-wrapper table thead tr th{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 17px;
+}
+.table-wrapper table tr td{
+    font-size: 16px;
+}
+.table-wrapper table tbody tr{
+    height: 65px;
+}
+
+.table-wrapper table .flag{
+    width: 9%;
+    color: #0b9444;
+}
+.table-wrapper table .country{
+    min-width: 16%;
+}
+.table-wrapper table .code,
+.table-wrapper table .buy,
+.table-wrapper table .sell,
+.table-wrapper table .invbuy,
+.table-wrapper table .invsell{
+    text-align: center;
+}
+.table-wrapper table .displayColCode,
+.table-wrapper table .displayColWeSell,
+.table-wrapper table .displayColWeBuy,
+.table-wrapper table .displayColINVBuy,
+.table-wrapper table .displayColINVSell{
+    text-align: center;
+}
+
+/*-----------------------------------*/
+/**color theme - green*/
+/*-----------------------------------*/
+.cvs-green tbody tr td{
+    color: #33691e;
+}
+.cvs-green tbody tr:nth-child(odd){
+    background: #dcedc8;
+}
+.cvs-green tbody tr:nth-child(odd) td:nth-child(even){
+    background: #e3efd3;
+}
+.cvs-green tbody tr:nth-child(odd) td:nth-child(odd){
+    background: #dcedc8;
+}
+.cvs-green tbody tr:nth-child(even){
+    background: #edf2e7;
+}
+.cvs-green tbody tr:nth-child(even) td:nth-child(even){
+    background: #f5f7f2;
+}
+.cvs-green tbody tr:nth-child(even) td:nth-child(odd){
+    background: #edf2e7;
+}
+
+/**time update*/
+.time-update-wrapper{
+    padding: 10px 0 10px 0;
+}
+
+.time_update{
+    display: inline-block;
+}
+
+.note-text{
+    display: inline-block;
+}
+/*----------------------*/
+/*------Slider styles--*/
+/*----------------------*/
+
+
+/*------------------*/
+/*-------@media-----------*/
+/*------------------*/
+@media screen and (min-width: 1200px){
+
+}
+@media screen and (min-width: 320px) and  (max-width: 1198px){
+
+}

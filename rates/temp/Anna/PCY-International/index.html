@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>PCY International</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/table-theme.css"/>
+    <link rel="stylesheet" href="css/styles.css"/>
+
+</head>
+<body>
+<section class="wrapper">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="header-logo col-12">
+                <div class="logo">
+                    <img src="images/logo.jpg" alt="">
+                </div>
+                <div>
+                    <span class="company-title">Money Exchange Rate <br>实时汇率</span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="w-100">
+                <!-- table head-->
+                <table class="table table-currency upperSection cvs-yellow-black">
+                    <thead>
+                    <tr>
+                        <th class="flag" width="15%"></th>
+                        <th class="country" width="27%">Country</th>
+                        <th class="code" width="18%">
+                            Currency pair <br>交易货币对</th>
+                        <th class="cur" width="10%">Currency</th>
+                        <th class="buy" width="14%">We Buy Cash <br>现钞买入价</th>
+                        <th class="sell" width="14%">We Sell Cash <br>现钞卖出价</th>
+                        <th class="invbuy" width="14%">We Buy TT <br>现汇买入价</th>
+                        <th class="invsell" width="14%">We Sell TT <br>现汇卖出价</th>
+                    </tr>
+                    </thead>
+                    <tbody class="main_tbody"></tbody>
+                </table>
+                <!-- ------------ -->
+            </div>
+        </div><!--close div /.load-->
+        <!------------------>
+    </div><!--close div  /.container-fluid -->
+</section><!--close /.wrapper'-->
+<section>
+    <div class="container-fluid">
+        <div class="row horizontal">
+            <div class="horizontal_container">
+                <div class="marquee"></div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--footer-->
+<section class="footer">
+    <div class="col-md-12 footer-row">
+        <div class="row">
+            <div class="col-12">
+                <div class="time-update-wrapper">
+                    <p class="time_update"></p>
+                    <p class="note-text"> – Please note rates are subject to change without notice </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!------------------>
+<section>
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-9 notes">
+                <p>* All rates above are indicative. Contact our branch for the latest rates.</p>
+                <p>* 以上汇率仅供参考，具体以实时交易为准。</p>
+                <div class="text-center info-div">
+                    <p>T: 0452 012345</p>
+                    <p>E: info@goldten.com.ua</p>
+                    <p>A: Shop D11, 401 Sussex Street, Haymarket</p>
+                </div>
+            </div>
+            <div class="col-3 img-wrapper">
+                <img src="images/qr-code.gif" alt="">
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+<!-- javascript -->
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.marquee.min.js"></script>
+<script src="js/table_creater_last.js"></script>
+</body>
+</html>

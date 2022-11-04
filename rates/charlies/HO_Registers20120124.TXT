@@ -1,0 +1,1515 @@
+HOREG100174	08/06/11	False	Buy	000	Cash-USD-01	0	500	Received 500.00 Dollars (United States of America) in cash	HOINV10050	False	True	08/06/11	09:25:18	Lily Qi	36	HOCAS100103	USD
+HOREG100175	08/06/11	False	Sell	000	Cash-CAD-01	479.2	0	Paid 479.20 Dollars in cash	HOINV10050	False	False	08/06/11	09:25:24	Lily Qi	36	HOCAS100104	CAD
+HOREG101292	31/01/11	True	Sell	Self	Bank CIBC-USD	6	0	Transfer 6  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10446	False	False	28/07/11	16:42:14	Lily Qi	5	HOINV10446	USD
+HOREG101293	31/01/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	6	Transfer 6  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10446	False	True	28/07/11	16:42:14	Lily Qi	5	HOINV10446	USD
+HOREG101294	28/02/11	True	Sell	Self	Bank CIBC-USD	6	0	Transfer 6  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10447	False	False	28/07/11	16:42:44	Lily Qi	5	HOINV10447	USD
+HOREG101295	28/02/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	6	Transfer 6  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10447	False	True	28/07/11	16:42:44	Lily Qi	5	HOINV10447	USD
+HOREG100180	31/03/11	True	Sell	self	Bank CIBC-USD	6	0	Transfer 6  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10053	False	False	08/06/11	09:46:35	Lily Qi	5	HOINV10053	USD
+HOREG100181	31/03/11	True	Buy	self	Exp. Service Fees Paid-USD	0	6	Transfer 6  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10053	False	True	08/06/11	09:46:35	Lily Qi	5	HOINV10053	USD
+HOREG100214	03/05/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	127.97	Transfer 127.97  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10068	False	True	08/06/11	10:43:37	Lily Qi	5	HOINV10068	USD
+HOREG100182	31/03/11	True	Sell	self	Bank CIBC-USD	0.9	0	Transfer 0.9  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10055	False	False	08/06/11	09:47:31	Lily Qi	5	HOINV10055	USD
+HOREG100183	31/03/11	True	Buy	self	Exp. Service Fees Paid-USD	0	0.9	Transfer 0.9  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10055	False	True	08/06/11	09:47:31	Lily Qi	5	HOINV10055	USD
+HOREG100184	29/04/11	True	Sell	self	Bank CIBC-USD	6	0	Transfer 6  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10056	False	False	08/06/11	09:53:05	Lily Qi	5	HOINV10056	USD
+HOREG100185	29/04/11	True	Buy	self	Exp. Service Fees Paid-USD	0	6	Transfer 6  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10056	False	True	08/06/11	09:53:05	Lily Qi	5	HOINV10056	USD
+HOREG100186	31/05/11	True	Sell	self	Bank CIBC-USD	6	0	Transfer 6  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10057	False	False	08/06/11	09:54:16	Lily Qi	5	HOINV10057	USD
+HOREG100187	31/05/11	True	Buy	self	Exp. Service Fees Paid-USD	0	6	Transfer 6  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10057	False	True	08/06/11	09:54:16	Lily Qi	5	HOINV10057	USD
+HOREG100188	31/05/11	True	Sell	self	Bank CIBC-USD	1.8	0	Transfer 1.8  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10058	False	False	08/06/11	09:56:57	Lily Qi	5	HOINV10058	USD
+HOREG100189	31/05/11	True	Buy	self	Exp. Service Fees Paid-USD	0	1.8	Transfer 1.8  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10058	False	True	08/06/11	09:56:57	Lily Qi	5	HOINV10058	USD
+HOREG100191	01/06/11	False	Buy	000	Cash-CNY-01	0	3000	Received 3,000.00 Yuan Renminbi (China) in cash	HOINV10059	False	True	08/06/11	09:59:43	Lily Qi	36	HOCAS100106	CNY
+HOREG100192	01/06/11	False	Sell	000	Cash-CAD-01	440.52	0	Paid 440.52 Dollars in cash	HOINV10059	False	False	08/06/11	09:59:49	Lily Qi	36	HOCAS100107	CAD
+HOREG100193	04/06/11	False	Buy	HOCUS20016	Cash-USD-01	0	10000	Received 10,000.00 Dollars (United States of America) in cash	HOINV10060	False	True	08/06/11	10:01:52	Lily Qi	36	HOCAS100108	USD
+HOREG100217	04/06/11	False	Sell	HOCUS20016	Cash-CAD-01	9700	0	Paid 9,700.00 Dollars in cash	HOINV10060	False	False	08/06/11	11:00:18	Lily Qi	36	HOCAS100116	CAD
+HOREG101990	08/06/11	True	Buy	self	Cash-USD-01	0	3396	Transfer 3396 USD from Opening Account-USD to account Cash-USD-01.	HOINV10072	False	True	29/09/11	15:57:46	Tony He	5	HOINV10072	USD
+HOREG100230	08/06/11	False	Buy	000	Cash-USD-01	0	409	Received 409.00 Dollars (United States of America) in cash	HOINV10075	False	True	08/06/11	11:25:52	Tony He	36	HOCAS100120	USD
+HOREG100197	07/06/11	False	Buy	000	Cash-USD-01	0	100	Received 100.00 Dollars (United States of America) in cash	HOINV10062	False	True	08/06/11	10:06:14	Lily Qi	36	HOCAS100112	USD
+HOREG100314	13/06/11	True	Sell	Self	Bank CIBC-CAD	580.85	0	Transfer 580.85  from Bank CIBC-CAD to account Exp. Salary & Wages.	HOINV10095	False	False	13/06/11	09:55:47	Lily Qi	5	HOINV10095	CAD
+HOREG102473	08/06/11	True	Buy	self	Opening Balance	0	611.74	Transfer 611.74 CAD from Cash-CAD-01 to account Opening Balance.	HOINV10078	False	True	12/10/11	17:28:01	Tony He	5	HOINV10078	CAD
+HOREG102472	08/06/11	True	Sell	self	Cash-CAD-01	611.74	0	Transfer 611.74 CAD from Cash-CAD-01 to account Opening Balance.	HOINV10078	False	False	12/10/11	17:28:01	Tony He	5	HOINV10078	CAD
+HOREG100207	07/06/11	False	Buy	000	Cash-USD-01	0	320	Received 320.00 Dollars (United States of America) in cash	HOINV10065	False	True	08/06/11	10:25:52	Lily Qi	36	HOCAS100114	USD
+HOREG100208	07/06/11	False	Sell	000	Cash-CAD-01	309.73	0	Paid 309.73 Dollars in cash	HOINV10065	False	False	08/06/11	10:26:01	Lily Qi	36	HOCAS100115	CAD
+HOREG100231	08/06/11	False	Sell	000	Cash-CAD-01	392	0	Paid 392.00 Dollars in cash	HOINV10075	False	False	08/06/11	11:26:00	Lily Qi	36	HOCAS100121	CAD
+HOREG100232	08/06/11	True	Sell	self	Cash-USD-01	7000	0	Transfer 7000  from Cash-USD-01 to account Cash-USD-02.	HOINV10074	False	False	08/06/11	11:31:16	Administrator	5	HOINV10074	USD
+HOREG101096	07/06/11	False	Buy	Self	Cash-CAD-01	0	600	Received 600.00 Dollars in cash	HOINV10067	False	True	22/07/11	13:12:32	Lily Qi	36	HOCAS100367	CAD
+HOREG101095	07/06/11	False	Sell	Self	Opening Balance	600	0	600.00 CAD paid from  Opening Balance. 	HOINV10067	False	False	22/07/11	13:12:13	Lily Qi	37	HOACC100133	CAD
+HOREG100213	03/05/11	True	Sell	Self	Bank CIBC-USD	127.97	0	Transfer 127.97  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10068	False	False	08/06/11	10:43:37	Lily Qi	5	HOINV10068	USD
+HOREG100198	07/06/11	False	Sell	000	Cash-CAD-01	95.35	0	Paid 95.35 Dollars in cash	HOINV10062	False	False	08/06/11	10:06:21	Lily Qi	36	HOCAS100113	CAD
+HOREG101284	14/01/11	True	Sell	Self	Exp. Service Fees Paid-USD	6.9	0	Transfer 6.9  from Exp. Service Fees Paid-USD to account Bank CIBC-USD.	HOINV10443	False	False	28/07/11	16:14:58	Lily Qi	5	HOINV10443	USD
+HOREG101290	31/12/10	True	Sell	Self	Opening Account-USD	83	0	Transfer 83  from Opening Account-USD to account Bank CIBC-USD.	HOINV10445	False	False	28/07/11	16:24:11	Lily Qi	5	HOINV10445	USD
+HOREG101291	31/12/10	True	Buy	Self	Bank CIBC-USD	0	83	Transfer 83  from Opening Account-USD to account Bank CIBC-USD.	HOINV10445	False	True	28/07/11	16:24:11	Lily Qi	5	HOINV10445	USD
+HOREG100233	08/06/11	True	Buy	self	Cash-USD-02	0	7000	Transfer 7000  from Cash-USD-01 to account Cash-USD-02.	HOINV10074	False	True	08/06/11	11:31:16	Administrator	5	HOINV10074	USD
+HOREG102471	08/06/11	True	Buy	self	Cash-CAD-01	0	5011.52	Transfer 5011.52 CAD from Opening Balance to account Cash-CAD-01.	HOINV10077	False	True	12/10/11	17:21:47	Tony He	5	HOINV10077	CAD
+HOREG102470	08/06/11	True	Sell	self	Opening Balance	5011.52	0	Transfer 5011.52 CAD from Opening Balance to account Cash-CAD-01.	HOINV10077	False	False	12/10/11	17:21:47	Tony He	5	HOINV10077	CAD
+HOREG102002	30/09/11	False	Buy	000	Cash-USD-01	0	20	Received 20.00 Dollars (United States of America) in cash	HOINV10675	False	True	30/09/11	13:25:29	Frances	36	HOCAS100593	USD
+HOREG101998	30/09/11	False	Sell	000	Cash-CAD-01	51.27	0	Paid 51.27 Dollars in cash	HOINV10674	False	False	30/09/11	11:13:39	Frances	36	HOCAS100592	CAD
+HOREG101285	14/01/11	True	Buy	Self	Bank CIBC-USD	0	6.9	Transfer 6.9  from Exp. Service Fees Paid-USD to account Bank CIBC-USD.	HOINV10443	False	True	28/07/11	16:14:58	Lily Qi	5	HOINV10443	USD
+HOREG100315	13/06/11	True	Buy	Self	Exp. Salary & Wages	0	580.85	Transfer 580.85  from Bank CIBC-CAD to account Exp. Salary & Wages.	HOINV10095	False	True	13/06/11	09:55:47	Lily Qi	5	HOINV10095	CAD
+HOREG102475	13/10/11	False	Buy	HOCUS20141	Cash-CAD-01	0	2500	Received 2,500.00 Dollars in cash	HOINV10830	False	True	13/10/11	10:32:12	Frances	36	HOCAS100647	CAD
+HOREG102476	13/10/11	False	Sell	HOCUS20141	EWire Money Transfer-CNY	15475	0	Send eWire:  HOEWI10204 
+Sender:  Chuang Xu sent 15,475.00 CNY 
+From  Canada to China Haerbing 
+Recepient:  Miss. Jing Zhang - HOLIN1129 -  
+ Home:  13019015605Recepient Address:  501-6 No78 Anjing St Daoli District  
+Recepient Bank:  Industrial And Commercial Bank Of China 
+Branch Transit:  Dazhi Branch  
+Account #:  3500000701102630156 
+Bank Address:  99 Dongdazhi St Nanan District , Haerbing  
+	HOINV10830	False	False	13/10/11	10:36:43	Frances	13	HOEWI10204	CNY
+HOREG101091	30/12/10	False	Buy	self	Bank CIBC-CAD	0	30200	30,200.00 CAD received in  Bank CIBC-CAD. 	HOINV10081	False	True	22/07/11	13:10:56	Lucy Zhang	37	HOACC100131	CAD
+HOREG101090	30/12/10	False	Sell	self	Opening Balance	30200	0	30,200.00 CAD paid from  Opening Balance. 	HOINV10081	False	False	22/07/11	13:10:40	Lucy Zhang	37	HOACC100130	CAD
+HOREG102766	31/07/11	True	Sell	Self	Bank ATB-CAD	1.6	0	Transfer 1.6  from Bank ATB-CAD to account Exp. Bank Fees.	HOINV10963	False	False	20/10/11	10:44:26	Frances	5	HOINV10963	CAD
+HOREG102774	19/10/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from EWire Money Transfer Service-CNY to account Exp. Service Fees Paid-CNY.	HOINV10964	False	False	20/10/11	11:17:52	Frances	5	HOINV10964	CNY
+HOREG103188	29/04/11	True	Buy	Self	Exp. Bank Fees	0	35	Transfer 35 CAD from Bank CIBC-CAD to account Exp. Bank Fees.	HOINV10373	False	True	15/11/11	15:15:42	Frances	5	HOINV10373	CAD
+HOREG103187	29/04/11	True	Sell	Self	Bank CIBC-CAD	35	0	Transfer 35 CAD from Bank CIBC-CAD to account Exp. Bank Fees.	HOINV10373	False	False	15/11/11	15:15:42	Frances	5	HOINV10373	CAD
+HOREG103186	31/03/11	True	Buy	Self	Exp. Bank Fees	0	35	Transfer 35 CAD from Bank CIBC-CAD to account Exp. Bank Fees.	HOINV10372	False	True	15/11/11	15:15:08	Frances	5	HOINV10372	CAD
+HOREG103185	31/03/11	True	Sell	Self	Bank CIBC-CAD	35	0	Transfer 35 CAD from Bank CIBC-CAD to account Exp. Bank Fees.	HOINV10372	False	False	15/11/11	15:15:08	Frances	5	HOINV10372	CAD
+HOREG103184	28/02/11	True	Buy	Self	Exp. Bank Fees	0	35	Transfer 35 CAD from Bank CIBC-CAD to account Exp. Bank Fees.	HOINV10371	False	True	15/11/11	15:14:18	Frances	5	HOINV10371	CAD
+HOREG103183	28/02/11	True	Sell	Self	Bank CIBC-CAD	35	0	Transfer 35 CAD from Bank CIBC-CAD to account Exp. Bank Fees.	HOINV10371	False	False	15/11/11	15:14:18	Frances	5	HOINV10371	CAD
+HOREG103192	30/06/11	True	Buy	Self	Exp. Bank Fees	0	35	Transfer 35 CAD from Bank CIBC-CAD to account Exp. Bank Fees.	HOINV10370	False	True	15/11/11	15:17:07	Frances	5	HOINV10370	CAD
+HOREG103191	30/06/11	True	Sell	Self	Bank CIBC-CAD	35	0	Transfer 35 CAD from Bank CIBC-CAD to account Exp. Bank Fees.	HOINV10370	False	False	15/11/11	15:17:07	Frances	5	HOINV10370	CAD
+HOREG100274	08/06/11	False	Buy	HOCUS20019	Cash-CNY-01	0	10000	Received 10,000.00 Yuan Renminbi (China) in cash	HOINV10083	False	True	08/06/11	14:21:00	Lily Qi	36	HOCAS100136	CNY
+HOREG100275	08/06/11	False	Sell	HOCUS20019	Cash-CAD-01	1512.91	0	Paid 1,512.91 Dollars in cash	HOINV10083	False	False	08/06/11	14:21:14	Lily Qi	36	HOCAS100137	CAD
+HOREG100278	09/06/11	True	Sell	self	Bank CIBC-CAD	3050	0	Transfer 3050  from Bank CIBC-CAD to account Exp. Office Renovation.LuckyStar Renovations-final pay	HOINV10084	False	False	09/06/11	09:31:00	Lily Qi	5	HOINV10084	CAD
+HOREG100279	09/06/11	True	Buy	self	Exp. Office Renovation	0	3050	Transfer 3050  from Bank CIBC-CAD to account Exp. Office Renovation.LuckyStar Renovations-final pay	HOINV10084	False	True	09/06/11	09:31:00	Lily Qi	5	HOINV10084	CAD
+HOREG100280	09/06/11	True	Sell	Self	Bank CIBC-CAD	1000	0	Transfer 1000  from Bank CIBC-CAD to account Cash-CAD-01.	HOINV10085	False	False	09/06/11	09:39:28	Lily Qi	5	HOINV10085	CAD
+HOREG100281	09/06/11	True	Buy	Self	Cash-CAD-01	0	1000	Transfer 1000  from Bank CIBC-CAD to account Cash-CAD-01.	HOINV10085	False	True	09/06/11	09:39:28	Lily Qi	5	HOINV10085	CAD
+HOREG101851	21/09/11	True	Buy	Self	Cash-CAD-02	0	900	Transfer 900  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10629	False	True	21/09/11	17:43:58	Tony He	5	HOINV10629	CAD
+HOREG101850	21/09/11	True	Sell	Self	Cash-CAD-01	900	0	Transfer 900  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10629	False	False	21/09/11	17:43:58	Tony He	5	HOINV10629	CAD
+HOREG100286	09/06/11	True	Sell	Self	Bank BMO-CAD	1000	0	Transfer 1000  from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10087	False	False	09/06/11	10:42:39	Lily Qi	5	HOINV10087	CAD
+HOREG100287	09/06/11	True	Buy	Self	Exp. Bank Fees	0	1000	Transfer 1000  from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10087	False	True	09/06/11	10:42:39	Lily Qi	5	HOINV10087	CAD
+HOREG100288	09/06/11	True	Sell	Self	Bank BMO-CAD	50	0	Transfer 50 CAD from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10087	False	False	09/06/11	10:43:01	Lily Qi	5	HOINV10087	CAD
+HOREG100289	09/06/11	True	Buy	Self	Exp. Bank Fees	0	50	Transfer 50 CAD from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10087	False	True	09/06/11	10:43:02	Lily Qi	5	HOINV10087	CAD
+HOREG100290	09/06/11	True	Sell	Self	Bank BMO-CAD	1	0	Transfer 1 CAD from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10087	False	False	09/06/11	10:43:18	Lily Qi	5	HOINV10087	CAD
+HOREG100291	09/06/11	True	Buy	Self	Exp. Bank Fees	0	1	Transfer 1 CAD from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10087	False	True	09/06/11	10:43:18	Lily Qi	5	HOINV10087	CAD
+HOREG102638	13/04/11	False	Buy	HOCUS20012	Bank ATB-CAD	0	8000	Cheque Received 
+Amount:  8000 CAD 
+Cheque Type:  Draft 
+Cheque No:  00002 
+To the order of:  BDT Financial Ltd. 
+Bank:  Servus 
+	HOINV10911	False	True	17/10/11	12:14:37	Tony He	1	HOCHE100144	CAD
+HOREG102639	13/04/11	False	Sell	HOCUS20012	EWire Money Transfer-CNY	54105.6	0	Send eWire:  HOEWI10217 
+Sender:  Yahui Wang sent 54,105.60 CNY 
+From  Canada to China Haebing 
+Recepient:  Mr. Shoutian Gong - HOLIN1105 -  
+Recepient Address:  Yinghang Shushe, Longhang Songhuajiang Branch 
+Recepient Bank:  Bank Of China 
+Branch Transit:  Haebing Branch 
+Bank Address:  Haebing 
+	HOINV10911	False	False	17/10/11	12:15:42	Tony He	13	HOEWI10217	CNY
+HOREG102003	30/09/11	False	Sell	000	Cash-CAD-01	20.59	0	Paid 20.59 Dollars in cash	HOINV10675	False	False	30/09/11	13:25:35	Frances	36	HOCAS100594	CAD
+HOREG102726	28/04/11	True	Buy	Self	Bank ATB-CAD	0	8200	Transfer 8200  from Opening Balance to account Bank ATB-CAD.	HOINV10941	False	True	19/10/11	11:31:13	Tony He	5	HOINV10941	CAD
+HOREG102725	28/04/11	True	Sell	Self	Opening Balance	8200	0	Transfer 8200  from Opening Balance to account Bank ATB-CAD.	HOINV10941	False	False	19/10/11	11:31:13	Tony He	5	HOINV10941	CAD
+HOREG100318	13/06/11	False	Sell	HOCUS20020	Cash-USD-01	6000	0	Paid 6,000.00 Dollars (United States of America) in cash	HOINV10096	False	False	13/06/11	10:10:55	Lily Qi	36	HOCAS100145	USD
+HOREG100319	13/06/11	False	Buy	HOCUS20020	Cash-CAD-01	0	5880	Received 5,880.00 Dollars in cash	HOINV10096	False	True	13/06/11	10:11:09	Lily Qi	36	HOCAS100146	CAD
+HOREG100320	13/06/11	True	Sell	self	Cash-USD-02	6000	0	Transfer 6000  from Cash-USD-02 to account Cash-USD-01.	HOINV10097	False	False	13/06/11	10:12:55	Tony He	5	HOINV10097	USD
+HOREG100321	13/06/11	True	Buy	self	Cash-USD-01	0	6000	Transfer 6000  from Cash-USD-02 to account Cash-USD-01.	HOINV10097	False	True	13/06/11	10:12:55	Tony He	5	HOINV10097	USD
+HOREG100329	13/06/11	False	Buy	HOCUS20022	Cash-USD-01	0	500	Received 500.00 Dollars (United States of America) in cash	HOINV10100	False	True	13/06/11	11:15:15	Lily Qi	36	HOCAS100153	USD
+HOREG101997	30/09/11	False	Buy	000	Cash-USD-01	0	50	Received 50.00 Dollars (United States of America) in cash	HOINV10674	False	True	30/09/11	11:13:31	Frances	36	HOCAS100591	USD
+HOREG101991	05/08/11	False	Sell	000	Cash-CAD-01	0.82	0	Paid 0.82 Dollars in cash	HOINV10460	False	False	29/09/11	16:03:02	Tony He	36	HOCAS100590	CAD
+HOREG101962	13/06/11	False	Sell	HOCUS20022	EWire Money Transfer-CNY	3216.8	0	Send eWire:  HOEWI10011 
+Sender:  Peter Too sent 3,216.80 CNY 
+From  Canada to China Chu Zhou Shi 
+Recepient:   Guo Huan Gong - HOLIN1011 -  
+ Cell:  15900942645Recepient Bank:  Bank Of China 
+Account #:  6216616309000255312 
+	HOINV10100	False	False	29/09/11	14:32:42	Tony He	13	HOEWI10011	CNY
+HOREG100333	13/06/11	False	Buy	HOCUS20022	Cash-CAD-01	0	0.94	Received 0.94 Dollars in cash	HOINV10100	False	True	13/06/11	11:18:13	Lily Qi	36	HOCAS100156	CAD
+HOREG101963	13/06/11	False	Sell	HOCUS20023	EWire Money Transfer-CNY	30000	0	Send eWire:  HOEWI10012 
+Sender:  Jiyun Ren sent 30,000.00 CNY 
+From  Canada to China Dong Tai Shi 
+Recepient:   Zhili Ren - HOLIN1012 -  
+ Home:  8651585550309Recepient Address:  Dong Tai Shi Ran Duo Zhen Gong Guan Xiang #39. Jiangsu Province, China 
+Recepient Bank:  Agriculture, Bank Of China 
+Account #:  9559981980703966418 
+Bank Address:  Bank Of Agriculture Jiangsu Province Yan Cheng Shi 
+	HOINV10101	False	False	29/09/11	14:33:12	Tony He	13	HOEWI10012	CNY
+HOREG100335	13/06/11	False	Buy	HOCUS20023	Cash-CAD-01	0	4560.28	Received 4,560.28 Dollars in cash	HOINV10101	False	True	13/06/11	11:42:44	Lily Qi	36	HOCAS100157	CAD
+HOREG100336	13/06/11	False	Sell	HOCUS20023	Cash-CAD-01	1	0	Paid 1.00 Dollars in cash	HOINV10101	False	False	13/06/11	11:43:08	Lily Qi	36	HOCAS100158	CAD
+HOREG100337	13/06/11	True	Sell	Self	Cash-CAD-01	8000	0	Transfer 8000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10102	False	False	13/06/11	11:50:53	Lily Qi	5	HOINV10102	CAD
+HOREG100338	13/06/11	True	Buy	Self	Cash-CAD-02	0	8000	Transfer 8000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10102	False	True	13/06/11	11:50:53	Lily Qi	5	HOINV10102	CAD
+HOREG100339	13/06/11	True	Sell	Self	Cash-CAD-01	15.45	0	Transfer 15.45  from Cash-CAD-01 to account Exp. Advertisement.	HOINV10103	False	False	13/06/11	14:31:07	Lily Qi	5	HOINV10103	CAD
+HOREG100340	13/06/11	True	Buy	Self	Exp. Advertisement and Promotion	0	15.45	Transfer 15.45  from Cash-CAD-01 to account Exp. Advertisement.	HOINV10103	False	True	13/06/11	14:31:07	Lily Qi	5	HOINV10103	CAD
+HOREG100341	13/06/11	False	Buy	HOCUS20024	Cash-CAD-01	0	1000	Received 1,000.00 Dollars in cash	HOINV10104	False	True	13/06/11	16:44:10	Lily Qi	36	HOCAS100159	CAD
+HOREG101964	13/06/11	False	Sell	HOCUS20024	EWire Money Transfer-CNY	6561.21	0	Send eWire:  HOEWI10013 
+Sender:  Wei Ming Wu sent 6,561.21 CNY 
+From  Canada to China  
+Recepient:   Ri Heng Jiang - HOLIN1013 -  
+ Cell:  15917824880Recepient Bank:  Bank Of Commerce 
+Account #:  6222023602035174291 
+	HOINV10104	False	False	29/09/11	14:34:08	Tony He	13	HOEWI10013	CNY
+HOREG100350	14/06/11	False	Buy	HOCUS20008	Cash-CAD-01	0	5000	Received 5,000.00 Dollars in cash	HOINV10108	False	True	14/06/11	15:08:42	Tony He	36	HOCAS100166	CAD
+HOREG101965	14/06/11	False	Sell	HOCUS20008	EWire Money Transfer-CNY	33154.96	0	Send eWire:  HOEWI10015 
+Sender:  Feng Chun Zhao sent 33,154.96 CNY 
+From  Canada to China Jiangmen 
+Recepient:   Miaochang Zhao - HOLIN1014 -  
+ Cell:  13822340338Recepient Address:  Zhupai Street, Jiangmen, Guangdong, China 
+Recepient Bank:  Bank Of China 
+Branch Transit:  Jiangmen City Donghua Branch 
+Account #:  475022101880101708 
+Bank Address:  Donghua Branch, Jiangmen, Guangdong, China 
+Notify by Phone:  13822340338 
+	HOINV10108	False	False	29/09/11	14:34:58	Tony He	13	HOEWI10015	CNY
+HOREG100346	14/06/11	False	Buy	000	Cash-USD-01	0	40	Received 40.00 Dollars (United States of America) in cash	HOINV10106	False	True	14/06/11	09:35:36	Tony He	36	HOCAS100162	USD
+HOREG100347	14/06/11	False	Sell	000	Cash-CAD-01	37.94	0	Paid 37.94 Dollars in cash	HOINV10106	False	False	14/06/11	09:35:38	Tony He	36	HOCAS100163	CAD
+HOREG100348	14/06/11	False	Buy	000	Cash-USD-01	0	100	Received 100.00 Dollars (United States of America) in cash	HOINV10107	False	True	14/06/11	09:36:47	Tony He	36	HOCAS100164	USD
+HOREG100349	14/06/11	False	Sell	000	Cash-CAD-01	94.84	0	Paid 94.84 Dollars in cash	HOINV10107	False	False	14/06/11	09:36:48	Tony He	36	HOCAS100165	CAD
+HOREG102222	24/02/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	33504.5	33,504.50 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10731	False	True	06/10/11	17:05:37	Tony He	37	HOACC100264	CNY
+HOREG102223	24/02/11	False	Sell	Self	EWire Money Transfer Service-CAD	5000	0	5,000.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10731	False	False	06/10/11	17:05:53	Tony He	37	HOACC100265	CAD
+HOREG100359	15/06/11	True	Sell	self	Cash-CAD-01	5000	0	Transfer 5000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10110	False	False	15/06/11	09:11:05	Tony He	5	HOINV10110	CAD
+HOREG100360	15/06/11	True	Buy	self	Cash-CAD-02	0	5000	Transfer 5000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10110	False	True	15/06/11	09:11:05	Tony He	5	HOINV10110	CAD
+HOREG100361	15/06/11	False	Buy	000	Cash-USD-01	0	100	Received 100.00 Dollars (United States of America) in cash	HOINV10111	False	True	15/06/11	10:14:13	Lily Qi	36	HOCAS100168	USD
+HOREG100362	15/06/11	False	Sell	000	Cash-CAD-01	96.08	0	Paid 96.08 Dollars in cash	HOINV10111	False	False	15/06/11	10:14:18	Lily Qi	36	HOCAS100169	CAD
+HOREG100363	15/06/11	False	Buy	000	Cash-USD-01	0	100	Received 100.00 Dollars (United States of America) in cash	HOINV10112	False	True	15/06/11	15:29:29	Lily Qi	36	HOCAS100170	USD
+HOREG100364	15/06/11	False	Sell	000	Cash-CAD-01	95.9	0	Paid 95.90 Dollars in cash	HOINV10112	False	False	15/06/11	15:29:45	Lily Qi	36	HOCAS100171	CAD
+HOREG100365	16/06/11	True	Sell	Self	Bank CIBC-CAD	15000	0	Transfer 15000  from Bank CIBC-CAD to account Bank BMO-CAD.	HOINV10113	False	False	16/06/11	10:11:10	Lily Qi	5	HOINV10113	CAD
+HOREG100366	16/06/11	True	Buy	Self	Bank BMO-CAD	0	15000	Transfer 15000  from Bank CIBC-CAD to account Bank BMO-CAD.	HOINV10113	False	True	16/06/11	10:11:10	Lily Qi	5	HOINV10113	CAD
+HOREG100367	16/06/11	True	Sell	Self	Cash-CAD-01	120	0	Transfer 120  from Cash-CAD-01 to account Bank BMO-CAD.	HOINV10114	False	False	16/06/11	10:15:29	Lily Qi	5	HOINV10114	CAD
+HOREG100368	16/06/11	True	Buy	Self	Bank BMO-CAD	0	120	Transfer 120  from Cash-CAD-01 to account Bank BMO-CAD.	HOINV10114	False	True	16/06/11	10:15:29	Lily Qi	5	HOINV10114	CAD
+HOREG100369	16/06/11	True	Sell	Self	Bank CIBC-USD	30790	0	Transfer 30790 CAD from Bank CIBC-USD to account Bank BMO-USD.	HOINV10114	False	False	16/06/11	10:16:05	Lily Qi	5	HOINV10114	USD
+HOREG100370	16/06/11	True	Buy	Self	Bank BMO-USD	0	30790	Transfer 30790 CAD from Bank CIBC-USD to account Bank BMO-USD.	HOINV10114	False	True	16/06/11	10:16:05	Lily Qi	5	HOINV10114	USD
+HOREG100373	16/06/11	True	Sell	Self	Opening Balance	15000	0	Transfer 15000  from Opening Balance to account Bank BMO-CAD.	HOINV10115	False	False	16/06/11	10:17:53	Lily Qi	5	HOINV10115	CAD
+HOREG100374	16/06/11	True	Buy	Self	Bank BMO-CAD	0	15000	Transfer 15000  from Opening Balance to account Bank BMO-CAD.	HOINV10115	False	True	16/06/11	10:17:53	Lily Qi	5	HOINV10115	CAD
+HOREG100376	16/06/11	False	Buy	HOCUS20025	Cash-CNY-01	0	6600	Received 6,600.00 Yuan Renminbi (China) in cash	HOINV10116	False	True	16/06/11	12:44:47	Lily Qi	36	HOCAS100173	CNY
+HOREG100377	16/06/11	False	Sell	HOCUS20025	Cash-CAD-01	1004.74	0	Paid 1,004.74 Dollars in cash	HOINV10116	False	False	16/06/11	12:44:55	Lily Qi	36	HOCAS100174	CAD
+HOREG100378	16/06/11	True	Sell	Self	Cash-CNY-01	15000	0	Transfer 15000  from Cash-CNY-01 to account Cash-CNY-02.	HOINV10117	False	False	16/06/11	12:59:20	Lily Qi	5	HOINV10117	CNY
+HOREG100379	16/06/11	True	Buy	Self	Cash-CNY-02	0	15000	Transfer 15000  from Cash-CNY-01 to account Cash-CNY-02.	HOINV10117	False	True	16/06/11	12:59:20	Lily Qi	5	HOINV10117	CNY
+HOREG100380	16/06/11	False	Buy	000	Cash-USD-01	0	100	Received 100.00 Dollars (United States of America) in cash	HOINV10118	False	True	16/06/11	15:42:48	Lily Qi	36	HOCAS100175	USD
+HOREG100381	16/06/11	False	Sell	000	Cash-CAD-01	95.38	0	Paid 95.38 Dollars in cash	HOINV10118	False	False	16/06/11	15:42:58	Lily Qi	36	HOCAS100176	CAD
+HOREG100383	17/06/11	True	Sell	Self	Cash-CAD-02	1000	0	Transfer 1000  from Cash-CAD-02 to account Cash-CAD-01.	HOINV10119	False	False	17/06/11	10:47:06	Lily Qi	5	HOINV10119	CAD
+HOREG100384	17/06/11	True	Buy	Self	Cash-CAD-01	0	1000	Transfer 1000  from Cash-CAD-02 to account Cash-CAD-01.	HOINV10119	False	True	17/06/11	10:47:06	Lily Qi	5	HOINV10119	CAD
+HOREG100387	17/06/11	False	Buy	HOCUS20018	Bank BMO-CAD	0	4000	Cheque Received 
+Amount:  4000 CAD 
+Cheque Type:  Draft 
+Cheque No:  971327606416 
+To the order of:  BDT Financial Ltd. 
+Bank:  RBC 
+	HOINV10120	False	True	17/06/11	14:30:17	Lily Qi	1	HOCHE100018	CAD
+HOREG101966	17/06/11	False	Sell	HOCUS20018	EWire Money Transfer-CNY	26381.22	0	Send eWire:  HOEWI10016 
+Sender:  Nancy Lan Gong sent 26,381.22 CNY 
+From  Canada to China Chengning/Hubei 
+Recepient:   Lin Liu - HOLIN1015 -  
+ Cell:  13737230666Recepient Address:  Wenquan Jinhe Road #37 
+Recepient Bank:  Bank Of Agriculture 
+Account #:  6228482400436982516 
+	HOINV10120	False	False	29/09/11	14:35:24	Tony He	13	HOEWI10016	CNY
+HOREG100390	17/06/11	False	Sell	HOCUS20021	Cheque Payable-CAD	80000	0	Cheque Paid 
+Amount:  80000 CAD 
+To the order of:  Geng Sheng Weng 
+	HOINV10121	False	False	17/06/11	15:11:03	Lily Qi	1	HOCHE100020	CAD
+HOREG100391	17/06/11	False	Buy	HOCUS20021	Bank BMO-CAD	0	80000	Cheque Received 
+Amount:  80000 CAD 
+Cheque Type:  Draft 
+Cheque No:  227781036 
+To the order of:  BDT Financial Ltd. 
+Bank:  CIBC 
+	HOINV10121	False	True	17/06/11	15:11:48	Lily Qi	1	HOCHE100021	CAD
+HOREG100392	17/06/11	True	Sell	Self	Bank ATB-CAD	48000	0	Transfer 48000  from Bank ATB-CAD to account Bank BMO-CAD.	HOINV10122	False	False	17/06/11	15:44:29	Lily Qi	5	HOINV10122	CAD
+HOREG100393	17/06/11	True	Buy	Self	Bank BMO-CAD	0	48000	Transfer 48000  from Bank ATB-CAD to account Bank BMO-CAD.	HOINV10122	False	True	17/06/11	15:44:29	Lily Qi	5	HOINV10122	CAD
+HOREG100394	17/06/11	True	Sell	Self	Bank BMO-CAD	60000	0	Transfer 60000  from Bank BMO-CAD to account Everforex-CAD.	HOINV10123	False	False	17/06/11	15:45:11	Lily Qi	5	HOINV10123	CAD
+HOREG100395	17/06/11	True	Buy	Self	EWire Money Transfer Service-CAD	0	60000	Transfer 60000  from Bank BMO-CAD to account Everforex-CAD.	HOINV10123	False	True	17/06/11	15:45:11	Lily Qi	5	HOINV10123	CAD
+HOREG100397	17/06/11	True	Sell	Self	Cash-CAD-02	7000	0	Transfer 7000  from Cash-CAD-02 to account Bank CIBC-CAD.	HOINV10124	False	False	17/06/11	15:49:11	Tony He	5	HOINV10124	CAD
+HOREG100398	17/06/11	True	Buy	Self	Bank CIBC-CAD	0	7000	Transfer 7000  from Cash-CAD-02 to account Bank CIBC-CAD.	HOINV10124	False	True	17/06/11	15:49:11	Tony He	5	HOINV10124	CAD
+HOREG100399	20/06/11	False	Buy	000	Cash-USD-01	0	500	Received 500.00 Dollars (United States of America) in cash	HOINV10125	False	True	20/06/11	10:12:56	Lily Qi	36	HOCAS100179	USD
+HOREG100400	20/06/11	False	Sell	000	Cash-CAD-01	475.35	0	Paid 475.35 Dollars in cash	HOINV10125	False	False	20/06/11	10:13:00	Lily Qi	36	HOCAS100180	CAD
+HOREG100401	20/06/11	True	Sell	Self	Cash-CAD-02	5000	0	Transfer 5000  from Cash-CAD-02 to account Cash-CAD-01.	HOINV10126	False	False	20/06/11	10:42:17	Lily Qi	5	HOINV10126	CAD
+HOREG100402	20/06/11	True	Buy	Self	Cash-CAD-01	0	5000	Transfer 5000  from Cash-CAD-02 to account Cash-CAD-01.	HOINV10126	False	True	20/06/11	10:42:17	Lily Qi	5	HOINV10126	CAD
+HOREG100403	20/06/11	True	Sell	Self	Bank CIBC-CAD	5000	0	Transfer 5000 CAD from Bank CIBC-CAD to account Cash-CAD-01.	HOINV10126	False	False	20/06/11	10:42:31	Lily Qi	5	HOINV10126	CAD
+HOREG100404	20/06/11	True	Buy	Self	Cash-CAD-01	0	5000	Transfer 5000 CAD from Bank CIBC-CAD to account Cash-CAD-01.	HOINV10126	False	True	20/06/11	10:42:31	Lily Qi	5	HOINV10126	CAD
+HOREG100443	20/06/11	False	Buy	HOCUS20027	Bank BMO-CAD	0	1000	1,000.00 CAD received in  Bank BMO-CAD. 	HOINV10130	False	True	20/06/11	12:17:46	Lily Qi	37	HOACC100041	CAD
+HOREG101967	20/06/11	False	Sell	HOCUS20027	EWire Money Transfer-CNY	6559.01	0	Send eWire:  HOEWI10023 
+Sender:  Bin Xie sent 6,559.01 CNY 
+From  Canada to China Chaohu/Anhui 
+Recepient:   Zhengding Xie - HOLIN1023 -  
+ Cell:  13966327377Recepient Address:  Second People's Hospital South District Move Back Building Unit 3 Room 304 
+Recepient Bank:  Construction Bank 
+Branch Transit:  Chaohu Branch 
+Account #:  1752259980110296841 
+	HOINV10130	False	False	29/09/11	14:36:54	Tony He	13	HOEWI10023	CNY
+HOREG100569	22/06/11	True	Sell	Self	Bank BMO-CAD	2000	0	Transfer 2000  from Bank BMO-CAD to account Exp. BMO Credit Card Payment.	HOINV10153	False	False	22/06/11	17:00:33	Tony He	5	HOINV10153	CAD
+HOREG104173	22/06/11	True	Buy	Self	Exp. BMO CAD Credit Card	0	2000	Transfer 2000 CAD from Bank BMO-CAD to account Exp. BMO Credit Card.	HOINV10153	False	True	23/01/12	16:12:21	Tony He	5	HOINV10153	CAD
+HOREG100575	23/06/11	False	Buy	000	Cash-USD-01	0	50	Received 50.00 Dollars (United States of America) in cash	HOINV10154	False	True	23/06/11	10:52:42	Lily Qi	36	HOCAS100243	USD
+HOREG100576	23/06/11	False	Sell	000	Cash-CAD-01	47.65	0	Paid 47.65 Dollars in cash	HOINV10154	False	False	23/06/11	10:52:49	Lily Qi	36	HOCAS100244	CAD
+HOREG100518	20/06/11	False	Buy	000	Cash-USD-01	0	1215	Received 1,215.00 Dollars (United States of America) in cash	HOINV10137	False	True	20/06/11	17:02:01	Lily Qi	36	HOCAS100213	USD
+HOREG100519	20/06/11	False	Sell	000	Cash-CAD-01	1156.19	0	Paid 1,156.19 Dollars in cash	HOINV10137	False	False	20/06/11	17:02:05	Lily Qi	36	HOCAS100214	CAD
+HOREG100520	20/06/11	False	Buy	000	Cash-USD-01	0	100	Received 100.00 Dollars (United States of America) in cash	HOINV10138	False	True	20/06/11	17:04:20	Lily Qi	36	HOCAS100215	USD
+HOREG100521	20/06/11	False	Sell	000	Cash-CAD-01	95.16	0	Paid 95.16 Dollars in cash	HOINV10138	False	False	20/06/11	17:04:23	Lily Qi	36	HOCAS100216	CAD
+HOREG101055	20/06/11	False	Sell	HOCUS20029	Account Pending - CNY	234800	0	234,800.00 CNY paid from  Account Pending - CNY. 	HOINV10139	False	False	18/07/11	12:20:21	Tony He	37	HOACC100127	CNY
+HOREG101970	20/06/11	False	Buy	HOCUS20029	EWire Money Transfer-CNY	0	234800	Received eWire:  HOEWI10070 for :  Zhuangli Mu - HOCUS20029 
+Sender:  Renxin Mu - HOLIN1029 paid 234,800.00 CNY 
+From  China to Canada 
+Received Amount (set at source):  234,800.00 CNY 
+Sender Address:  Laishan District LumingCommunity 
+    Yantai/Shandong, China 
+	HOINV10139	False	True	29/09/11	14:42:15	Tony He	13	HOEWI10070	CNY
+HOREG100528	20/06/11	False	Buy	HOCUS20029	Account Pending - CNY	0	66248.86	66,248.86 CNY received in  Account Pending - CNY. 	HOINV10141	False	True	20/06/11	17:48:33	Lily Qi	37	HOACC100085	CNY
+HOREG100529	20/06/11	False	Sell	HOCUS20029	Cash-CAD-01	10000	0	Paid 10,000.00 Dollars in cash	HOINV10141	False	False	20/06/11	17:48:45	Lily Qi	36	HOCAS100218	CAD
+HOREG100530	20/06/11	False	Buy	HOCUS20029	Account Pending - CNY	0	66439.89	66,439.89 CNY received in  Account Pending - CNY. 	HOINV10141	False	True	20/06/11	17:50:43	Lily Qi	37	HOACC100086	CNY
+HOREG100531	20/06/11	False	Sell	HOCUS20029	Bank BMO-CAD	10000	0	Cheque Paid 
+Amount:  10000 CAD 
+Cheque No:  001 
+To the order of:  Zhuangli Mu 
+	HOINV10141	False	False	20/06/11	17:51:36	Lily Qi	1	HOCHE100026	CAD
+HOREG101968	20/06/11	False	Sell	HOCUS20030	EWire Money Transfer-CNY	2580.38	0	Send eWire:  HOEWI10025 
+Sender:  7807182518 2518 sent 2,580.38 CNY 
+From  Canada to China Wuhan 
+Recepient:   Dafang Zhang - HOLIN1027 -  
+	HOINV10142	False	False	29/09/11	14:38:23	Tony He	13	HOEWI10025	CNY
+HOREG100534	20/06/11	False	Buy	HOCUS20030	Cash-CAD-01	0	393.81	Received 393.81 Dollars in cash	HOINV10142	False	True	20/06/11	18:34:27	Tony He	36	HOCAS100219	CAD
+HOREG100535	21/06/11	True	Sell	Self	Bank CIBC-CAD	2515	0	Transfer 2515  from Bank CIBC-CAD to account Exp. Advertisement.	HOINV10143	False	False	21/06/11	11:02:03	Lily Qi	5	HOINV10143	CAD
+HOREG100536	21/06/11	True	Buy	Self	Exp. Advertisement and Promotion	0	2515	Transfer 2515  from Bank CIBC-CAD to account Exp. Advertisement.	HOINV10143	False	True	21/06/11	11:02:03	Lily Qi	5	HOINV10143	CAD
+HOREG100537	21/06/11	True	Sell	self	Bank CIBC-CAD	260	0	Transfer 260  from Bank CIBC-CAD to account Exp. BMO Credit Card Payment.	HOINV10144	False	False	21/06/11	11:06:56	Tony He	5	HOINV10144	CAD
+HOREG104169	21/06/11	True	Buy	self	Exp. BMO CAD Credit Card	0	260	Transfer 260 CAD from Bank ATB-CAD to account Exp. BMO Credit Card.	HOINV10144	False	True	23/01/12	16:09:18	Tony He	5	HOINV10144	CAD
+HOREG101969	21/06/11	False	Sell	HOCUS20031	EWire Money Transfer-CNY	13182.44	0	Send eWire:  HOEWI10026 
+Sender:  Mei Shen sent 13,182.44 CNY 
+From  Canada to China Wuhu/Anhui 
+Recepient:   Qiong Shen - HOLIN1030 -  
+ Cell:  13956217500Recepient Address:  Shangrila Garden Building 64 room 202 
+Recepient Bank:  Bank Of Agriculture 
+Branch Transit:  Anhui Province Wuhu City 
+Account #:  9559981990120436812 
+	HOINV10145	False	False	29/09/11	14:40:04	Tony He	13	HOEWI10026	CNY
+HOREG100540	21/06/11	False	Buy	HOCUS20031	Cash-CAD-01	0	2000	Received 2,000.00 Dollars in cash	HOINV10145	False	True	21/06/11	15:47:08	Lily Qi	36	HOCAS100220	CAD
+HOREG100541	22/06/11	False	Buy	000	Cash-CAD-01	0	1000	Received 1,000.00 Dollars in cash	HOINV10146	False	True	22/06/11	10:03:50	Lily Qi	36	HOCAS100221	CAD
+HOREG100542	22/06/11	False	Sell	000	Cash-USD-01	1021	0	Paid 1,021.00 Dollars (United States of America) in cash	HOINV10146	False	False	22/06/11	10:06:56	Lily Qi	36	HOCAS100222	USD
+HOREG100543	22/06/11	False	Buy	000	Cash-CAD-01	0	0.17	Received 0.17 Dollars in cash	HOINV10146	False	True	22/06/11	10:07:10	Lily Qi	36	HOCAS100223	CAD
+HOREG100544	22/06/11	False	Buy	HOCUS20032	Cash-CAD-01	0	300	Received 300.00 Dollars in cash	HOINV10147	False	True	22/06/11	11:50:47	Lily Qi	36	HOCAS100224	CAD
+HOREG101971	22/06/11	False	Sell	HOCUS20032	EWire Money Transfer-CNY	1979.53	0	Send eWire:  HOEWI10027 
+Sender:  Lok Bin Chan sent 1,979.53 CNY 
+From  Canada to China Shanghai 
+Recepient:   Jingfen Tian - HOLIN1031 -  
+ Cell:  15221726322Recepient Address:  Shanghai City 
+Recepient Bank:  Bank Of Agriculture 
+Account #:  6228480031141737416 
+	HOINV10147	False	False	29/09/11	14:43:29	Tony He	13	HOEWI10027	CNY
+HOREG100577	23/06/11	False	Buy	000	Cash-USD-01	0	70	Received 70.00 Dollars (United States of America) in cash	HOINV10155	False	True	23/06/11	11:43:18	Lily Qi	36	HOCAS100245	USD
+HOREG100578	23/06/11	False	Sell	000	Cash-CAD-01	66.68	0	Paid 66.68 Dollars in cash	HOINV10155	False	False	23/06/11	11:43:21	Lily Qi	36	HOCAS100246	CAD
+HOREG100555	22/06/11	False	Buy	000	Cash-USD-01	0	20	Received 20.00 Dollars (United States of America) in cash	HOINV10152	False	True	22/06/11	15:21:57	Lily Qi	36	HOCAS100231	USD
+HOREG100580	23/06/11	False	Buy	000	Cash-CAD-01	0	1150	Received 1,150.00 Dollars in cash	HOINV10156	False	True	23/06/11	13:09:00	Lily Qi	36	HOCAS100248	CAD
+HOREG100556	22/06/11	False	Sell	000	Cash-CAD-01	18.9	0	Paid 18.90 Dollars in cash	HOINV10152	False	False	22/06/11	15:22:03	Lily Qi	36	HOCAS100232	CAD
+HOREG100581	23/06/11	False	Sell	000	Cash-CNY-01	7000	0	Paid 7,000.00 Yuan Renminbi (China) in cash	HOINV10156	False	False	23/06/11	13:09:11	Lily Qi	36	HOCAS100249	CNY
+HOREG100582	23/06/11	False	Sell	000	Cash-CAD-01	47.45	0	Paid 47.45 Dollars in cash	HOINV10156	False	False	23/06/11	13:09:16	Lily Qi	36	HOCAS100250	CAD
+HOREG100583	23/06/11	True	Sell	self	Cash-CNY-02	15000	0	Transfer 15000  from Cash-CNY-02 to account Cash-CNY-01.	HOINV10157	False	False	23/06/11	13:16:15	Tony He	5	HOINV10157	CNY
+HOREG100584	23/06/11	True	Buy	self	Cash-CNY-01	0	15000	Transfer 15000  from Cash-CNY-02 to account Cash-CNY-01.	HOINV10157	False	True	23/06/11	13:16:15	Tony He	5	HOINV10157	CNY
+HOREG100585	23/06/11	False	Buy	000	Cash-USD-01	0	40	Received 40.00 Dollars (United States of America) in cash	HOINV10158	False	True	23/06/11	16:15:08	Lily Qi	36	HOCAS100251	USD
+HOREG100586	23/06/11	False	Sell	000	Cash-CAD-01	38.01	0	Paid 38.01 Dollars in cash	HOINV10158	False	False	23/06/11	16:15:36	Lily Qi	36	HOCAS100252	CAD
+HOREG100596	24/06/11	False	Buy	HOCUS20036	Bank BMO-USD	0	30700	Cheque Received 
+Amount:  30700 USD 
+Cheque Type:  Draft 
+Cheque No:  8245946 
+To the order of:  BDT Financial Ltd. 
+Bank:  TD 
+	HOINV10161	False	True	24/06/11	13:47:38	Lily Qi	1	HOCHE100029	USD
+HOREG100597	24/06/11	False	Sell	HOCUS20036	Bank BMO-CAD	30086	0	Cheque Paid 
+Amount:  30086 CAD 
+Cheque Type:  Draft 
+Cheque No:  951880 
+To the order of:  Yinan Zhao 
+	HOINV10161	False	False	24/06/11	13:49:15	Lily Qi	1	HOCHE100030	CAD
+HOREG100598	24/06/11	False	Buy	000	Cash-USD-01	0	40	Received 40.00 Dollars (United States of America) in cash	HOINV10162	False	True	24/06/11	14:37:19	Lily Qi	36	HOCAS100259	USD
+HOREG100593	24/06/11	False	Buy	HOCUS20035	Cash-CAD-01	0	80	Received 80.00 Dollars in cash	HOINV10160	False	True	24/06/11	12:39:46	Lily Qi	36	HOCAS100257	CAD
+HOREG101992	24/06/11	False	Sell	HOCUS20035	EWire Money Transfer-CNY	438	0	Send eWire:  HOEWI10163 
+Sender:  Ling Xing sent 438.00 CNY 
+From  Canada to China  
+Recepient:   Muhao Zhang - HOLIN1109 -  
+Recepient Bank:  Alipay 
+Account #:  Lulifama@163.com 
+	HOINV10160	False	False	29/09/11	16:23:45	Tony He	13	HOEWI10163	CNY
+HOREG100595	24/06/11	False	Sell	HOCUS20035	Cash-CAD-01	12.96	0	Paid 12.96 Dollars in cash	HOINV10160	False	False	24/06/11	12:40:41	Lily Qi	36	HOCAS100258	CAD
+HOREG100599	24/06/11	False	Sell	000	Cash-CAD-01	38.39	0	Paid 38.39 Dollars in cash	HOINV10162	False	False	24/06/11	14:37:26	Lily Qi	36	HOCAS100260	CAD
+HOREG100600	04/07/11	False	Buy	HOCUS20037	Cash-CAD-01	0	1000	Received 1,000.00 Dollars in cash	HOINV10163	False	True	24/06/11	15:31:19	Lily Qi	36	HOCAS100261	CAD
+HOREG101994	04/07/11	False	Sell	HOCUS20037	EWire Money Transfer-CNY	6529.59	0	Send eWire:  HOEWI10032 
+Sender:  HUI XIA CHOW sent 6,529.59 CNY 
+From  Canada to China WEN ZHOU 
+Recepient:   RUN BING LING - HOLIN1034 -  
+ Cell:  057767691320Recepient Bank:  BANK OF AGRICULTUR 
+Branch Transit:  WEN ZHOU TAI SHUN BRANCH 
+Account #:  6228480331074101311 
+	HOINV10163	False	False	30/09/11	10:24:30	Tony He	13	HOEWI10032	CNY
+HOREG100619	27/06/11	True	Sell	Self	Bank BMO-USD	40000	0	Transfer 40000  from Bank BMO-USD to account Everforex-USD.	HOINV10169	False	False	27/06/11	12:30:02	Lily Qi	5	HOINV10169	USD
+HOREG100620	27/06/11	True	Buy	Self	EWire Money Transfer Service-USD	0	40000	Transfer 40000  from Bank BMO-USD to account Everforex-USD.	HOINV10169	False	True	27/06/11	12:30:02	Lily Qi	5	HOINV10169	USD
+HOREG100605	24/06/11	True	Sell	Self	Cash-USD-01	4000	0	Transfer 4000  from Cash-USD-01 to account Cash-USD-02.	HOINV10165	False	False	24/06/11	15:57:35	Lily Qi	5	HOINV10165	USD
+HOREG100606	24/06/11	True	Buy	Self	Cash-USD-02	0	4000	Transfer 4000  from Cash-USD-01 to account Cash-USD-02.	HOINV10165	False	True	24/06/11	15:57:35	Lily Qi	5	HOINV10165	USD
+HOREG100611	24/06/11	False	Buy	000	Cash-CAD-01	0	361	Received 361.00 Dollars in cash	HOINV10166	False	True	24/06/11	16:28:09	Lily Qi	36	HOCAS100266	CAD
+HOREG100612	24/06/11	False	Sell	000	Cash-CNY-01	2300	0	Paid 2,300.00 Yuan Renminbi (China) in cash	HOINV10166	False	False	24/06/11	16:28:49	Lily Qi	36	HOCAS100267	CNY
+HOREG100613	24/06/11	False	Sell	000	Cash-CAD-01	0.3	0	Paid 0.30 Dollars in cash	HOINV10166	False	False	24/06/11	16:29:03	Lily Qi	36	HOCAS100268	CAD
+HOREG100614	27/06/11	False	Buy	HOCUS20029	Account Pending - CNY	0	102111.25	102,111.25 CNY received in  Account Pending - CNY. 	HOINV10167	False	True	27/06/11	10:07:26	Lily Qi	37	HOACC100091	CNY
+HOREG100615	27/06/11	False	Sell	HOCUS20029	Bank CIBC-CAD	10000	0	Cheque Paid 
+Amount:  10000 CAD 
+Cheque Type:  Company 
+Cheque No:  00008 
+To the order of:  Zhuangli Mu 
+	HOINV10167	False	False	27/06/11	10:08:24	Lily Qi	1	HOCHE100031	CAD
+HOREG100616	27/06/11	False	Sell	HOCUS20029	Cash-CAD-01	5511.31	0	Paid 5,511.31 Dollars in cash	HOINV10167	False	False	27/06/11	10:08:33	Lily Qi	36	HOCAS100269	CAD
+HOREG100617	27/06/11	True	Sell	Self	Cash-CAD-01	790	0	Transfer 790  from Cash-CAD-01 to account Exp. Salary & Wages.	HOINV10168	False	False	27/06/11	10:30:46	Lily Qi	5	HOINV10168	CAD
+HOREG100618	27/06/11	True	Buy	Self	Exp. Salary & Wages	0	790	Transfer 790  from Cash-CAD-01 to account Exp. Salary & Wages.	HOINV10168	False	True	27/06/11	10:30:46	Lily Qi	5	HOINV10168	CAD
+HOREG100621	27/06/11	True	Sell	Self	EWire Money Transfer Service-CAD	60000	0	Transfer 60000  from Everforex-CAD to account Bank BMO-CAD.	HOINV10170	False	False	27/06/11	12:30:33	Lily Qi	5	HOINV10170	CAD
+HOREG100622	27/06/11	True	Buy	Self	Bank BMO-CAD	0	60000	Transfer 60000  from Everforex-CAD to account Bank BMO-CAD.	HOINV10170	False	True	27/06/11	12:30:33	Lily Qi	5	HOINV10170	CAD
+HOREG100623	27/06/11	True	Sell	Self	Bank BMO-CAD	4216	0	Transfer 4216  from Bank BMO-CAD to account Exp. BMO Credit Card Payment.	HOINV10171	False	False	27/06/11	12:31:22	Lily Qi	5	HOINV10171	CAD
+HOREG104176	27/06/11	True	Buy	Self	Exp. BMO CAD Credit Card	0	4216	Transfer 4216 CAD from Bank ATB-CAD to account Exp. BMO Credit Card.	HOINV10171	False	True	23/01/12	16:32:04	Tony He	5	HOINV10171	CAD
+HOREG102702	27/06/11	True	Buy	Self	Exp. Bank Fees	0	6.5	Transfer 6.5 CAD from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10172	False	True	19/10/11	11:08:02	Frances	5	HOINV10172	CAD
+HOREG102701	27/06/11	True	Sell	Self	Bank BMO-CAD	6.5	0	Transfer 6.5 CAD from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10172	False	False	19/10/11	11:08:02	Frances	5	HOINV10172	CAD
+HOREG100627	27/06/11	False	Buy	000	Cash-CAD-01	0	280	Received 280.00 Dollars in cash	HOINV10173	False	True	27/06/11	12:47:04	Lily Qi	36	HOCAS100270	CAD
+HOREG100628	27/06/11	False	Sell	000	Cash-USD-01	278	0	Paid 278.00 Dollars (United States of America) in cash	HOINV10173	False	False	27/06/11	12:47:18	Lily Qi	36	HOCAS100271	USD
+HOREG100629	27/06/11	False	Buy	HOCUS20022	Cash-USD-01	0	200	Received 200.00 Dollars (United States of America) in cash	HOINV10174	False	True	27/06/11	13:00:14	Lily Qi	36	HOCAS100272	USD
+HOREG101988	27/06/11	False	Sell	HOCUS20022	EWire Money Transfer-CNY	2000	0	Send eWire:  HOEWI10033 
+Sender:  Peter Too sent 2,000.00 CNY 
+From  Canada to China Chu Zhou Shi 
+Recepient:   Guo Huan Gong - HOLIN1011 -  
+ Cell:  15900942645Recepient Bank:  Bank Of China 
+Account #:  6216616309000255312 
+	HOINV10174	False	False	29/09/11	15:11:18	Tony He	13	HOEWI10033	CNY
+HOREG100631	27/06/11	False	Buy	HOCUS20022	Cash-CAD-01	0	200.35	Received 200.35 Dollars in cash	HOINV10174	False	True	27/06/11	13:02:56	Lily Qi	36	HOCAS100273	CAD
+HOREG100632	27/06/11	False	Sell	HOCUS20022	Cash-CAD-01	84.02	0	Paid 84.02 Dollars in cash	HOINV10174	False	False	27/06/11	13:03:01	Lily Qi	36	HOCAS100274	CAD
+HOREG100637	28/06/11	False	Buy	000	Cash-CAD-01	0	1500	Received 1,500.00 Dollars in cash	HOINV10175	False	True	28/06/11	10:35:14	Lily Qi	36	HOCAS100277	CAD
+HOREG100638	28/06/11	False	Sell	000	Cash-USD-01	1520	0	Paid 1,520.00 Dollars (United States of America) in cash	HOINV10175	False	False	28/06/11	10:35:52	Lily Qi	36	HOCAS100278	USD
+HOREG100639	28/06/11	False	Buy	000	Cash-CAD-01	0	20	Received 20.00 Dollars in cash	HOINV10175	False	True	28/06/11	10:36:22	Lily Qi	36	HOCAS100279	CAD
+HOREG100640	28/06/11	False	Sell	000	Cash-CAD-01	17.33	0	Paid 17.33 Dollars in cash	HOINV10175	False	False	28/06/11	10:36:25	Lily Qi	36	HOCAS100280	CAD
+HOREG100641	28/06/11	False	Buy	HOCUS20039	Bank CIBC-CAD	0	30000	30,000.00 CAD received in  Bank CIBC-CAD. 	HOINV10177	False	True	28/06/11	10:47:24	Administrator	37	HOACC100093	CAD
+HOREG102053	01/10/11	False	Sell	HOCUS20125	Cash-CAD-02	4000	0	Paid 4,000.00 Dollars in cash	HOINV10685	False	False	01/10/11	11:17:10	Tony He	36	HOCAS100598	CAD
+HOREG102477	13/10/11	False	Buy	HOCUS20142	Cash-USD-01	0	300	Received 300.00 Dollars (United States of America) in cash	HOINV10831	False	True	13/10/11	10:59:06	Frances	36	HOCAS100648	USD
+HOREG104137	19/11/10	True	Buy	Self	Exp. License And Permit 	0	231.25	Transfer 231.25 CAD from Opening Balance to account Exp. License And Permit .ALL LICENSES LTD	HOINV10207	False	True	23/01/12	11:23:04	Frances	5	HOINV10207	CAD
+HOREG104136	19/11/10	True	Sell	Self	Opening Balance	231.25	0	Transfer 231.25 CAD from Opening Balance to account Exp. License And Permit .ALL LICENSES LTD	HOINV10207	False	False	23/01/12	11:23:04	Frances	5	HOINV10207	CAD
+HOREG100722	22/02/11	True	Sell	Self	Opening Balance	157.49	0	Transfer 157.49  from Opening Balance to account Exp. Office Suppliers.Future Shop South Common	HOINV10211	False	False	28/06/11	12:32:47	Lily Qi	5	HOINV10211	CAD
+HOREG100723	22/02/11	True	Buy	Self	Exp. Office Suppliers	0	157.49	Transfer 157.49  from Opening Balance to account Exp. Office Suppliers.Future Shop South Common	HOINV10211	False	True	28/06/11	12:32:47	Lily Qi	5	HOINV10211	CAD
+HOREG100770	31/05/11	True	Sell	Self	Opening Balance	79.86	0	Transfer 79.86  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10234	False	False	28/06/11	13:04:55	Lily Qi	5	HOINV10234	CAD
+HOREG100771	31/05/11	True	Buy	Self	Exp. Office Suppliers	0	79.86	Transfer 79.86  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10234	False	True	28/06/11	13:04:55	Lily Qi	5	HOINV10234	CAD
+HOREG100713	27/05/11	True	Buy	Self	Exp. Office Suppliers	0	8.27	Transfer 8.27 CAD from Opening Balance to account Exp. Office Suppliers.XS Cargo	HOINV10208	False	True	28/06/11	12:29:44	Lily Qi	5	HOINV10208	CAD
+HOREG100712	27/05/11	True	Sell	Self	Opening Balance	8.27	0	Transfer 8.27 CAD from Opening Balance to account Exp. Office Suppliers.XS Cargo	HOINV10208	False	False	28/06/11	12:29:44	Lily Qi	5	HOINV10208	CAD
+HOREG100720	26/12/10	True	Sell	Self	Opening Balance	92.39	0	Transfer 92.39  from Opening Balance to account Exp. Office Suppliers.Best Buy	HOINV10210	False	False	28/06/11	12:31:59	Lily Qi	5	HOINV10210	CAD
+HOREG100721	26/12/10	True	Buy	Self	Exp. Office Suppliers	0	92.39	Transfer 92.39  from Opening Balance to account Exp. Office Suppliers.Best Buy	HOINV10210	False	True	28/06/11	12:31:59	Lily Qi	5	HOINV10210	CAD
+HOREG100772	20/02/11	True	Sell	Self	Opening Balance	10.49	0	Transfer 10.49  from Opening Balance to account Exp. Office Suppliers.STAPLES	HOINV10235	False	False	28/06/11	13:05:43	Lily Qi	5	HOINV10235	CAD
+HOREG100773	20/02/11	True	Buy	Self	Exp. Office Suppliers	0	10.49	Transfer 10.49  from Opening Balance to account Exp. Office Suppliers.STAPLES	HOINV10235	False	True	28/06/11	13:05:43	Lily Qi	5	HOINV10235	CAD
+HOREG100724	18/11/10	True	Sell	Self	Opening Balance	99.11	0	Transfer 99.11  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10213	False	False	28/06/11	12:33:59	Lily Qi	5	HOINV10213	CAD
+HOREG100725	18/11/10	True	Buy	Self	Exp. Office Suppliers	0	99.11	Transfer 99.11  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10213	False	True	28/06/11	12:33:59	Lily Qi	5	HOINV10213	CAD
+HOREG100736	02/03/11	True	Sell	Self	Opening Balance	46.2	0	Transfer 46.2  from Opening Balance to account Exp. Office Suppliers.The Home Depot	HOINV10219	False	False	28/06/11	12:42:07	Lily Qi	5	HOINV10219	CAD
+HOREG100737	02/03/11	True	Buy	Self	Exp. Office Suppliers	0	46.2	Transfer 46.2  from Opening Balance to account Exp. Office Suppliers.The Home Depot	HOINV10219	False	True	28/06/11	12:42:07	Lily Qi	5	HOINV10219	CAD
+HOREG100756	07/02/11	True	Sell	Self	Opening Balance	16.72	0	Transfer 16.72  from Opening Balance to account Exp. Office Suppliers.STAPLES	HOINV10228	False	False	28/06/11	12:50:46	Lily Qi	5	HOINV10228	CAD
+HOREG100757	07/02/11	True	Buy	Self	Exp. Office Suppliers	0	16.72	Transfer 16.72  from Opening Balance to account Exp. Office Suppliers.STAPLES	HOINV10228	False	True	28/06/11	12:50:46	Lily Qi	5	HOINV10228	CAD
+HOREG100717	22/02/11	True	Buy	Self	Exp. Office Suppliers	0	6.59	Transfer 6.59 CAD from Opening Balance to account Exp. Office Suppliers.Ikea Food Service	HOINV10209	False	True	28/06/11	12:31:20	Lily Qi	5	HOINV10209	CAD
+HOREG100716	22/02/11	True	Sell	Self	Opening Balance	6.59	0	Transfer 6.59 CAD from Opening Balance to account Exp. Office Suppliers.Ikea Food Service	HOINV10209	False	False	28/06/11	12:31:20	Lily Qi	5	HOINV10209	CAD
+HOREG100760	04/03/11	True	Sell	Self	Opening Balance	14.18	0	Transfer 14.18 CAD from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10229	False	False	28/06/11	12:51:53	Lily Qi	5	HOINV10229	CAD
+HOREG100761	04/03/11	True	Buy	Self	Exp. Office Suppliers	0	14.18	Transfer 14.18 CAD from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10229	False	True	28/06/11	12:51:53	Lily Qi	5	HOINV10229	CAD
+HOREG100762	14/02/11	True	Sell	Self	Opening Balance	20.99	0	Transfer 20.99  from Opening Balance to account Exp. Office Suppliers.The Source	HOINV10230	False	False	28/06/11	12:52:47	Lily Qi	5	HOINV10230	CAD
+HOREG100763	14/02/11	True	Buy	Self	Exp. Office Suppliers	0	20.99	Transfer 20.99  from Opening Balance to account Exp. Office Suppliers.The Source	HOINV10230	False	True	28/06/11	12:52:47	Lily Qi	5	HOINV10230	CAD
+HOREG100726	06/06/11	True	Sell	Self	Opening Balance	44.58	0	Transfer 44.58  from Opening Balance to account Exp. Office Suppliers.IKEA 	HOINV10212	False	False	28/06/11	12:36:57	Administrator	5	HOINV10212	CAD
+HOREG100727	06/06/11	True	Buy	Self	Exp. Office Suppliers	0	44.58	Transfer 44.58  from Opening Balance to account Exp. Office Suppliers.IKEA 	HOINV10212	False	True	28/06/11	12:36:57	Administrator	5	HOINV10212	CAD
+HOREG100728	06/01/11	True	Sell	Self	Opening Balance	69.28	0	Transfer 69.28  from Opening Balance to account Exp. Office Suppliers.Rona Home & Garden	HOINV10214	False	False	28/06/11	12:38:51	Lily Qi	5	HOINV10214	CAD
+HOREG100729	06/01/11	True	Buy	Self	Exp. Office Suppliers	0	69.28	Transfer 69.28  from Opening Balance to account Exp. Office Suppliers.Rona Home & Garden	HOINV10214	False	True	28/06/11	12:38:51	Lily Qi	5	HOINV10214	CAD
+HOREG100774	02/02/11	True	Sell	Self	Opening Balance	70.52	0	Transfer 70.52  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10236	False	False	28/06/11	13:13:22	Lily Qi	5	HOINV10236	CAD
+HOREG100775	02/02/11	True	Buy	Self	Exp. Office Suppliers	0	70.52	Transfer 70.52  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10236	False	True	28/06/11	13:13:22	Lily Qi	5	HOINV10236	CAD
+HOREG100730	01/02/11	True	Sell	Self	Opening Balance	5.65	0	Transfer 5.65  from Opening Balance to account Exp. Office Suppliers.The Home Depot	HOINV10216	False	False	28/06/11	12:40:03	Lily Qi	5	HOINV10216	CAD
+HOREG100731	01/02/11	True	Buy	Self	Exp. Office Suppliers	0	5.65	Transfer 5.65  from Opening Balance to account Exp. Office Suppliers.The Home Depot	HOINV10216	False	True	28/06/11	12:40:03	Lily Qi	5	HOINV10216	CAD
+HOREG100732	23/02/11	True	Sell	Self	Opening Balance	11.26	0	Transfer 11.26  from Opening Balance to account Exp. Office Suppliers.The Home Depot	HOINV10217	False	False	28/06/11	12:40:49	Lily Qi	5	HOINV10217	CAD
+HOREG100733	23/02/11	True	Buy	Self	Exp. Office Suppliers	0	11.26	Transfer 11.26  from Opening Balance to account Exp. Office Suppliers.The Home Depot	HOINV10217	False	True	28/06/11	12:40:49	Lily Qi	5	HOINV10217	CAD
+HOREG100746	27/05/11	True	Sell	Self	Opening Balance	92.04	0	Transfer 92.04 CAD from Opening Balance to account Exp. Office Suppliers.Canadian Tire	HOINV10223	False	False	28/06/11	12:45:51	Lily Qi	5	HOINV10223	CAD
+HOREG100747	27/05/11	True	Buy	Self	Exp. Office Suppliers	0	92.04	Transfer 92.04 CAD from Opening Balance to account Exp. Office Suppliers.Canadian Tire	HOINV10223	False	True	28/06/11	12:45:51	Lily Qi	5	HOINV10223	CAD
+HOREG100754	04/02/11	True	Sell	Self	Opening Balance	44.59	0	Transfer 44.59  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10227	False	False	28/06/11	12:49:55	Lily Qi	5	HOINV10227	CAD
+HOREG100755	04/02/11	True	Buy	Self	Exp. Office Suppliers	0	44.59	Transfer 44.59  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10227	False	True	28/06/11	12:49:55	Lily Qi	5	HOINV10227	CAD
+HOREG100766	29/05/11	True	Sell	Self	Opening Balance	22.43	0	Transfer 22.43  from Opening Balance to account Exp. Office Suppliers.Canadian Tire	HOINV10232	False	False	28/06/11	13:01:33	Lily Qi	5	HOINV10232	CAD
+HOREG100767	29/05/11	True	Buy	Self	Exp. Office Suppliers	0	22.43	Transfer 22.43  from Opening Balance to account Exp. Office Suppliers.Canadian Tire	HOINV10232	False	True	28/06/11	13:01:34	Lily Qi	5	HOINV10232	CAD
+HOREG100764	26/12/10	True	Sell	Self	Opening Balance	15.74	0	Transfer 15.74  from Opening Balance to account Exp. Office Suppliers.Best Buy	HOINV10231	False	False	28/06/11	12:53:29	Lily Qi	5	HOINV10231	CAD
+HOREG100765	26/12/10	True	Buy	Self	Exp. Office Suppliers	0	15.74	Transfer 15.74  from Opening Balance to account Exp. Office Suppliers.Best Buy	HOINV10231	False	True	28/06/11	12:53:29	Lily Qi	5	HOINV10231	CAD
+HOREG100748	06/05/11	True	Sell	Self	Opening Balance	139.86	0	Transfer 139.86  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10224	False	False	28/06/11	12:46:48	Lily Qi	5	HOINV10224	CAD
+HOREG100749	06/05/11	True	Buy	Self	Exp. Office Suppliers	0	139.86	Transfer 139.86  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10224	False	True	28/06/11	12:46:48	Lily Qi	5	HOINV10224	CAD
+HOREG100768	29/05/11	True	Sell	Self	Opening Balance	94.84	0	Transfer 94.84  from Opening Balance to account Exp. Office Suppliers.RCSS 1570-4821 Calgary Trail	HOINV10233	False	False	28/06/11	13:04:14	Lily Qi	5	HOINV10233	CAD
+HOREG100769	29/05/11	True	Buy	Self	Exp. Office Suppliers	0	94.84	Transfer 94.84  from Opening Balance to account Exp. Office Suppliers.RCSS 1570-4821 Calgary Trail	HOINV10233	False	True	28/06/11	13:04:14	Lily Qi	5	HOINV10233	CAD
+HOREG100738	15/02/11	True	Sell	Self	Opening Balance	55.85	0	Transfer 55.85  from Opening Balance to account Exp. Office Suppliers.STAPLES	HOINV10220	False	False	28/06/11	12:42:58	Lily Qi	5	HOINV10220	CAD
+HOREG100739	15/02/11	True	Buy	Self	Exp. Office Suppliers	0	55.85	Transfer 55.85  from Opening Balance to account Exp. Office Suppliers.STAPLES	HOINV10220	False	True	28/06/11	12:42:58	Lily Qi	5	HOINV10220	CAD
+HOREG100742	28/05/11	True	Sell	Self	Opening Balance	135.6	0	Transfer 135.6  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10222	False	False	28/06/11	12:44:28	Lily Qi	5	HOINV10222	CAD
+HOREG100743	28/05/11	True	Buy	Self	Exp. Office Suppliers	0	135.6	Transfer 135.6  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10222	False	True	28/06/11	12:44:28	Lily Qi	5	HOINV10222	CAD
+HOREG100750	10/05/11	True	Sell	Self	Opening Balance	72.77	0	Transfer 72.77  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10225	False	False	28/06/11	12:47:28	Lily Qi	5	HOINV10225	CAD
+HOREG100751	10/05/11	True	Buy	Self	Exp. Office Suppliers	0	72.77	Transfer 72.77  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10225	False	True	28/06/11	12:47:28	Lily Qi	5	HOINV10225	CAD
+HOREG100740	23/02/11	True	Sell	Self	Opening Balance	14.48	0	Transfer 14.48  from Opening Balance to account Exp. Office Suppliers.The Home Depot	HOINV10221	False	False	28/06/11	12:43:46	Lily Qi	5	HOINV10221	CAD
+HOREG100741	23/02/11	True	Buy	Self	Exp. Office Suppliers	0	14.48	Transfer 14.48  from Opening Balance to account Exp. Office Suppliers.The Home Depot	HOINV10221	False	True	28/06/11	12:43:46	Lily Qi	5	HOINV10221	CAD
+HOREG100752	05/05/11	True	Sell	Self	Opening Balance	339.36	0	Transfer 339.36  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10226	False	False	28/06/11	12:48:51	Lily Qi	5	HOINV10226	CAD
+HOREG100753	05/05/11	True	Buy	Self	Exp. Office Suppliers	0	339.36	Transfer 339.36  from Opening Balance to account Exp. Office Suppliers.WalMart	HOINV10226	False	True	28/06/11	12:48:51	Lily Qi	5	HOINV10226	CAD
+HOREG100734	02/03/11	True	Sell	Self	Opening Balance	77.67	0	Transfer 77.67  from Opening Balance to account Exp. Office Suppliers.The Home Depot	HOINV10218	False	False	28/06/11	12:41:26	Lily Qi	5	HOINV10218	CAD
+HOREG100735	02/03/11	True	Buy	Self	Exp. Office Suppliers	0	77.67	Transfer 77.67  from Opening Balance to account Exp. Office Suppliers.The Home Depot	HOINV10218	False	True	28/06/11	12:41:26	Lily Qi	5	HOINV10218	CAD
+HOREG100776	22/02/11	True	Sell	Self	Opening Balance	6.59	0	Transfer 6.59  from Opening Balance to account Exp. Office Suppliers.Ikea	HOINV10237	False	False	28/06/11	13:14:27	Lily Qi	5	HOINV10237	CAD
+HOREG100777	22/02/11	True	Buy	Self	Exp. Office Suppliers	0	6.59	Transfer 6.59  from Opening Balance to account Exp. Office Suppliers.Ikea	HOINV10237	False	True	28/06/11	13:14:28	Lily Qi	5	HOINV10237	CAD
+HOREG100778	25/04/11	True	Sell	Self	Opening Balance	291.9	0	Transfer 291.9  from Opening Balance to account Exp. Office Suppliers.Print and Cheques Now Inc. (ATB and CIBC, ultra manual cheques)	HOINV10238	False	False	28/06/11	13:16:15	Lily Qi	5	HOINV10238	CAD
+HOREG100779	25/04/11	True	Buy	Self	Exp. Office Suppliers	0	291.9	Transfer 291.9  from Opening Balance to account Exp. Office Suppliers.Print and Cheques Now Inc. (ATB and CIBC, ultra manual cheques)	HOINV10238	False	True	28/06/11	13:16:15	Lily Qi	5	HOINV10238	CAD
+HOREG100780	12/02/11	True	Sell	Self	Opening Balance	1232	0	Transfer 1232  from Opening Balance to account Exp. Office Suppliers.Microtech Cyber Service LTD (DVR 8 Channel System 6 Cameras, Cables)	HOINV10240	False	False	28/06/11	13:17:39	Lily Qi	5	HOINV10240	CAD
+HOREG100781	12/02/11	True	Buy	Self	Exp. Office Suppliers	0	1232	Transfer 1232  from Opening Balance to account Exp. Office Suppliers.Microtech Cyber Service LTD (DVR 8 Channel System 6 Cameras, Cables)	HOINV10240	False	True	28/06/11	13:17:39	Lily Qi	5	HOINV10240	CAD
+HOREG100782	18/12/10	True	Sell	Self	Opening Balance	262.5	0	Transfer 262.5  from Opening Balance to account Exp. Office Suppliers.WIND (cellphone)	HOINV10241	False	False	28/06/11	13:19:46	Lily Qi	5	HOINV10241	CAD
+HOREG100783	18/12/10	True	Buy	Self	Exp. Office Suppliers	0	262.5	Transfer 262.5  from Opening Balance to account Exp. Office Suppliers.WIND (cellphone)	HOINV10241	False	True	28/06/11	13:19:46	Lily Qi	5	HOINV10241	CAD
+HOREG100784	22/02/11	True	Sell	Self	Opening Balance	20.99	0	Transfer 20.99  from Opening Balance to account Exp. Office Suppliers.The Source	HOINV10242	False	False	28/06/11	13:20:31	Lily Qi	5	HOINV10242	CAD
+HOREG100785	22/02/11	True	Buy	Self	Exp. Office Suppliers	0	20.99	Transfer 20.99  from Opening Balance to account Exp. Office Suppliers.The Source	HOINV10242	False	True	28/06/11	13:20:31	Lily Qi	5	HOINV10242	CAD
+HOREG102990	30/03/11	True	Buy	Self	Exp. Office Suppliers	0	10.5	Transfer 10.5 CAD from Opening Balance to account Exp. Office Suppliers.	HOINV10243	False	True	03/11/11	14:54:50	Frances	5	HOINV10243	CAD
+HOREG102989	30/03/11	True	Sell	Self	Opening Balance	10.5	0	Transfer 10.5 CAD from Opening Balance to account Exp. Office Suppliers.	HOINV10243	False	False	03/11/11	14:54:50	Frances	5	HOINV10243	CAD
+HOREG103035	04/11/11	False	Buy	HOCUS20145	EWire Money Transfer Service-CNY	0	200000	Received eWire:  HOEWI10242 for :  Shuai Liu - HOCUS20145 
+Sender:  Huang Jian - HOLIN1150 paid 200,000.00 CNY 
+From  China to Canada 
+Received Amount (set at source):  200,000.00 CNY 
+Sender Address:  Fujiang 
+    Longyan, Fujiang, China 
+	HOINV11056	False	True	04/11/11	12:45:24	Frances	13	HOEWI10242	CNY
+HOREG103037	04/11/11	False	Sell	HOCUS20145	Bank BMO-CAD	31638.57	0	Cheque Paid 
+Amount:  31638.57 CAD 
+Cheque Type:  Draft 
+Cheque No:  00006 
+To the order of:  Shuai Liu 
+	HOINV11056	False	False	04/11/11	12:49:58	Frances	1	HOCHE100161	CAD
+HOREG100790	28/12/10	True	Sell	Self	Opening Balance	47.24	0	Transfer 47.24  from Opening Balance to account Exp. Office Suppliers.Home Outfitters	HOINV10245	False	False	28/06/11	13:23:31	Lily Qi	5	HOINV10245	CAD
+HOREG100791	28/12/10	True	Buy	Self	Exp. Office Suppliers	0	47.24	Transfer 47.24  from Opening Balance to account Exp. Office Suppliers.Home Outfitters	HOINV10245	False	True	28/06/11	13:23:31	Lily Qi	5	HOINV10245	CAD
+HOREG102988	24/03/11	True	Buy	Self	Exp. Office Suppliers	0	28.9	Transfer 28.9 CAD from Opening Balance to account Exp. Office Suppliers.Walmart	HOINV10246	False	True	03/11/11	14:53:21	Frances	5	HOINV10246	CAD
+HOREG102987	24/03/11	True	Sell	Self	Opening Balance	28.9	0	Transfer 28.9 CAD from Opening Balance to account Exp. Office Suppliers.Walmart	HOINV10246	False	False	03/11/11	14:53:21	Frances	5	HOINV10246	CAD
+HOREG100794	28/06/11	True	Sell	Self	Opening Balance	340.18	0	Transfer 340.18  from Opening Balance to account Computer And Software.	HOINV10247	False	False	28/06/11	13:32:44	Administrator	5	HOINV10247	CAD
+HOREG100795	28/06/11	True	Buy	Self	Exp. Computer And Software	0	340.18	Transfer 340.18  from Opening Balance to account Computer And Software.	HOINV10247	False	True	28/06/11	13:32:44	Administrator	5	HOINV10247	CAD
+HOREG104156	31/12/11	True	Sell	Self	Bank ATB-CAD	8	0	Transfer 8  from Bank ATB-CAD to account Exp. Bank Fees.	HOINV11503	False	False	23/01/12	14:37:40	Frances	5	HOINV11503	CAD
+HOREG104157	31/12/11	True	Buy	Self	Exp. Bank Fees	0	8	Transfer 8  from Bank ATB-CAD to account Exp. Bank Fees.	HOINV11503	False	True	23/01/12	14:37:40	Frances	5	HOINV11503	CAD
+HOREG104152	23/01/12	True	Sell	Self	Bank ATB-CAD	8	0	Transfer 8  from Bank ATB-CAD to account Exp. Bank Fees.	HOINV11501	False	False	23/01/12	14:35:58	Frances	5	HOINV11501	CAD
+HOREG104153	23/01/12	True	Buy	Self	Exp. Bank Fees	0	8	Transfer 8  from Bank ATB-CAD to account Exp. Bank Fees.	HOINV11501	False	True	23/01/12	14:35:58	Frances	5	HOINV11501	CAD
+HOREG100800	20/12/10	True	Sell	Self	Opening Balance	104.98	0	Transfer 104.98  from Opening Balance to account Exp. Office Suppliers.FABRICA LAND	HOINV10250	False	False	28/06/11	14:18:56	Administrator	5	HOINV10250	CAD
+HOREG100801	20/12/10	True	Buy	Self	Exp. Office Suppliers	0	104.98	Transfer 104.98  from Opening Balance to account Exp. Office Suppliers.FABRICA LAND	HOINV10250	False	True	28/06/11	14:18:56	Administrator	5	HOINV10250	CAD
+HOREG102994	24/05/11	True	Buy	Self	Exp. Furniture 	0	136.49	Transfer 136.49 CAD from Opening Balance to account Exp. Furniture .	HOINV10251	False	True	03/11/11	15:00:17	Frances	5	HOINV10251	CAD
+HOREG102993	24/05/11	True	Sell	Self	Opening Balance	136.49	0	Transfer 136.49 CAD from Opening Balance to account Exp. Furniture .	HOINV10251	False	False	03/11/11	15:00:17	Frances	5	HOINV10251	CAD
+HOREG100804	18/02/11	True	Sell	Self	Opening Balance	974.4	0	Transfer 974.4  from Opening Balance to account Computer And Software.	HOINV10252	False	False	28/06/11	14:37:12	Administrator	5	HOINV10252	CAD
+HOREG100805	18/02/11	True	Buy	Self	Exp. Computer And Software	0	974.4	Transfer 974.4  from Opening Balance to account Computer And Software.	HOINV10252	False	True	28/06/11	14:37:12	Administrator	5	HOINV10252	CAD
+HOREG102998	11/03/11	True	Buy	Self	Exp. Entertainment & Meal	0	22.9	Transfer 22.9 CAD from Opening Balance to account Exp. Entertainment & Meal.	HOINV10253	False	True	03/11/11	15:05:31	Frances	5	HOINV10253	CAD
+HOREG102997	11/03/11	True	Sell	Self	Opening Balance	22.9	0	Transfer 22.9 CAD from Opening Balance to account Exp. Entertainment & Meal.	HOINV10253	False	False	03/11/11	15:05:31	Frances	5	HOINV10253	CAD
+HOREG103028	25/02/11	True	Buy	Self	Exp. Advertisement and Promotion	0	14.99	Transfer 14.99 CAD from Opening Balance to account Exp. Advertisement.	HOINV10254	False	True	04/11/11	11:04:32	Frances	5	HOINV10254	CAD
+HOREG103027	25/02/11	True	Sell	Self	Opening Balance	14.99	0	Transfer 14.99 CAD from Opening Balance to account Exp. Advertisement.	HOINV10254	False	False	04/11/11	11:04:32	Frances	5	HOINV10254	CAD
+HOREG102996	20/01/11	True	Buy	Self	Exp. Entertainment & Meal	0	17.75	Transfer 17.75 CAD from Opening Balance to account Exp. Entertainment & Meal.	HOINV10255	False	True	03/11/11	15:04:48	Frances	5	HOINV10255	CAD
+HOREG102995	20/01/11	True	Sell	Self	Opening Balance	17.75	0	Transfer 17.75 CAD from Opening Balance to account Exp. Entertainment & Meal.	HOINV10255	False	False	03/11/11	15:04:48	Frances	5	HOINV10255	CAD
+HOREG103026	03/02/11	True	Buy	Self	Exp. Repair & Maintenance 	0	31.19	Transfer 31.19 CAD from Opening Balance to account Exp. Repair & Maintenance .	HOINV10256	False	True	04/11/11	11:02:19	Frances	5	HOINV10256	CAD
+HOREG103025	03/02/11	True	Sell	Self	Opening Balance	31.19	0	Transfer 31.19 CAD from Opening Balance to account Exp. Repair & Maintenance .	HOINV10256	False	False	04/11/11	11:02:19	Frances	5	HOINV10256	CAD
+HOREG103020	27/04/11	True	Buy	Self	Exp. Postage and Delivery 	0	36.12	Transfer 36.12 CAD from Opening Balance to account Exp. Postage and Delivery .	HOINV10257	False	True	04/11/11	10:54:22	Frances	5	HOINV10257	CAD
+HOREG103019	27/04/11	True	Sell	Self	Opening Balance	36.12	0	Transfer 36.12 CAD from Opening Balance to account Exp. Postage and Delivery .	HOINV10257	False	False	04/11/11	10:54:22	Frances	5	HOINV10257	CAD
+HOREG103010	11/03/11	True	Buy	Self	Exp. Entertainment & Meal	0	45.05	Transfer 45.05 CAD from Exp. BMO Credit Card Payment to account Exp. Entertainment & Meal.	HOINV10258	False	True	04/11/11	10:31:46	Frances	5	HOINV10258	CAD
+HOREG102000	11/03/11	True	Sell	Self	Opening Balance	45.05	0	Transfer 45.05 CAD from Opening Balance to account ENTERTAINMENT AND MEALS.	HOINV10258	False	False	30/09/11	11:49:31	Tony He	5	HOINV10258	CAD
+HOREG103004	08/03/11	True	Buy	Self	Exp. Entertainment & Meal	0	1.75	Transfer 1.75 CAD from Opening Balance to account Exp. Entertainment & Meal.	HOINV10259	False	True	04/11/11	10:29:10	Frances	5	HOINV10259	CAD
+HOREG103003	08/03/11	True	Sell	Self	Opening Balance	1.75	0	Transfer 1.75 CAD from Opening Balance to account Exp. Entertainment & Meal.	HOINV10259	False	False	04/11/11	10:29:10	Frances	5	HOINV10259	CAD
+HOREG103030	11/02/11	True	Buy	Self	Exp. Travel 	0	38.68	Transfer 38.68 CAD from Opening Balance to account Exp. Travel .Rental car fees	HOINV10260	False	True	04/11/11	12:06:22	Frances	5	HOINV10260	CAD
+HOREG103029	11/02/11	True	Sell	Self	Opening Balance	38.68	0	Transfer 38.68 CAD from Opening Balance to account Exp. Travel .Rental car fees	HOINV10260	False	False	04/11/11	12:06:22	Frances	5	HOINV10260	CAD
+HOREG103032	11/02/11	True	Buy	Self	Exp. Travel 	0	10.84	Transfer 10.84 CAD from Opening Balance to account Exp. Travel .Parking fees in Holiday Inn	HOINV10261	False	True	04/11/11	12:07:59	Frances	5	HOINV10261	CAD
+HOREG103031	11/02/11	True	Sell	Self	Opening Balance	10.84	0	Transfer 10.84 CAD from Opening Balance to account Exp. Travel .Parking fees in Holiday Inn	HOINV10261	False	False	04/11/11	12:07:59	Frances	5	HOINV10261	CAD
+HOREG103034	16/02/11	True	Buy	Self	Exp. Travel 	0	5	Transfer 5 CAD from Opening Balance to account Exp. Travel .Parking fees in Meters	HOINV10262	False	True	04/11/11	12:08:42	Frances	5	HOINV10262	CAD
+HOREG103033	16/02/11	True	Sell	Self	Opening Balance	5	0	Transfer 5 CAD from Opening Balance to account Exp. Travel .Parking fees in Meters	HOINV10262	False	False	04/11/11	12:08:42	Frances	5	HOINV10262	CAD
+HOREG103014	18/06/11	True	Buy	Self	Exp. Advertisement and Promotion	0	206.92	Transfer 206.92 CAD from Opening Balance to account Exp. Advertisement.JBC Health Store	HOINV10263	False	True	04/11/11	10:46:00	Frances	5	HOINV10263	CAD
+HOREG103013	18/06/11	True	Sell	Self	Opening Balance	206.92	0	Transfer 206.92 CAD from Opening Balance to account Exp. Advertisement.JBC Health Store	HOINV10263	False	False	04/11/11	10:45:59	Frances	5	HOINV10263	CAD
+HOREG100828	19/06/11	True	Sell	Self	Opening Balance	6	0	Transfer 6  from Opening Balance to account Exp. Office Suppliers.	HOINV10264	False	False	28/06/11	15:18:44	Administrator	5	HOINV10264	CAD
+HOREG100829	19/06/11	True	Buy	Self	Exp. Office Suppliers	0	6	Transfer 6  from Opening Balance to account Exp. Office Suppliers.	HOINV10264	False	True	28/06/11	15:18:44	Administrator	5	HOINV10264	CAD
+HOREG100830	21/06/11	True	Sell	Self	Opening Balance	32.04	0	Transfer 32.04  from Opening Balance to account Exp. Office Suppliers.	HOINV10265	False	False	28/06/11	15:19:40	Administrator	5	HOINV10265	CAD
+HOREG100831	21/06/11	True	Buy	Self	Exp. Office Suppliers	0	32.04	Transfer 32.04  from Opening Balance to account Exp. Office Suppliers.	HOINV10265	False	True	28/06/11	15:19:40	Administrator	5	HOINV10265	CAD
+HOREG104141	04/04/11	True	Buy	Self	Exp. License And Permit 	0	145.6	Transfer 145.6 CAD from Opening Balance to account Exp. License And Permit .	HOINV10266	False	True	23/01/12	11:24:59	Frances	5	HOINV10266	CAD
+HOREG104140	04/04/11	True	Sell	Self	Opening Balance	145.6	0	Transfer 145.6 CAD from Opening Balance to account Exp. License And Permit .	HOINV10266	False	False	23/01/12	11:24:59	Frances	5	HOINV10266	CAD
+HOREG101709	05/05/11	True	Buy	Self	Exp. Office Renovation	0	3000	Transfer 3000 CAD from Bank CIBC-CAD to account Exp. Office Renovation.	HOINV10272	False	True	12/09/11	15:25:36	Tony He	5	HOINV10272	CAD
+HOREG101708	05/05/11	True	Sell	Self	Bank CIBC-CAD	3000	0	Transfer 3000 CAD from Bank CIBC-CAD to account Exp. Office Renovation.	HOINV10272	False	False	12/09/11	15:25:36	Tony He	5	HOINV10272	CAD
+HOREG104139	04/04/11	True	Buy	Self	Exp. License And Permit 	0	343.6	Transfer 343.6 CAD from Opening Balance to account Exp. License And Permit .CITY EDMONTON PLANNING 	HOINV10268	False	True	23/01/12	11:24:18	Frances	5	HOINV10268	CAD
+HOREG104138	04/04/11	True	Sell	Self	Opening Balance	343.6	0	Transfer 343.6 CAD from Opening Balance to account Exp. License And Permit .CITY EDMONTON PLANNING 	HOINV10268	False	False	23/01/12	11:24:18	Frances	5	HOINV10268	CAD
+HOREG100841	30/06/11	True	Sell	Self	Bank CIBC-CAD	4000	0	Transfer 4000  from Bank CIBC-CAD to account Exp. Share Holder Credit Card Payment.MBNA Credit Card	HOINV10270	False	False	30/06/11	14:08:41	Tony He	5	HOINV10270	CAD
+HOREG100842	30/06/11	True	Buy	Self	Exp. Share Holder Credit Card Payment	0	4000	Transfer 4000  from Bank CIBC-CAD to account Exp. Share Holder Credit Card Payment.MBNA Credit Card	HOINV10270	False	True	30/06/11	14:08:41	Tony He	5	HOINV10270	CAD
+HOREG100843	30/06/11	True	Sell	Self	Exp. Share Holder Credit Card Payment	544.49	0	Transfer 544.49  from Exp. Share Holder Credit Card Payment to account Exp. Office Renovation.	HOINV10271	False	False	30/06/11	14:27:22	Tony He	5	HOINV10271	CAD
+HOREG100844	30/06/11	True	Buy	Self	Exp. Office Renovation	0	544.49	Transfer 544.49  from Exp. Share Holder Credit Card Payment to account Exp. Office Renovation.	HOINV10271	False	True	30/06/11	14:27:22	Tony He	5	HOINV10271	CAD
+HOREG103024	04/05/11	True	Buy	Self	Exp. Insurance	0	681	Transfer 681 CAD from Exp. Share Holder Credit Card Payment to account Exp. Insurance.	HOINV10273	False	True	04/11/11	10:57:48	Frances	5	HOINV10273	CAD
+HOREG103023	04/05/11	True	Sell	Self	Exp. Share Holder Credit Card Payment	681	0	Transfer 681 CAD from Exp. Share Holder Credit Card Payment to account Exp. Insurance.	HOINV10273	False	False	04/11/11	10:57:48	Frances	5	HOINV10273	CAD
+HOREG100852	05/05/11	True	Sell	Self	Exp. Share Holder Credit Card Payment	62.9	0	Transfer 62.9  from Exp. Share Holder Credit Card Payment to account Exp. Office Renovation.	HOINV10274	False	False	30/06/11	14:51:56	Administrator	5	HOINV10274	CAD
+HOREG100853	05/05/11	True	Buy	Self	Exp. Office Renovation	0	62.9	Transfer 62.9  from Exp. Share Holder Credit Card Payment to account Exp. Office Renovation.	HOINV10274	False	True	30/06/11	14:51:56	Administrator	5	HOINV10274	CAD
+HOREG100854	04/07/11	False	Sell	000	Cash-USD-01	1200	0	Paid 1,200.00 Dollars (United States of America) in cash	HOINV10275	False	False	04/07/11	10:35:57	Lily Qi	36	HOCAS100294	USD
+HOREG100855	04/07/11	False	Buy	000	Cash-CAD-01	0	1180	Received 1,180.00 Dollars in cash	HOINV10275	False	True	04/07/11	10:36:04	Lily Qi	36	HOCAS100295	CAD
+HOREG100856	04/07/11	False	Sell	000	Cash-CAD-01	5.8	0	Paid 5.80 Dollars in cash	HOINV10275	False	False	04/07/11	10:36:12	Lily Qi	36	HOCAS100296	CAD
+HOREG102224	25/02/11	False	Buy	Self	EWire Money Transfer Service-CAD	0	6144.3	6,144.30 CAD received in  EWire Money Transfer Service-CAD. 	HOINV10732	False	True	06/10/11	17:08:08	Tony He	37	HOACC100266	CAD
+HOREG102225	25/02/11	False	Sell	Self	EWire Money Transfer Service-CNY	42000	0	42,000.00 CNY paid from  EWire Money Transfer Service-CNY. 	HOINV10732	False	False	06/10/11	17:08:50	Tony He	37	HOACC100267	CNY
+HOREG100871	04/07/11	False	Buy	HOCUS20040	Cash-CAD-01	0	5000	Received 5,000.00 Dollars in cash	HOINV10279	False	True	04/07/11	16:02:40	Lily Qi	36	HOCAS100298	CAD
+HOREG102048	04/07/11	False	Sell	HOCUS20040	EWire Money Transfer-CNY	33415.98	0	Send eWire:  HOEWI10041 
+Sender:  Yan Ling Ching sent 33,415.98 CNY 
+From  Canada to China Guangzhou 
+Recepient:   CHINGYAN LING - HOLIN1037 -  
+Recepient Bank:  Industrial And Commercial Bank Of China 
+Branch Transit:  Jiangwan Branch 
+Account #:  6222083602003170526 
+	HOINV10279	False	False	30/09/11	18:09:59	Tony He	13	HOEWI10041	CNY
+HOREG100874	04/07/11	False	Buy	000	Cash-CAD-01	0	600	Received 600.00 Dollars in cash	HOINV10280	False	True	04/07/11	16:44:21	Lily Qi	36	HOCAS100299	CAD
+HOREG100875	04/07/11	False	Sell	000	Cash-CNY-01	4000	0	Paid 4,000.00 Yuan Renminbi (China) in cash	HOINV10280	False	False	04/07/11	16:44:46	Lily Qi	36	HOCAS100300	CNY
+HOREG100876	04/07/11	False	Buy	000	Cash-CAD-01	0	16	Received 16.00 Dollars in cash	HOINV10280	False	True	04/07/11	16:46:11	Lily Qi	36	HOCAS100301	CAD
+HOREG100877	04/07/11	False	Sell	000	Cash-CAD-01	0.21	0	Paid 0.21 Dollars in cash	HOINV10280	False	False	04/07/11	16:46:17	Lily Qi	36	HOCAS100302	CAD
+HOREG100880	05/07/11	False	Buy	HOCUS20008	Cash-CAD-02	0	5000	Received 5,000.00 Dollars in cash	HOINV10281	False	True	05/07/11	11:33:51	Tony He	36	HOCAS100304	CAD
+HOREG102047	05/07/11	False	Sell	HOCUS20008	EWire Money Transfer-CNY	33350	0	Send eWire:  HOEWI10043 
+Sender:  Feng Chun Zhao sent 33,350.00 CNY 
+From  Canada to China Jiangmen 
+Recepient:   Miaochang Zhao - HOLIN1014 -  
+ Cell:  13822340338Recepient Address:  Zhupai Street, Jiangmen, Guangdong, China 
+Recepient Bank:  Bank Of China 
+Branch Transit:  Jiangmen City Donghua Branch 
+Account #:  475022101880101708 
+Bank Address:  Donghua Branch, Jiangmen, Guangdong, China 
+	HOINV10281	False	False	30/09/11	18:07:52	Tony He	13	HOEWI10043	CNY
+HOREG100882	05/07/11	True	Sell	self	Cash-CAD-02	5000	0	Transfer 5000  from Cash-CAD-02 to account Opening Balance.	HOINV10282	False	False	05/07/11	11:38:02	Tony He	5	HOINV10282	CAD
+HOREG100883	05/07/11	True	Buy	self	Opening Balance	0	5000	Transfer 5000  from Cash-CAD-02 to account Opening Balance.	HOINV10282	False	True	05/07/11	11:38:02	Tony He	5	HOINV10282	CAD
+HOREG100884	05/07/11	True	Sell	self	Cash-USD-02	4000	0	Transfer 4000  from Cash-USD-02 to account Cash-USD-01.	HOINV10283	False	False	05/07/11	11:42:08	Tony He	5	HOINV10283	USD
+HOREG100885	05/07/11	True	Buy	self	Cash-USD-01	0	4000	Transfer 4000  from Cash-USD-02 to account Cash-USD-01.	HOINV10283	False	True	05/07/11	11:42:08	Tony He	5	HOINV10283	USD
+HOREG100886	05/07/11	True	Sell	self	Cash-CAD-01	7000	0	Transfer 7000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10284	False	False	05/07/11	11:42:32	Tony He	5	HOINV10284	CAD
+HOREG100887	05/07/11	True	Buy	self	Cash-CAD-02	0	7000	Transfer 7000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10284	False	True	05/07/11	11:42:32	Tony He	5	HOINV10284	CAD
+HOREG100888	05/07/11	True	Sell	Self	Bank BMO-CAD	299.99	0	Transfer 299.99  from Bank BMO-CAD to account Exp. CRA Payroll Tax Payment.	HOINV10285	False	False	05/07/11	11:56:20	Tony He	5	HOINV10285	CAD
+HOREG100889	05/07/11	True	Buy	Self	Exp. CRA Payroll Tax Payment	0	299.99	Transfer 299.99  from Bank BMO-CAD to account Exp. CRA Payroll Tax Payment.	HOINV10285	False	True	05/07/11	11:56:20	Tony He	5	HOINV10285	CAD
+HOREG100890	04/07/11	False	Buy	HOCUS20038	Bank CIBC-CAD	0	15000	15,000.00 CAD received in  Bank CIBC-CAD. 	HOINV10286	False	True	05/07/11	12:19:14	Tony He	37	HOACC100102	CAD
+HOREG102049	04/07/11	False	Sell	HOCUS20038	EWire Money Transfer Service-CNY	100200	0	Send eWire:  HOEWI10044 
+Sender:  Lan Liu sent 100,200.00 CNY 
+From  Canada to China Shenzhen/Guandong 
+Recepient:   Ya Hu - HOLIN1035 -  
+ Cell:  13682555312Recepient Address:  Baoan District Shajing Town Wanan Road Changxing Technology Garden 
+Recepient Bank:  China Construction Bank 
+Branch Transit:  Shenzhen Shajing Branch 
+Account #:  6227007201061590360 
+	HOINV10286	False	False	30/09/11	18:11:25	Tony He	13	HOEWI10044	CNY
+HOREG100892	05/07/11	True	Sell	Self	Bank BMO-CAD	6.5	0	Transfer 6.5  from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10287	False	False	05/07/11	17:52:09	Tony He	5	HOINV10287	CAD
+HOREG100893	05/07/11	True	Buy	Self	Exp. Bank Fees	0	6.5	Transfer 6.5  from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10287	False	True	05/07/11	17:52:09	Tony He	5	HOINV10287	CAD
+HOREG100894	05/07/11	True	Sell	Self	Bank BMO-CAD	22	0	Transfer 22  from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10288	False	False	05/07/11	17:52:43	Tony He	5	HOINV10288	CAD
+HOREG100895	05/07/11	True	Buy	Self	Exp. Bank Fees	0	22	Transfer 22  from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10288	False	True	05/07/11	17:52:43	Tony He	5	HOINV10288	CAD
+HOREG100896	05/07/11	True	Sell	self	Bank BMO-CAD	1500	0	Transfer 1500  from Bank BMO-CAD to account Exp. BMO Credit Card Payment.	HOINV10289	False	False	05/07/11	17:53:31	Tony He	5	HOINV10289	CAD
+HOREG104178	05/07/11	True	Buy	self	Exp. BMO CAD Credit Card	0	1500	Transfer 1500 CAD from Bank ATB-CAD to account Exp. BMO Credit Card.	HOINV10289	False	True	23/01/12	16:32:49	Tony He	5	HOINV10289	CAD
+HOREG100898	06/07/11	True	Sell	Self	Cash-CNY-02	10000	0	Transfer 10000  from Cash-CNY-02 to account Cash-CNY-01.	HOINV10290	False	False	06/07/11	11:06:41	Lily Qi	5	HOINV10290	CNY
+HOREG100899	06/07/11	True	Buy	Self	Cash-CNY-01	0	10000	Transfer 10000  from Cash-CNY-02 to account Cash-CNY-01.	HOINV10290	False	True	06/07/11	11:06:42	Lily Qi	5	HOINV10290	CNY
+HOREG100900	06/07/11	False	Buy	HOCUS20042	Cash-CAD-01	0	20	Received 20.00 Dollars in cash	HOINV10291	False	True	06/07/11	11:33:27	Lily Qi	36	HOCAS100305	CAD
+HOREG100901	06/07/11	False	Sell	HOCUS20042	Cash-CAD-01	12.5	0	Paid 12.50 Dollars in cash	HOINV10291	False	False	06/07/11	11:33:33	Lily Qi	36	HOCAS100306	CAD
+HOREG100902	06/07/11	False	Buy	HOCUS20042	Bank BMO-USD	0	40000	Cheque Received 
+Amount:  40000 USD 
+Cheque Type:  Draft 
+Cheque No:  9889714 
+To the order of:  BDT Financial Ltd. 
+	HOINV10292	False	True	06/07/11	11:38:30	Lily Qi	1	HOCHE100032	USD
+HOREG100903	06/07/11	False	Sell	HOCUS20042	Bank BMO-CAD	38480	0	Cheque Paid 
+Amount:  38480 CAD 
+Cheque Type:  Draft 
+Cheque No:  951891 
+To the order of:  Shauna Woo 
+	HOINV10292	False	False	06/07/11	11:40:21	Lily Qi	1	HOCHE100033	CAD
+HOREG100905	04/07/11	False	Buy	HOCUS20045	Cash-CAD-01	0	9800	Received 9,800.00 Dollars in cash	HOINV10293	False	True	06/07/11	13:35:11	Lily Qi	36	HOCAS100308	CAD
+HOREG102052	04/07/11	False	Sell	HOCUS20045	EWire Money Transfer-CNY	65424.8	0	Send eWire:  HOEWI10045 
+Sender:  Qing Xiang sent 65,424.80 CNY 
+From  Canada to China Chengdu/Sichuan 
+Recepient:   Wanzhang Xiang - HOLIN1038 -  
+ Cell:  02889831400Recepient Bank:  Agricultural Bank Of China 
+Branch Transit:  Sichuan Chengdu Qingyun Street 
+Account #:  6228480461929467813 
+	HOINV10293	False	False	30/09/11	18:12:57	Tony He	13	HOEWI10045	CNY
+HOREG100907	06/07/11	False	Buy	HOCUS20046	Bank BMO-CAD	0	29910.34	Cheque Received 
+Amount:  29910.34 CAD 
+Cheque Type:  Draft 
+Cheque No:  58211583 
+To the order of:  BDT Financial Ltd. 
+Bank:  TD 
+	HOINV10294	False	True	06/07/11	14:10:57	Lily Qi	1	HOCHE100034	CAD
+HOREG100908	06/07/11	False	Sell	HOCUS20046	Bank BMO-USD	30839.21	0	Cheque Paid 
+Amount:  30839.21 USD 
+Cheque Type:  Certified 
+Cheque No:  00003 
+To the order of:  True North Supply LTD 
+	HOINV10294	False	False	06/07/11	14:11:56	Lily Qi	1	HOCHE100035	USD
+HOREG100909	06/07/11	True	Sell	Self	Cash-CAD-01	9800	0	Transfer 9800  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10295	False	False	06/07/11	15:54:21	Lily Qi	5	HOINV10295	CAD
+HOREG100910	06/07/11	True	Buy	Self	Cash-CAD-02	0	9800	Transfer 9800  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10295	False	True	06/07/11	15:54:21	Lily Qi	5	HOINV10295	CAD
+HOREG100911	06/07/11	False	Buy	HOCUS20047	Cash-CAD-01	0	3500	Received 3,500.00 Dollars in cash	HOINV10296	False	True	06/07/11	16:47:47	Lily Qi	36	HOCAS100309	CAD
+HOREG100912	06/07/11	False	Sell	HOCUS20047	Account Pending-CAD	3500	0	3,500.00 CAD paid from  Account Pending-CAD. 	HOINV10296	False	False	06/07/11	16:56:57	Lily Qi	37	HOACC100103	CAD
+HOREG100913	07/07/11	False	Sell	HOCUS20048	Cash-CNY-01	10000	0	Paid 10,000.00 Yuan Renminbi (China) in cash	HOINV10297	False	False	07/07/11	10:45:32	Lily Qi	36	HOCAS100310	CNY
+HOREG100914	07/07/11	False	Buy	HOCUS20048	Bank BMO-CAD	0	1538.46	1,538.46 CAD received in  Bank BMO-CAD. 	HOINV10297	False	True	07/07/11	10:46:06	Lily Qi	37	HOACC100104	CAD
+HOREG100915	07/07/11	False	Buy	HOCUS20043	Cash-USD-01	0	900	Received 900.00 Dollars (United States of America) in cash	HOINV10298	False	True	07/07/11	11:22:58	Lily Qi	36	HOCAS100311	USD
+HOREG100916	07/07/11	False	Sell	HOCUS20043	Cash-CAD-01	857.7	0	Paid 857.70 Dollars in cash	HOINV10298	False	False	07/07/11	11:23:07	Lily Qi	36	HOCAS100312	CAD
+HOREG100920	07/07/11	False	Sell	HOCUS20049	Cash-CNY-01	5000	0	Paid 5,000.00 Yuan Renminbi (China) in cash	HOINV10300	False	False	07/07/11	14:15:18	Lily Qi	36	HOCAS100316	CNY
+HOREG100919	07/07/11	False	Buy	HOCUS20049	Cash-CAD-01	0	770.9	Received 770.90 Dollars in cash	HOINV10300	False	True	07/07/11	14:14:41	Lily Qi	36	HOCAS100315	CAD
+HOREG100921	07/07/11	True	Sell	Self	Cash-USD-02	1000	0	Transfer 1000  from Cash-USD-02 to account Cash-USD-01.	HOINV10301	False	False	07/07/11	15:07:35	Lily Qi	5	HOINV10301	USD
+HOREG100922	07/07/11	True	Buy	Self	Cash-USD-01	0	1000	Transfer 1000  from Cash-USD-02 to account Cash-USD-01.	HOINV10301	False	True	07/07/11	15:07:35	Lily Qi	5	HOINV10301	USD
+HOREG100923	07/07/11	False	Buy	HOCUS20050	Cash-CAD-01	0	7000	Received 7,000.00 Dollars in cash	HOINV10302	False	True	07/07/11	15:44:13	Lily Qi	36	HOCAS100317	CAD
+HOREG100924	07/07/11	False	Sell	HOCUS20050	Cash-USD-01	7260	0	Paid 7,260.00 Dollars (United States of America) in cash	HOINV10302	False	False	07/07/11	15:48:39	Lily Qi	36	HOCAS100318	USD
+HOREG100925	07/07/11	False	Buy	HOCUS20050	Cash-CAD-01	0	1	Received 1.00 Dollars in cash	HOINV10302	False	True	07/07/11	15:51:37	Lily Qi	36	HOCAS100319	CAD
+HOREG100926	07/07/11	False	Sell	HOCUS20050	Cash-CAD-01	0.18	0	Paid 0.18 Dollars in cash	HOINV10302	False	False	07/07/11	15:51:42	Lily Qi	36	HOCAS100320	CAD
+HOREG100927	07/07/11	True	Sell	Self	Cash-CAD-01	10000	0	Transfer 10000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10303	False	False	07/07/11	16:07:14	Lily Qi	5	HOINV10303	CAD
+HOREG100928	07/07/11	True	Buy	Self	Cash-CAD-02	0	10000	Transfer 10000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10303	False	True	07/07/11	16:07:14	Lily Qi	5	HOINV10303	CAD
+HOREG100929	07/07/11	False	Buy	HOCUS20021	Cheque Payable-CAD	0	40000	40,000.00 CAD received in  Cheque Payable-CAD. 	HOINV10304	False	True	07/07/11	16:25:40	Tony He	37	HOACC100105	CAD
+HOREG101996	07/07/11	False	Sell	HOCUS20021	EWire Money Transfer Service-CNY	267800	0	Send eWire:  HOEWI10046 
+Sender:  Gengsheng Weng sent 267,800.00 CNY 
+From  Canada to China Huanggang/Hubei 
+Recepient:   Yulan Shi - HOLIN1025 -  
+ Cell:  0713-8356904Recepient Address:  Huangzhou District Baota Road #56 
+Recepient Bank:  Construction Bank 
+Branch Transit:  Huangzhou District Branch 
+Account #:  2730819980120414432 
+	HOINV10304	False	False	30/09/11	10:49:47	Tony He	13	HOEWI10046	CNY
+HOREG100949	08/07/11	False	Buy	HOCUS20047	Account Pending-CAD	0	3500	3,500.00 CAD received in  Account Pending-CAD. 	HOINV10314	False	True	08/07/11	13:14:57	Lily Qi	37	HOACC100107	CAD
+HOREG102443	08/07/11	False	Sell	HOCUS20047	EWire Money Transfer Service-CNY	23358.7	0	Send eWire:  HOEWI10200 
+Sender:  Min Tang sent 23,358.70 CNY 
+From  Canada to China Fuzhou/Fujian 
+Recepient:   Ziwang Tang - HOLIN1039 -  
+ Cell:  13705043940Recepient Address:  Minhou Nanyu Town Qiaoxia Street #8-3 
+Recepient Bank:  Bank Of China 
+Branch Transit:  Minhou Nanyu Branch 
+Account #:  6013821600605373290 
+	HOINV10314	False	False	12/10/11	14:02:44	Frances	13	HOEWI10200	CNY
+HOREG100934	08/07/11	True	Sell	Self	Cash-CNY-02	10000	0	Transfer 10000  from Cash-CNY-02 to account Cash-CNY-01.	HOINV10306	False	False	08/07/11	11:26:24	Lily Qi	5	HOINV10306	CNY
+HOREG100935	08/07/11	True	Buy	Self	Cash-CNY-01	0	10000	Transfer 10000  from Cash-CNY-02 to account Cash-CNY-01.	HOINV10306	False	True	08/07/11	11:26:24	Lily Qi	5	HOINV10306	CNY
+HOREG100936	08/07/11	False	Buy	000	Cash-CAD-01	0	1748.2	Received 1,748.20 Dollars in cash	HOINV10307	False	True	08/07/11	12:15:50	Lily Qi	36	HOCAS100321	CAD
+HOREG100937	08/07/11	False	Sell	000	Cash-CNY-01	11300	0	Paid 11,300.00 Yuan Renminbi (China) in cash	HOINV10307	False	False	08/07/11	12:16:13	Lily Qi	36	HOCAS100322	CNY
+HOREG100938	08/07/11	True	Sell	Self	Bank BMO-USD	0.44	0	Transfer 0.44  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10308	False	False	08/07/11	12:40:46	Tony He	5	HOINV10308	USD
+HOREG100939	08/07/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	0.44	Transfer 0.44  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10308	False	True	08/07/11	12:40:46	Tony He	5	HOINV10308	USD
+HOREG100940	08/07/11	True	Sell	Self	Bank BMO-USD	6	0	Transfer 6  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10309	False	False	08/07/11	12:41:18	Tony He	5	HOINV10309	USD
+HOREG100941	08/07/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	6	Transfer 6  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10309	False	True	08/07/11	12:41:18	Tony He	5	HOINV10309	USD
+HOREG100942	08/07/11	True	Sell	Self	Bank BMO-USD	1.9	0	Transfer 1.9  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10310	False	False	08/07/11	12:42:14	Tony He	5	HOINV10310	USD
+HOREG100943	08/07/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	1.9	Transfer 1.9  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10310	False	True	08/07/11	12:42:14	Tony He	5	HOINV10310	USD
+HOREG100944	08/07/11	True	Sell	Self	Bank BMO-USD	10	0	Transfer 10  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10311	False	False	08/07/11	12:43:54	Tony He	5	HOINV10311	USD
+HOREG100945	08/07/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	10	Transfer 10  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10311	False	True	08/07/11	12:43:54	Tony He	5	HOINV10311	USD
+HOREG100946	08/07/11	False	Buy	HOCUS20051	Cash-CAD-01	0	2200	Received 2,200.00 Dollars in cash	HOINV10313	False	True	08/07/11	12:52:20	Lily Qi	36	HOCAS100323	CAD
+HOREG102651	08/07/11	False	Sell	HOCUS20051	EWire Money Transfer Service-CNY	14689.4	0	Send eWire:  HOEWI10220 
+Sender:  Shouyong Lai sent 14,689.40 CNY 
+From  Canada to China Fujian 
+Recepient:   Qingfeng Huang - HOLIN1040 -  
+ Cell:  0118613950917009Recepient Address:  Jiangle Town Yuguan 
+Recepient Bank:  Bank Of China 
+Branch Transit:  Jiangle Branch 
+Account #:  4563516403007811405 
+	HOINV10313	False	False	17/10/11	14:28:37	Frances	13	HOEWI10220	CNY
+HOREG101296	28/07/11	True	Sell	Self	Opening Account-CNY	20000	0	Transfer 20000  from Opening Account-CNY to account Cash-CNY-02.	HOINV10448	False	False	28/07/11	17:41:10	Tony He	5	HOINV10448	CNY
+HOREG101297	28/07/11	True	Buy	Self	Cash-CNY-02	0	20000	Transfer 20000  from Opening Account-CNY to account Cash-CNY-02.	HOINV10448	False	True	28/07/11	17:41:10	Tony He	5	HOINV10448	CNY
+HOREG102227	09/03/11	False	Buy	Self	EWire Money Transfer Service-CAD	0	2027.43	2,027.43 CAD received in  EWire Money Transfer Service-CAD. 	HOINV10733	False	True	06/10/11	17:13:18	Tony He	37	HOACC100268	CAD
+HOREG102228	09/03/11	False	Sell	Self	EWire Money Transfer Service-CNY	14000	0	14,000.00 CNY paid from  EWire Money Transfer Service-CNY. 	HOINV10733	False	False	06/10/11	17:14:31	Tony He	37	HOACC100269	CNY
+HOREG102229	28/04/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	205062	205,062.00 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10734	False	True	06/10/11	17:16:43	Tony He	37	HOACC100270	CNY
+HOREG102230	28/04/11	False	Sell	Self	EWire Money Transfer Service-CAD	30000	0	30,000.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10734	False	False	06/10/11	17:16:56	Tony He	37	HOACC100271	CAD
+HOREG100960	08/07/11	True	Sell	Self	Cash-CAD-01	5000	0	Transfer 5000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10317	False	False	08/07/11	17:42:12	Lily Qi	5	HOINV10317	CAD
+HOREG100961	08/07/11	True	Buy	Self	Cash-CAD-02	0	5000	Transfer 5000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10317	False	True	08/07/11	17:42:12	Lily Qi	5	HOINV10317	CAD
+HOREG100964	11/07/11	False	Buy	HOCUS20052	Cash-CNY-01	0	11000	Received 11,000.00 Yuan Renminbi (China) in cash	HOINV10319	False	True	11/07/11	10:38:25	Lily Qi	36	HOCAS100326	CNY
+HOREG100965	11/07/11	False	Sell	HOCUS20052	Bank BMO-CAD	1637	0	Cheque Paid 
+Amount:  1637 CAD 
+Cheque Type:  Company 
+Cheque No:  103 
+To the order of:  Hongbing Wu 
+	HOINV10319	False	False	11/07/11	10:41:46	Lily Qi	1	HOCHE100036	CAD
+HOREG100966	12/07/11	False	Buy	000	Cash-EUR-01	0	100	Received 100.00 Euro (Euro Member Countries ) in cash	HOINV10320	False	True	12/07/11	11:25:52	Lily Qi	36	HOCAS100327	EUR
+HOREG100967	12/07/11	False	Sell	000	Cash-CAD-01	132.69	0	Paid 132.69 Dollars in cash	HOINV10320	False	False	12/07/11	11:25:56	Lily Qi	36	HOCAS100328	CAD
+HOREG100969	12/07/11	False	Buy	HOCUS20022	Cash-USD-01	0	200	Received 200.00 Dollars (United States of America) in cash	HOINV10321	False	True	12/07/11	13:00:55	Lily Qi	36	HOCAS100330	USD
+HOREG102058	12/07/11	False	Sell	HOCUS20022	EWire Money Transfer-CNY	1285.62	0	Send eWire:  HOEWI10051 
+Sender:  Peter Too sent 1,285.62 CNY 
+From  Canada to China Chu Zhou Shi 
+Recepient:   Guo Huan Gong - HOLIN1011 -  
+ Cell:  15900942645Recepient Bank:  Bank Of China 
+Account #:  6216616309000255312 
+	HOINV10321	False	False	03/10/11	10:24:51	Tony He	13	HOEWI10051	CNY
+HOREG100971	12/07/11	False	Buy	HOCUS20022	Cash-CAD-01	0	20	Received 20.00 Dollars in cash	HOINV10321	False	True	12/07/11	13:01:58	Lily Qi	36	HOCAS100331	CAD
+HOREG100972	12/07/11	False	Sell	HOCUS20022	Cash-CAD-01	5	0	Paid 5.00 Dollars in cash	HOINV10321	False	False	12/07/11	13:02:04	Lily Qi	36	HOCAS100332	CAD
+HOREG100973	12/07/11	False	Buy	HOCUS20053	Bank BMO-CAD	0	2000	Cheque Received 
+Amount:  2000 CAD 
+Cheque Type:  Draft 
+Cheque No:  58211694 
+To the order of:  BDT Financial Ltd. 
+Bank:  TD 
+	HOINV10322	False	True	12/07/11	17:41:07	Lily Qi	1	HOCHE100037	CAD
+HOREG102109	12/07/11	False	Sell	HOCUS20053	EWire Money Transfer Service-CNY	13296.2	0	Send eWire:  HOEWI10052 
+Sender:  Shaowu Zou sent 13,296.20 CNY 
+From  Canada to China Penglai/Shandong 
+Recepient:   Shaoming Zou - HOLIN1041 -  
+Recepient Address:  Jungong Street #4 
+Recepient Bank:  Bank Of China 
+Account #:  407866020022405 
+Bank Address:  Zhonglou East Street #25 
+	HOINV10322	False	False	03/10/11	11:49:19	Tony He	13	HOEWI10052	CNY
+HOREG100975	13/07/11	False	Buy	HOCUS20054	Bank BMO-CAD	0	40000	Cheque Received 
+Amount:  40000 CAD 
+Cheque Type:  Draft 
+Cheque No:  443454434516 
+To the order of:  BDT Financial Ltd. 
+Bank:  RBC 
+	HOINV10323	False	True	13/07/11	10:37:21	Lily Qi	1	HOCHE100038	CAD
+HOREG102060	13/07/11	False	Sell	HOCUS20054	EWire Money Transfer Service-CNY	267116	0	Send eWire:  HOEWI10053 
+Sender:  Fan Yang sent 267,116.00 CNY 
+From  Canada to China Beijing 
+Recepient:   Fan Yang - HOLIN1042 -  
+ Cell:  861084615611Recepient Address:  Chaoyang District Shaoyao Ju Beili 307-1-301 
+Recepient Bank:  China Construction Bank 
+Branch Transit:  China Construction Bank Qinghua Branch 
+Account #:  1103139980130232356 
+Bank Address:  Beijing Haidian Districut Qinghua University 
+	HOINV10323	False	False	03/10/11	10:26:15	Tony He	13	HOEWI10053	CNY
+HOREG100977	13/07/11	True	Sell	Self	Bank CIBC-CAD	20000	0	Transfer 20000  from Bank CIBC-CAD to account Bank BMO-CAD.	HOINV10324	False	False	13/07/11	11:00:00	Lily Qi	5	HOINV10324	CAD
+HOREG100978	13/07/11	True	Buy	Self	Bank BMO-CAD	0	20000	Transfer 20000  from Bank CIBC-CAD to account Bank BMO-CAD.	HOINV10324	False	True	13/07/11	11:00:00	Lily Qi	5	HOINV10324	CAD
+HOREG100979	13/07/11	True	Sell	Self	Bank BMO-CAD	50000	0	Transfer 50000 CAD from Bank BMO-CAD to account Everforex-CAD.	HOINV10324	False	False	13/07/11	11:00:18	Lily Qi	5	HOINV10324	CAD
+HOREG100980	13/07/11	True	Buy	Self	EWire Money Transfer Service-CAD	0	50000	Transfer 50000 CAD from Bank BMO-CAD to account Everforex-CAD.	HOINV10324	False	True	13/07/11	11:00:18	Lily Qi	5	HOINV10324	CAD
+HOREG102112	13/07/11	False	Sell	HOCUS20128	EWire Money Transfer-CNY	336	0	Send eWire:  HOEWI10173 
+Sender:  Xueting Qi sent 336.00 CNY 
+From  Canada to China  
+Recepient:  Miss. Xueting Qi - HOLIN1113 -  
+Recepient Bank:  Alipay 
+Account #:  lilyqi1989@hotmail.com 
+	HOINV10325	False	False	03/10/11	11:59:32	Frances	13	HOEWI10173	CNY
+HOREG102111	13/07/11	False	Buy	HOCUS20128	Cash-CAD-01	0	50	Received 50.00 Dollars in cash	HOINV10325	False	True	03/10/11	11:54:31	Frances	36	HOCAS100601	CAD
+HOREG100984	13/07/11	False	Buy	000	Cash-EUR-01	0	100	Received 100.00 Euro (Euro Member Countries ) in cash	HOINV10326	False	True	13/07/11	14:31:39	Lily Qi	36	HOCAS100335	EUR
+HOREG100985	13/07/11	False	Sell	000	Cash-CAD-01	133.03	0	Paid 133.03 Dollars in cash	HOINV10326	False	False	13/07/11	14:31:52	Lily Qi	36	HOCAS100336	CAD
+HOREG100987	14/07/11	False	Buy	HOCUS20056	Cash-CAD-01	0	4000	Received 4,000.00 Dollars in cash	HOINV10327	False	True	14/07/11	12:24:46	Lily Qi	36	HOCAS100338	CAD
+HOREG102062	14/07/11	False	Sell	HOCUS20056	EWire Money Transfer Service-HKD	32104.4	0	Send eWire:  HOEWI10055 
+Sender:  Pui Paul Ngai sent 32,104.40 HKD 
+From  Canada to China Hongkong 
+Recepient:   Meihong Wu - HOLIN1045 -  
+Recepient Bank:  HSBC 
+Branch Transit:  Jiangjunao Branch 
+Account #:  592369482288 
+	HOINV10327	False	False	03/10/11	10:27:41	Tony He	13	HOEWI10055	HKD
+HOREG100990	14/07/11	False	Buy	000	Cash-CAD-01	0	100	Received 100.00 Dollars in cash	HOINV10329	False	True	14/07/11	12:34:22	Lily Qi	36	HOCAS100340	CAD
+HOREG100992	14/07/11	False	Sell	000	Cash-USD-01	102	0	Paid 102.00 Dollars (United States of America) in cash	HOINV10329	False	False	14/07/11	12:35:05	Lily Qi	36	HOCAS100342	USD
+HOREG100993	14/07/11	False	Sell	000	Cash-CAD-01	0.35	0	Paid 0.35 Dollars in cash	HOINV10329	False	False	14/07/11	12:35:10	Lily Qi	36	HOCAS100343	CAD
+HOREG100994	14/07/11	False	Buy	000	Cash-CAD-01	0	100	Received 100.00 Dollars in cash	HOINV10330	False	True	14/07/11	12:36:49	Lily Qi	36	HOCAS100344	CAD
+HOREG100995	14/07/11	False	Sell	000	Cash-CNY-01	700	0	Paid 700.00 Yuan Renminbi (China) in cash	HOINV10330	False	False	14/07/11	12:37:25	Lily Qi	36	HOCAS100345	CNY
+HOREG100996	14/07/11	False	Buy	000	Cash-CAD-01	0	20	Received 20.00 Dollars in cash	HOINV10330	False	True	14/07/11	12:38:28	Lily Qi	36	HOCAS100346	CAD
+HOREG100997	14/07/11	False	Sell	000	Cash-CAD-01	11.64	0	Paid 11.64 Dollars in cash	HOINV10330	False	False	14/07/11	12:38:33	Lily Qi	36	HOCAS100347	CAD
+HOREG102992	14/07/11	True	Buy	Self	Exp. Office Phone/Internet Cost	0	245.21	Transfer 245.21 CAD from Bank CIBC-CAD to account Exp. Office Phone/Internet Cost.	HOINV10331	False	True	03/11/11	14:57:23	Frances	5	HOINV10331	CAD
+HOREG102991	14/07/11	True	Sell	Self	Bank CIBC-CAD	245.21	0	Transfer 245.21 CAD from Bank CIBC-CAD to account Exp. Office Phone/Internet Cost.	HOINV10331	False	False	03/11/11	14:57:23	Frances	5	HOINV10331	CAD
+HOREG101000	14/07/11	True	Sell	Self	Cash-CAD-02	15000	0	Transfer 15000  from Cash-CAD-02 to account Bank CIBC-CAD.	HOINV10332	False	False	14/07/11	13:53:23	Tony He	5	HOINV10332	CAD
+HOREG101001	14/07/11	True	Buy	Self	Bank CIBC-CAD	0	15000	Transfer 15000  from Cash-CAD-02 to account Bank CIBC-CAD.	HOINV10332	False	True	14/07/11	13:53:23	Tony He	5	HOINV10332	CAD
+HOREG101002	14/07/11	True	Sell	Self	Bank CIBC-CAD	656.57	0	Transfer 656.57  from Bank CIBC-CAD to account Exp. Salary & Wages.	HOINV10333	False	False	14/07/11	14:24:51	Lily Qi	5	HOINV10333	CAD
+HOREG101003	14/07/11	True	Buy	Self	Exp. Salary & Wages	0	656.57	Transfer 656.57  from Bank CIBC-CAD to account Exp. Salary & Wages.	HOINV10333	False	True	14/07/11	14:24:51	Lily Qi	5	HOINV10333	CAD
+HOREG101004	14/07/11	False	Buy	HOCUS20058	Cash-CAD-01	0	500	Received 500.00 Dollars in cash	HOINV10334	False	True	14/07/11	16:11:31	Lily Qi	36	HOCAS100348	CAD
+HOREG102063	14/07/11	False	Sell	HOCUS20058	EWire Money Transfer-CNY	3340.65	0	Send eWire:  HOEWI10058 
+Sender:  Lishi Ying sent 3,340.65 CNY 
+From  Canada to Canada Changzhou/Jiangsu 
+Recepient:   Donghong Liu - HOLIN1046 -  
+Recepient Bank:  Bank Of China 
+Branch Transit:  Wenhuagong Branch 
+Account #:  6013826104011170585 
+Bank Address:  Yanling Donglu 
+	HOINV10334	False	False	03/10/11	10:28:18	Tony He	13	HOEWI10058	CNY
+HOREG101008	14/07/11	True	Sell	Self	Cash-CAD-02	11000	0	Transfer 11000  from Cash-CAD-02 to account Opening Balance.Pay back to the shareholders	HOINV10335	False	False	14/07/11	16:39:39	Tony He	5	HOINV10335	CAD
+HOREG101009	14/07/11	True	Buy	Self	Opening Balance	0	11000	Transfer 11000  from Cash-CAD-02 to account Opening Balance.Pay back to the shareholders	HOINV10335	False	True	14/07/11	16:39:39	Tony He	5	HOINV10335	CAD
+HOREG101010	14/07/11	False	Buy	HOCUS20059	Cash-CAD-01	0	4950	Received 4,950.00 Dollars in cash	HOINV10337	False	True	14/07/11	16:44:35	Lily Qi	36	HOCAS100349	CAD
+HOREG102656	14/07/11	False	Sell	HOCUS20059	EWire Money Transfer Service-HKD	39671.3	0	39,671.30 HKD paid from  EWire Money Transfer Service-HKD. 	HOINV10337	False	False	17/10/11	14:58:50	Frances	37	HOACC100434	HKD
+HOREG101012	14/07/11	False	Buy	000	Cash-CAD-01	0	1500	Received 1,500.00 Dollars in cash	HOINV10338	False	True	14/07/11	18:00:36	Lily Qi	36	HOCAS100350	CAD
+HOREG101013	14/07/11	False	Sell	000	Cash-CNY-01	9600	0	Paid 9,600.00 Yuan Renminbi (China) in cash	HOINV10338	False	False	14/07/11	18:00:53	Lily Qi	36	HOCAS100351	CNY
+HOREG101014	14/07/11	False	Sell	000	Cash-CAD-01	12.96	0	Paid 12.96 Dollars in cash	HOINV10338	False	False	14/07/11	18:01:10	Lily Qi	36	HOCAS100352	CAD
+HOREG101015	15/07/11	False	Buy	HOCUS20058	Cash-CAD-01	0	1080	Received 1,080.00 Dollars in cash	HOINV10339	False	True	15/07/11	10:10:57	Lily Qi	36	HOCAS100353	CAD
+HOREG102065	15/07/11	False	Sell	HOCUS20058	EWire Money Transfer Service-CNY	7116.54	0	Send eWire:  HOEWI10063 
+Sender:  Lishi Ying sent 7,116.54 CNY 
+From  Canada to Canada Changzhou/Jiangsu 
+Recepient:   Donghong Liu - HOLIN1046 -  
+Recepient Bank:  Bank Of China 
+Branch Transit:  Wenhuagong Branch 
+Account #:  6013826104011170585 
+Bank Address:  Yanling Donglu 
+	HOINV10339	False	False	03/10/11	10:29:22	Tony He	13	HOEWI10063	CNY
+HOREG101017	15/07/11	True	Sell	Self	Cash-CAD-01	10000	0	Transfer 10000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10340	False	False	15/07/11	10:21:54	Lily Qi	5	HOINV10340	CAD
+HOREG101018	15/07/11	True	Buy	Self	Cash-CAD-02	0	10000	Transfer 10000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10340	False	True	15/07/11	10:21:54	Lily Qi	5	HOINV10340	CAD
+HOREG101019	15/07/11	False	Sell	HOCUS20021	Bank BMO-CAD	40000	0	Cheque Paid 
+Amount:  40000 CAD 
+Cheque Type:  Company 
+Cheque No:  0001 
+To the order of:  Gengsheng Weng 
+	HOINV10341	False	False	15/07/11	11:25:04	Lily Qi	1	HOCHE100039	CAD
+HOREG101020	15/07/11	False	Buy	HOCUS20021	Cheque Payable-CAD	0	40000	40,000.00 CAD received in  Cheque Payable-CAD. 	HOINV10341	False	True	15/07/11	11:25:48	Lily Qi	37	HOACC100117	CAD
+HOREG101027	15/07/11	True	Sell	Self	Bank CIBC-CAD	30000	0	Transfer 30000  from Bank CIBC-CAD to account Bank BMO-CAD.	HOINV10344	False	False	15/07/11	15:02:08	Lily Qi	5	HOINV10344	CAD
+HOREG101028	15/07/11	True	Buy	Self	Bank BMO-CAD	0	30000	Transfer 30000  from Bank CIBC-CAD to account Bank BMO-CAD.	HOINV10344	False	True	15/07/11	15:02:08	Lily Qi	5	HOINV10344	CAD
+HOREG101024	15/07/11	False	Buy	000	Cash-EUR-01	0	50	Received 50.00 Euro (Euro Member Countries ) in cash	HOINV10343	False	True	15/07/11	13:17:08	Lily Qi	36	HOCAS100354	EUR
+HOREG101025	15/07/11	False	Sell	000	Cash-CAD-01	66.22	0	Paid 66.22 Dollars in cash	HOINV10343	False	False	15/07/11	13:17:12	Lily Qi	36	HOCAS100355	CAD
+HOREG101029	15/07/11	True	Sell	Self	Bank BMO-CAD	30000	0	Transfer 30000 CAD from Bank BMO-CAD to account Everforex-CAD.	HOINV10344	False	False	15/07/11	15:02:28	Lily Qi	5	HOINV10344	CAD
+HOREG101030	15/07/11	True	Buy	Self	EWire Money Transfer Service-CAD	0	30000	Transfer 30000 CAD from Bank BMO-CAD to account Everforex-CAD.	HOINV10344	False	True	15/07/11	15:02:28	Lily Qi	5	HOINV10344	CAD
+HOREG101031	15/07/11	False	Buy	HOCUS20057	Bank CIBC-CAD	0	15000	15,000.00 CAD received in  Bank CIBC-CAD. 	HOINV10345	False	True	15/07/11	15:43:03	Lily Qi	37	HOACC100118	CAD
+HOREG102066	15/07/11	False	Sell	HOCUS20057	EWire Money Transfer Service-CNY	100837.5	0	Send eWire:  HOEWI10064 
+Sender:  Liping Xu sent 100,837.50 CNY 
+From  Canada to China Shanghai 
+Recepient:   LIPING XU - HOLIN1049 -  
+Recepient Address:  Boshanlu 11 #45 room 1803 
+Recepient Bank:  Bank Of China 
+Branch Transit:  Bank Of China Shanghai Pudong 
+Account #:  6013820800074247543 
+Bank Address:  Gushanlu 276 
+	HOINV10345	False	False	03/10/11	10:30:59	Tony He	13	HOEWI10064	CNY
+HOREG101033	15/07/11	False	Buy	000	Cash-USD-01	0	200	Received 200.00 Dollars (United States of America) in cash	HOINV10346	False	True	15/07/11	16:00:41	Lily Qi	36	HOCAS100356	USD
+HOREG101034	15/07/11	False	Sell	000	Cash-CAD-01	186.74	0	Paid 186.74 Dollars in cash	HOINV10346	False	False	15/07/11	16:01:02	Lily Qi	36	HOCAS100357	CAD
+HOREG101035	15/07/11	False	Sell	HOCUS20061	Bank BMO-USD	2000	0	Cheque Paid 
+Amount:  2000 USD 
+Cheque Type:  Company 
+Cheque No:  0002 
+To the order of:  Hua Wang 
+	HOINV10347	False	False	15/07/11	16:40:39	Lily Qi	1	HOCHE100041	USD
+HOREG101036	15/07/11	False	Buy	HOCUS20061	Bank BMO-CAD	0	1919.6	1,919.60 CAD received in  Bank BMO-CAD. 	HOINV10347	False	True	15/07/11	16:41:26	Lily Qi	37	HOACC100119	CAD
+HOREG101056	18/07/11	False	Buy	HOCUS20062	Bank BMO-CAD	0	1700	Cheque Received 
+Amount:  1700 CAD 
+Cheque Type:  Personal 
+Cheque No:  291 
+To the order of:  BDT Financial Ltd. 
+Bank:  TD 
+	HOINV10349	False	True	18/07/11	12:43:54	Lily Qi	1	HOCHE100043	CAD
+HOREG102461	18/07/11	False	Sell	HOCUS20062	EWire Money Transfer Service-CNY	11389.49	0	Send eWire:  HOEWI10202 
+Sender:  Xiling Ding sent 11,389.49 CNY 
+From  Canada to China Suzhou/Jiangsu 
+Recepient:   Wei Zhang - HOLIN1050 -  
+Recepient Bank:  Agricultural Bank Of China 
+Branch Transit:  Jiangsu Suzhou Ganjianglu Branch 
+Account #:  6228480402547796316 
+Bank Address:  Ganjianglu Branch 
+	HOINV10349	False	False	12/10/11	15:12:15	Frances	13	HOEWI10202	CNY
+HOREG101058	18/07/11	True	Sell	Self	Cash-CNY-01	700	0	Transfer 700  from Cash-CNY-01 to account Cash-CNY-02.	HOINV10350	False	False	18/07/11	16:16:56	Lily Qi	5	HOINV10350	CNY
+HOREG101059	18/07/11	True	Buy	Self	Cash-CNY-02	0	700	Transfer 700  from Cash-CNY-01 to account Cash-CNY-02.	HOINV10350	False	True	18/07/11	16:16:56	Lily Qi	5	HOINV10350	CNY
+HOREG101122	22/07/11	True	Sell	Self	Cash-CAD-01	5000	0	Transfer 5000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10375	False	False	22/07/11	16:32:02	Lily Qi	5	HOINV10375	CAD
+HOREG101123	22/07/11	True	Buy	Self	Cash-CAD-02	0	5000	Transfer 5000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10375	False	True	22/07/11	16:32:02	Lily Qi	5	HOINV10375	CAD
+HOREG101063	19/07/11	False	Buy	HOCUS20063	Cash-CAD-01	0	1500	Received 1,500.00 Dollars in cash	HOINV10352	False	True	19/07/11	10:55:11	Lily Qi	36	HOCAS100361	CAD
+HOREG102491	19/07/11	False	Sell	HOCUS20063	EWire Money Transfer-CNY	10050	0	Send eWire:  HOEWI10213 
+Sender:  Shu Xun Li sent 10,050.00 CNY 
+From  Canada to Canada Beijing 
+Recepient:   Yujue Bai - HOLIN1052 -  
+Recepient Address:  Taifeng District Cuilin Xiaoqu 3li Building 19 first door 604 
+Recepient Bank:  Industrial And Commercial Bank Of China 
+Branch Transit:  Beijing 10069 
+Account #:  9558820200000581761 
+	HOINV10352	False	False	13/10/11	13:28:26	Frances	13	HOEWI10213	CNY
+HOREG101065	19/07/11	True	Sell	Self	Cash-CNY-02	700	0	Transfer 700  from Cash-CNY-02 to account Cash-CNY-01.	HOINV10353	False	False	19/07/11	10:55:55	Lily Qi	5	HOINV10353	CNY
+HOREG101066	19/07/11	True	Buy	Self	Cash-CNY-01	0	700	Transfer 700  from Cash-CNY-02 to account Cash-CNY-01.	HOINV10353	False	True	19/07/11	10:55:55	Lily Qi	5	HOINV10353	CNY
+HOREG101067	20/07/11	True	Sell	Self	Bank CIBC-CAD	10000	0	Transfer 10000  from Bank CIBC-CAD to account Bank BMO-CAD.	HOINV10354	False	False	20/07/11	10:06:18	Lily Qi	5	HOINV10354	CAD
+HOREG101068	20/07/11	True	Buy	Self	Bank BMO-CAD	0	10000	Transfer 10000  from Bank CIBC-CAD to account Bank BMO-CAD.	HOINV10354	False	True	20/07/11	10:06:19	Lily Qi	5	HOINV10354	CAD
+HOREG101069	20/07/11	False	Buy	HOCUS20064	Cash-CAD-01	0	6000	Received 6,000.00 Dollars in cash	HOINV10355	False	True	20/07/11	12:43:41	Lily Qi	36	HOCAS100362	CAD
+HOREG102069	20/07/11	False	Sell	HOCUS20064	EWire Money Transfer Service-USD	6291	0	Send eWire:  HOEWI10075 
+Sender:  Guangxiu Liu sent 6,291.00 USD 
+From  Canada to China Hongkong 
+Recepient:   Guangxiu Liu - HOLIN1053 -  
+Recepient Address:  37 Queen's Road, Central, Hongkong 
+Recepient Bank:  HSBC 
+Branch Transit:  Kowloon Branch 
+Account #:  636299364833 
+Bank Address:  82-84 Nathan Road, T.S.T. Kowloon, Hongkong 
+	HOINV10355	False	False	03/10/11	10:32:53	Tony He	13	HOEWI10075	USD
+HOREG101071	21/07/11	True	Sell	Self	Cash-CAD-01	8000	0	Transfer 8000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10356	False	False	21/07/11	10:16:37	Lily Qi	5	HOINV10356	CAD
+HOREG101072	21/07/11	True	Buy	Self	Cash-CAD-02	0	8000	Transfer 8000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10356	False	True	21/07/11	10:16:37	Lily Qi	5	HOINV10356	CAD
+HOREG101073	21/07/11	False	Buy	HOCUS20067	Cash-CAD-01	0	1000	Received 1,000.00 Dollars in cash	HOINV10357	False	True	21/07/11	15:59:46	Lily Qi	36	HOCAS100363	CAD
+HOREG102070	21/07/11	False	Sell	HOCUS20067	EWire Money Transfer Service-CNY	6750	0	Send eWire:  HOEWI10076 
+Sender:  Dongwei Lian sent 6,750.00 CNY 
+From  Canada to China Shandong 
+Recepient:   Jingle Lian - HOLIN1055 -  
+Recepient Address:  Shandong juancheng 
+Recepient Bank:  Bank Of China 
+Branch Transit:  Shandong Juancheng Branch 
+Account #:  6013826012005000298 
+	HOINV10357	False	False	03/10/11	10:33:17	Tony He	13	HOEWI10076	CNY
+HOREG101075	21/07/11	False	Buy	HOCUS20066	Bank BMO-CAD	0	5000	Cheque Received 
+Amount:  5000 CAD 
+Cheque Type:  Personal 
+Cheque No:  0521 
+To the order of:  BDT Financial Ltd. 
+Bank:  RBC 
+	HOINV10358	False	True	21/07/11	17:03:55	Lily Qi	1	HOCHE100044	CAD
+HOREG102440	21/07/11	False	Sell	HOCUS20066	EWire Money Transfer Service-CNY	33812.5	0	Send eWire:  HOEWI10198 
+Sender:  Qin Li sent 33,812.50 CNY 
+From  Canada to China Liling,Hunan 
+Recepient:  Miss. Min  Zeng - HOLIN1127 -  
+Recepient Address:  16 Xinghuozu Bishan Cun Xishan Banshichu  
+Recepient Bank:  Bank Of China 
+Branch Transit:  Lilingbranch  
+Account #:  470080101880102205 
+Bank Address:  Liling 
+	HOINV10358	False	False	12/10/11	13:52:43	Frances	13	HOEWI10198	CNY
+HOREG101080	21/07/11	True	Buy	Self	EWire Money Transfer Service-CAD	0	50000	Transfer 50000 CAD from Bank BMO-CAD to account Everforex-CAD.	HOINV10359	False	True	21/07/11	17:08:35	Lily Qi	5	HOINV10359	CAD
+HOREG101079	21/07/11	True	Sell	Self	Bank BMO-CAD	50000	0	Transfer 50000 CAD from Bank BMO-CAD to account Everforex-CAD.	HOINV10359	False	False	21/07/11	17:08:35	Lily Qi	5	HOINV10359	CAD
+HOREG101081	21/07/11	False	Buy	HOCUS20065	Bank BMO-CAD	0	2300	2,300.00 CAD received in  Bank BMO-CAD. 	HOINV10360	False	True	21/07/11	17:10:47	Lily Qi	37	HOACC100129	CAD
+HOREG102071	21/07/11	False	Sell	HOCUS20065	EWire Money Transfer Service-CNY	15506.37	0	Send eWire:  HOEWI10077 
+Sender:  Qin Lu sent 15,506.37 CNY 
+From  Canada to China Jingjiang/Jiangsu 
+Recepient:   Qin Lu - HOLIN1054 -  
+ Cell:  052384983888Recepient Address:  Jiangsu Jingjiang 
+Recepient Bank:  Industrial And Commercial Bank Of China 
+Account #:  9558801115101085863 
+	HOINV10360	False	False	03/10/11	10:33:43	Tony He	13	HOEWI10077	CNY
+HOREG101083	21/07/11	True	Sell	Self	Bank BMO-CAD	772	0	Transfer 772  from Bank BMO-CAD to account Exp. BMO Credit Card Payment.	HOINV10361	False	False	21/07/11	17:11:22	Tony He	5	HOINV10361	CAD
+HOREG104180	21/07/11	True	Buy	Self	Exp. BMO CAD Credit Card	0	772	Transfer 772 CAD from Bank ATB-CAD to account Exp. BMO Credit Card.	HOINV10361	False	True	23/01/12	16:33:22	Tony He	5	HOINV10361	CAD
+HOREG101087	22/07/11	False	Sell	HOCUS20062	Cash-CNY-01	700	0	Paid 700.00 Yuan Renminbi (China) in cash	HOINV10363	False	False	22/07/11	12:57:22	Lily Qi	36	HOCAS100364	CNY
+HOREG101088	22/07/11	False	Buy	HOCUS20062	Cash-CAD-01	0	120	Received 120.00 Dollars in cash	HOINV10363	False	True	22/07/11	12:57:58	Lily Qi	36	HOCAS100365	CAD
+HOREG101089	22/07/11	False	Sell	HOCUS20062	Cash-CAD-01	12.75	0	Paid 12.75 Dollars in cash	HOINV10363	False	False	22/07/11	12:58:03	Lily Qi	36	HOCAS100366	CAD
+HOREG101092	22/07/11	True	Sell	Self	Cash-CAD-02	7800	0	Transfer 7800  from Cash-CAD-02 to account Bank ATB-CAD.	HOINV10365	False	False	22/07/11	13:11:42	Tony He	5	HOINV10365	CAD
+HOREG101093	22/07/11	True	Buy	Self	Bank ATB-CAD	0	7800	Transfer 7800  from Cash-CAD-02 to account Bank ATB-CAD.	HOINV10365	False	True	22/07/11	13:11:42	Tony He	5	HOINV10365	CAD
+HOREG101097	22/07/11	True	Sell	self	Cash-CAD-02	8000	0	Transfer 8000  from Cash-CAD-02 to account Opening Balance.	HOINV10367	False	False	22/07/11	13:12:43	Tony He	5	HOINV10367	CAD
+HOREG101098	22/07/11	True	Buy	self	Opening Balance	0	8000	Transfer 8000  from Cash-CAD-02 to account Opening Balance.	HOINV10367	False	True	22/07/11	13:12:43	Tony He	5	HOINV10367	CAD
+HOREG101099	22/07/11	True	Sell	Self	Cash-CAD-02	8000	0	Transfer 8000  from Cash-CAD-02 to account Opening Balance.	HOINV10368	False	False	22/07/11	13:17:03	Tony He	5	HOINV10368	CAD
+HOREG101100	22/07/11	True	Buy	Self	Opening Balance	0	8000	Transfer 8000  from Cash-CAD-02 to account Opening Balance.	HOINV10368	False	True	22/07/11	13:17:03	Tony He	5	HOINV10368	CAD
+HOREG101104	22/07/11	False	Sell	000	Cash-USD-01	207	0	Paid 207.00 Dollars (United States of America) in cash	HOINV10369	False	False	22/07/11	14:11:48	Lily Qi	36	HOCAS100371	USD
+HOREG101105	22/07/11	False	Buy	000	Cash-CAD-01	0	207	Received 207.00 Dollars in cash	HOINV10369	False	True	22/07/11	14:12:03	Lily Qi	36	HOCAS100372	CAD
+HOREG101106	22/07/11	False	Sell	000	Cash-CAD-01	6.83	0	Paid 6.83 Dollars in cash	HOINV10369	False	False	22/07/11	14:12:08	Lily Qi	36	HOCAS100373	CAD
+HOREG103190	31/05/11	True	Buy	Self	Exp. Bank Fees	0	35	Transfer 35 CAD from Bank CIBC-CAD to account Exp. Bank Fees.	HOINV10374	False	True	15/11/11	15:16:22	Frances	5	HOINV10374	CAD
+HOREG103189	31/05/11	True	Sell	Self	Bank CIBC-CAD	35	0	Transfer 35 CAD from Bank CIBC-CAD to account Exp. Bank Fees.	HOINV10374	False	False	15/11/11	15:16:22	Frances	5	HOINV10374	CAD
+HOREG101126	22/07/11	True	Sell	self	Bank ATB-CAD	8	0	Transfer 8  from Bank ATB-CAD to account Exp. Bank Fees.	HOINV10377	False	False	22/07/11	16:34:03	Tony He	5	HOINV10377	CAD
+HOREG101127	22/07/11	True	Buy	self	Exp. Bank Fees	0	8	Transfer 8  from Bank ATB-CAD to account Exp. Bank Fees.	HOINV10377	False	True	22/07/11	16:34:03	Tony He	5	HOINV10377	CAD
+HOREG102767	31/07/11	True	Buy	Self	Exp. Bank Fees	0	1.6	Transfer 1.6  from Bank ATB-CAD to account Exp. Bank Fees.	HOINV10963	False	True	20/10/11	10:44:26	Frances	5	HOINV10963	CAD
+HOREG102775	19/10/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from EWire Money Transfer Service-CNY to account Exp. Service Fees Paid-CNY.	HOINV10964	False	True	20/10/11	11:17:52	Frances	5	HOINV10964	CNY
+HOREG101130	25/07/11	True	Sell	Self	Cash-CAD-02	5000	0	Transfer 5000  from Cash-CAD-02 to account Cash-CAD-01.	HOINV10379	False	False	25/07/11	10:03:51	Lily Qi	5	HOINV10379	CAD
+HOREG101131	25/07/11	True	Buy	Self	Cash-CAD-01	0	5000	Transfer 5000  from Cash-CAD-02 to account Cash-CAD-01.	HOINV10379	False	True	25/07/11	10:03:51	Lily Qi	5	HOINV10379	CAD
+HOREG101134	25/07/11	False	Buy	HOCUS20056	Cash-CAD-01	0	3400	Received 3,400.00 Dollars in cash	HOINV10381	False	True	25/07/11	12:20:58	Lily Qi	36	HOCAS100376	CAD
+HOREG102072	25/07/11	False	Sell	HOCUS20056	EWire Money Transfer Service-HKD	27737.67	0	Send eWire:  HOEWI10078 
+Sender:  Pui Paul Ngai sent 27,737.67 HKD 
+From  Canada to China Hongkong 
+Recepient:   Meihong Wu - HOLIN1045 -  
+Recepient Bank:  HSBC 
+Branch Transit:  Jiangjunao Branch 
+Account #:  592369482288 
+	HOINV10381	False	False	03/10/11	10:34:29	Tony He	13	HOEWI10078	HKD
+HOREG101136	25/07/11	False	Buy	HOCUS20056	Cash-CAD-01	0	20	Received 20.00 Dollars in cash	HOINV10381	False	True	25/07/11	12:21:36	Lily Qi	36	HOCAS100377	CAD
+HOREG101137	25/07/11	False	Sell	HOCUS20056	Cash-CAD-01	5	0	Paid 5.00 Dollars in cash	HOINV10381	False	False	25/07/11	12:21:40	Lily Qi	36	HOCAS100378	CAD
+HOREG101138	25/07/11	True	Sell	Self	Bank CIBC-CAD	714.27	0	Transfer 714.27  from Bank CIBC-CAD to account Exp. Salary & Wages.	HOINV10380	False	False	25/07/11	12:30:34	Administrator	5	HOINV10380	CAD
+HOREG101139	25/07/11	True	Buy	Self	Exp. Salary & Wages	0	714.27	Transfer 714.27  from Bank CIBC-CAD to account Exp. Salary & Wages.	HOINV10380	False	True	25/07/11	12:30:34	Administrator	5	HOINV10380	CAD
+HOREG101141	25/07/11	False	Buy	000	Cash-EUR-01	0	100	Received 100.00 Euro (Euro Member Countries ) in cash	HOINV10382	False	True	25/07/11	17:27:36	Lily Qi	36	HOCAS100380	EUR
+HOREG101142	25/07/11	False	Sell	000	Cash-CAD-01	133.39	0	Paid 133.39 Dollars in cash	HOINV10382	False	False	25/07/11	17:27:40	Lily Qi	36	HOCAS100381	CAD
+HOREG101156	26/07/11	False	Sell	HOCUS20068	Cash-USD-01	500	0	Paid 500.00 Dollars (United States of America) in cash	HOINV10383	False	False	26/07/11	14:06:42	Lily Qi	36	HOCAS100390	USD
+HOREG101144	26/07/11	False	Buy	HOCUS20068	Bank BMO-CAD	0	2850	Cheque Received 
+Amount:  2850 CAD 
+Cheque Type:  Personal 
+Cheque No:  149 
+To the order of:  BDT Financial Ltd. 
+Bank:  TD 
+	HOINV10383	False	True	26/07/11	10:24:18	Tony He	1	HOCHE100046	CAD
+HOREG101146	26/07/11	False	Buy	HOCUS20022	Cash-CAD-01	0	300	Received 300.00 Dollars in cash	HOINV10384	False	True	26/07/11	13:34:22	Lily Qi	36	HOCAS100383	CAD
+HOREG102073	26/07/11	False	Sell	HOCUS20022	EWire Money Transfer-CNY	2020.17	0	Send eWire:  HOEWI10079 
+Sender:  Peter Too sent 2,020.17 CNY 
+From  Canada to China Chu Zhou Shi 
+Recepient:   Guo Huan Gong - HOLIN1011 -  
+ Cell:  15900942645Recepient Bank:  Bank Of China 
+Account #:  6216616309000255312 
+	HOINV10384	False	False	03/10/11	10:34:54	Tony He	13	HOEWI10079	CNY
+HOREG101149	26/07/11	False	Buy	HOCUS20022	Cash-CAD-01	0	15	Received 15.00 Dollars in cash	HOINV10384	False	True	26/07/11	13:35:05	Lily Qi	36	HOCAS100385	CAD
+HOREG101145	26/07/11	False	Buy	HOCUS20032	Cash-CAD-02	0	220	Received 220.00 Dollars in cash	HOINV10385	False	True	26/07/11	13:34:20	Tony He	36	HOCAS100382	CAD
+HOREG101151	26/07/11	False	Sell	HOCUS20032	Cash-CAD-02	5	0	Paid 5.00 Dollars in cash	HOINV10385	False	False	26/07/11	13:36:03	Tony He	36	HOCAS100387	CAD
+HOREG102074	26/07/11	False	Sell	HOCUS20032	EWire Money Transfer-CNY	1346.78	0	Send eWire:  HOEWI10081 
+Sender:  Lok Bin Chan sent 1,346.78 CNY 
+From  Canada to China Shanghai 
+Recepient:   Jingfen Tian - HOLIN1031 -  
+ Cell:  15221726322Recepient Address:  Shanghai City 
+Recepient Bank:  Bank Of Agriculture 
+Account #:  6228480031141737416 
+	HOINV10385	False	False	03/10/11	10:35:17	Tony He	13	HOEWI10081	CNY
+HOREG101157	26/07/11	False	Sell	HOCUS20068	Bank BMO-USD	2500	0	Cheque Paid 
+Amount:  2500 USD 
+Cheque Type:  Company 
+Cheque No:  00005 
+To the order of:  Zhou Zhou 
+	HOINV10383	False	False	26/07/11	14:07:17	Lily Qi	1	HOCHE100047	USD
+HOREG101158	27/07/11	True	Sell	Self	Cash-CAD-02	215	0	Transfer 215  from Cash-CAD-02 to account Cash-CAD-01.	HOINV10388	False	False	27/07/11	10:21:15	Lily Qi	5	HOINV10388	CAD
+HOREG101159	27/07/11	True	Buy	Self	Cash-CAD-01	0	215	Transfer 215  from Cash-CAD-02 to account Cash-CAD-01.	HOINV10388	False	True	27/07/11	10:21:15	Lily Qi	5	HOINV10388	CAD
+HOREG101166	27/07/11	False	Buy	HOCUS20034	Bank BMO-CAD	0	10000	Cheque Received 
+Amount:  10000 CAD 
+Cheque Type:  Personal 
+Cheque No:  083 
+To the order of:  BDT Financial Ltd. 
+Bank:  CIBC 
+	HOINV10389	False	True	27/07/11	10:43:29	Tony He	1	HOCHE100051	CAD
+HOREG101167	27/07/11	False	Sell	HOCUS20034	Opening Balance	10000	0	10,000.00 CAD paid from  Opening Balance. 	HOINV10389	False	False	27/07/11	10:44:18	Tony He	37	HOACC100150	CAD
+HOREG102075	27/07/11	False	Buy	HOCUS20070	EWire Money Transfer-CNY	0	150000	Received eWire:  HOEWI10082 for :  Yune Zhou - HOCUS20070 
+Sender:  Jianlin Zhou - HOLIN1056 paid 150,000.00 CNY 
+From  China to Canada 
+Received Amount (set at source):  150,000.00 CNY 
+Sender Address:  Room 504, Haiying Xincun Buiilding 203 
+    Haimen/Jiangsu, China 
+	HOINV10390	False	True	03/10/11	10:35:59	Tony He	13	HOEWI10082	CNY
+HOREG101169	27/07/11	False	Sell	HOCUS20070	Bank BMO-CAD	21929.82	0	Cheque Paid 
+Amount:  21929.82 CAD 
+Cheque Type:  Company 
+Cheque No:  00002 
+To the order of:  Yune Zhou 
+	HOINV10390	False	False	27/07/11	15:31:12	Lily Qi	1	HOCHE100052	CAD
+HOREG102231	24/05/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	250.51	250.51 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10735	False	True	06/10/11	17:19:22	Tony He	37	HOACC100272	CNY
+HOREG102232	24/05/11	False	Sell	Self	EWire Money Transfer Service-CAD	37.63	0	37.63 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10735	False	False	06/10/11	17:19:54	Tony He	37	HOACC100273	CAD
+HOREG101172	25/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10392	False	False	28/07/11	11:41:22	Lily Qi	5	HOINV10392	CNY
+HOREG101173	25/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10392	False	True	28/07/11	11:41:22	Lily Qi	5	HOINV10392	CNY
+HOREG102233	14/06/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	80312.4	80,312.40 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10736	False	True	06/10/11	17:25:36	Tony He	37	HOACC100274	CNY
+HOREG102234	14/06/11	False	Sell	Self	EWire Money Transfer Service-CAD	12000	0	12,000.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10736	False	False	06/10/11	17:25:53	Tony He	37	HOACC100275	CAD
+HOREG101176	22/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10394	False	False	28/07/11	11:44:37	Lily Qi	5	HOINV10394	CNY
+HOREG101177	22/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10394	False	True	28/07/11	11:44:37	Lily Qi	5	HOINV10394	CNY
+HOREG101178	21/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10395	False	False	28/07/11	11:45:20	Lily Qi	5	HOINV10395	CNY
+HOREG101179	21/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10395	False	True	28/07/11	11:45:20	Lily Qi	5	HOINV10395	CNY
+HOREG101180	21/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10396	False	False	28/07/11	11:46:09	Lily Qi	5	HOINV10396	CNY
+HOREG101181	21/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10396	False	True	28/07/11	11:46:09	Lily Qi	5	HOINV10396	CNY
+HOREG102235	24/06/11	False	Buy	Self	EWire Money Transfer Service-CAD	0	30270.2	30,270.20 CAD received in  EWire Money Transfer Service-CAD. 	HOINV10737	False	True	06/10/11	17:33:14	Tony He	37	HOACC100276	CAD
+HOREG102236	24/06/11	False	Sell	Self	EWire Money Transfer Service-USD	30700	0	30,700.00 USD paid from  EWire Money Transfer Service-USD. 	HOINV10737	False	False	06/10/11	17:34:21	Tony He	37	HOACC100277	USD
+HOREG102237	30/06/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	187535.6	187,535.60 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10738	False	True	06/10/11	17:36:13	Tony He	37	HOACC100278	CNY
+HOREG102238	30/06/11	False	Sell	Self	EWire Money Transfer Service-CAD	28000	0	28,000.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10738	False	False	06/10/11	17:36:27	Tony He	37	HOACC100279	CAD
+HOREG102239	04/07/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	100606.5	100,606.50 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10739	False	True	06/10/11	17:38:53	Tony He	37	HOACC100280	CNY
+HOREG102240	04/07/11	False	Sell	Self	EWire Money Transfer Service-CAD	15000	0	15,000.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10739	False	False	06/10/11	17:39:10	Tony He	37	HOACC100281	CAD
+HOREG101189	20/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10400	False	False	28/07/11	11:53:08	Lily Qi	5	HOINV10400	CNY
+HOREG101190	20/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10400	False	True	28/07/11	11:53:08	Lily Qi	5	HOINV10400	CNY
+HOREG102241	08/07/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	23486.75	23,486.75 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10740	False	True	06/10/11	17:40:49	Tony He	37	HOACC100282	CNY
+HOREG102242	08/07/11	False	Sell	Self	EWire Money Transfer Service-CAD	3500	0	3,500.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10740	False	False	06/10/11	17:41:02	Tony He	37	HOACC100283	CAD
+HOREG101193	19/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10402	False	False	28/07/11	11:55:17	Lily Qi	5	HOINV10402	CNY
+HOREG101194	19/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10402	False	True	28/07/11	11:55:17	Lily Qi	5	HOINV10402	CNY
+HOREG102243	08/07/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	14774.54	14,774.54 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10741	False	True	06/10/11	17:42:02	Tony He	37	HOACC100284	CNY
+HOREG102244	08/07/11	False	Sell	Self	EWire Money Transfer Service-CAD	2200	0	2,200.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10741	False	False	06/10/11	17:42:13	Tony He	37	HOACC100285	CAD
+HOREG101197	15/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10404	False	False	28/07/11	11:57:11	Lily Qi	5	HOINV10404	CNY
+HOREG101198	15/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10404	False	True	28/07/11	11:57:11	Lily Qi	5	HOINV10404	CNY
+HOREG101199	15/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10405	False	False	28/07/11	11:57:54	Lily Qi	5	HOINV10405	CNY
+HOREG101200	15/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10405	False	True	28/07/11	11:57:54	Lily Qi	5	HOINV10405	CNY
+HOREG102245	08/07/11	False	Buy	Self	EWire Money Transfer Service-CAD	0	2399.75	2,399.75 CAD received in  EWire Money Transfer Service-CAD. 	HOINV10742	False	True	06/10/11	17:44:39	Tony He	37	HOACC100286	CAD
+HOREG102246	08/07/11	False	Sell	Self	EWire Money Transfer Service-USD	2500	0	2,500.00 USD paid from  EWire Money Transfer Service-USD. 	HOINV10742	False	False	06/10/11	17:45:19	Tony He	37	HOACC100287	USD
+HOREG101204	14/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10407	False	False	28/07/11	12:06:50	Lily Qi	5	HOINV10407	CNY
+HOREG101205	14/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10407	False	True	28/07/11	12:06:50	Lily Qi	5	HOINV10407	CNY
+HOREG101206	14/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10408	False	False	28/07/11	12:07:23	Lily Qi	5	HOINV10408	CNY
+HOREG101207	14/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10408	False	True	28/07/11	12:07:23	Lily Qi	5	HOINV10408	CNY
+HOREG102247	12/07/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	13414.4	13,414.40 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10743	False	True	06/10/11	17:48:47	Tony He	37	HOACC100288	CNY
+HOREG102248	12/07/11	False	Sell	Self	EWire Money Transfer Service-CAD	2000	0	2,000.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10743	False	False	06/10/11	17:49:02	Tony He	37	HOACC100289	CAD
+HOREG102249	13/07/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	42048.5	42,048.50 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10744	False	True	06/10/11	17:53:26	Tony He	37	HOACC100290	CNY
+HOREG102250	13/07/11	False	Sell	Self	EWire Money Transfer Service-USD	6500	0	6,500.00 USD paid from  EWire Money Transfer Service-USD. 	HOINV10744	False	False	06/10/11	17:54:24	Tony He	37	HOACC100291	USD
+HOREG101212	13/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10411	False	False	28/07/11	12:11:24	Lily Qi	5	HOINV10411	CNY
+HOREG101213	13/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10411	False	True	28/07/11	12:11:24	Lily Qi	5	HOINV10411	CNY
+HOREG102251	13/07/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	226720.12	226,720.12 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10745	False	True	06/10/11	17:56:06	Tony He	37	HOACC100292	CNY
+HOREG102252	13/07/11	False	Sell	Self	EWire Money Transfer Service-CAD	33700	0	33,700.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10745	False	False	06/10/11	17:56:23	Tony He	37	HOACC100293	CAD
+HOREG102253	14/07/11	False	Buy	Self	EWire Money Transfer Service-HKD	0	32369.2	32,369.20 HKD received in  EWire Money Transfer Service-HKD. 	HOINV10746	False	True	06/10/11	17:58:36	Tony He	37	HOACC100294	HKD
+HOREG102254	14/07/11	False	Sell	Self	EWire Money Transfer Service-CAD	4000	0	4,000.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10746	False	False	06/10/11	17:58:55	Tony He	37	HOACC100295	CAD
+HOREG101221	12/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10414	False	False	28/07/11	12:22:54	Lily Qi	5	HOINV10414	CNY
+HOREG101222	12/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10414	False	True	28/07/11	12:22:54	Lily Qi	5	HOINV10414	CNY
+HOREG102255	14/07/11	False	Buy	Self	EWire Money Transfer Service-HKD	0	40105.4	40,105.40 HKD received in  EWire Money Transfer Service-HKD. 	HOINV10747	False	True	06/10/11	18:00:30	Tony He	37	HOACC100296	HKD
+HOREG102256	14/07/11	False	Sell	Self	EWire Money Transfer Service-CAD	4950	0	4,950.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10747	False	False	06/10/11	18:00:54	Tony He	37	HOACC100297	CAD
+HOREG101225	08/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10416	False	False	28/07/11	12:24:53	Lily Qi	5	HOINV10416	CNY
+HOREG101226	08/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10416	False	True	28/07/11	12:24:53	Lily Qi	5	HOINV10416	CNY
+HOREG101227	08/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10417	False	False	28/07/11	12:25:29	Lily Qi	5	HOINV10417	CNY
+HOREG101228	08/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10417	False	True	28/07/11	12:25:29	Lily Qi	5	HOINV10417	CNY
+HOREG102258	07/10/11	False	Sell	HOCUS20133	EWire Money Transfer Service-HKD	20000	0	Send eWire:  HOEWI10182 
+Sender:  Meiyin Chan sent 20,000.00 HKD 
+From  Canada to China  Hongkong  
+Recepient:  Mr. SHIN YEE CHO - HOLIN1118 -  
+ Home:  0085296029668Recepient Address:  3612 Fuwang Lou Fuchang Tun Shenshuibu Jiulong  
+Recepient Bank:  HSBC 
+Branch Transit:  HSBC HK 
+Account #:  4168007096 
+Bank Address:  Hongkong 
+	HOINV10748	False	False	07/10/11	10:27:22	Tony He	13	HOEWI10182	HKD
+HOREG102259	07/10/11	False	Buy	HOCUS20133	Cash-CAD-01	0	2700	Received 2,700.00 Dollars in cash	HOINV10748	False	True	07/10/11	10:27:45	Tony He	36	HOCAS100627	CAD
+HOREG102260	07/10/11	False	Sell	HOCUS20133	Cash-CAD-01	3.72	0	Paid 3.72 Dollars in cash	HOINV10748	False	False	07/10/11	10:27:52	Tony He	36	HOCAS100628	CAD
+HOREG102264	07/10/11	True	Buy	Self	Cash-CAD-02	0	20.4	Transfer 20.4 CAD from Cash-CAD-01 to account Cash-CAD-02.	HOINV10749	False	True	07/10/11	10:50:20	Tony He	5	HOINV10749	CAD
+HOREG102608	14/10/11	False	Buy	000	Cash-CAD-01	0	1220	Received 1,220.00 Dollars in cash	HOINV10894	False	True	14/10/11	14:18:06	Frances	36	HOCAS100658	CAD
+HOREG102609	14/10/11	False	Sell	000	Cash-USD-01	1200	0	Paid 1,200.00 Dollars (United States of America) in cash	HOINV10894	False	False	14/10/11	14:19:05	Frances	36	HOCAS100659	USD
+HOREG101235	04/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10421	False	False	28/07/11	12:29:09	Lily Qi	5	HOINV10421	CNY
+HOREG101236	04/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10421	False	True	28/07/11	12:29:09	Lily Qi	5	HOINV10421	CNY
+HOREG102263	07/10/11	True	Sell	Self	Cash-CAD-01	20.4	0	Transfer 20.4 CAD from Cash-CAD-01 to account Cash-CAD-02.	HOINV10749	False	False	07/10/11	10:50:20	Tony He	5	HOINV10749	CAD
+HOREG102265	15/07/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	7211.33	7,211.33 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10751	False	True	07/10/11	12:59:52	Frances	37	HOACC100299	CNY
+HOREG102266	15/07/11	False	Sell	Self	EWire Money Transfer Service-CAD	1065	0	1,065.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10751	False	False	07/10/11	13:00:15	Frances	37	HOACC100300	CAD
+HOREG102267	15/07/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	101568	101,568.00 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10752	False	True	07/10/11	13:02:04	Frances	37	HOACC100301	CNY
+HOREG102268	15/07/11	False	Sell	Self	EWire Money Transfer Service-CAD	15000	0	15,000.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10752	False	False	07/10/11	13:02:37	Frances	37	HOACC100302	CAD
+HOREG102269	19/07/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	11558.3	11,558.30 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10753	False	True	07/10/11	13:38:00	Frances	37	HOACC100303	CNY
+HOREG101243	22/06/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10425	False	False	28/07/11	12:33:03	Lily Qi	5	HOINV10425	CNY
+HOREG101244	22/06/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10425	False	True	28/07/11	12:33:03	Lily Qi	5	HOINV10425	CNY
+HOREG102270	19/07/11	False	Sell	Self	EWire Money Transfer Service-CAD	1700	0	1,700.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10753	False	False	07/10/11	13:38:23	Frances	37	HOACC100304	CAD
+HOREG102271	20/07/11	False	Buy	Self	EWire Money Transfer Service-USD	0	6321.78	6,321.78 USD received in  EWire Money Transfer Service-USD. 	HOINV10754	False	True	07/10/11	13:41:32	Frances	37	HOACC100305	USD
+HOREG101247	30/05/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10427	False	False	28/07/11	12:36:47	Lily Qi	5	HOINV10427	CNY
+HOREG101248	30/05/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10427	False	True	28/07/11	12:36:47	Lily Qi	5	HOINV10427	CNY
+HOREG101298	28/07/11	True	Sell	Self	Cash-CAD-01	6000	0	Transfer 6000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10449	False	False	28/07/11	17:44:43	Lily Qi	5	HOINV10449	CAD
+HOREG101299	28/07/11	True	Buy	Self	Cash-CAD-02	0	6000	Transfer 6000  from Cash-CAD-01 to account Cash-CAD-02.	HOINV10449	False	True	28/07/11	17:44:43	Lily Qi	5	HOINV10449	CAD
+HOREG102272	20/07/11	False	Sell	Self	EWire Money Transfer Service-CAD	6000	0	6,000.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10754	False	False	07/10/11	13:41:51	Frances	37	HOACC100306	CAD
+HOREG102273	21/07/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	15687.84	15,687.84 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10755	False	True	07/10/11	13:43:38	Frances	37	HOACC100307	CNY
+HOREG102274	21/07/11	False	Sell	Self	EWire Money Transfer Service-CAD	2300	0	2,300.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10755	False	False	07/10/11	13:43:56	Frances	37	HOACC100308	CAD
+HOREG102275	21/07/11	False	Buy	Self	EWire Money Transfer Service-CNY	0	6826	6,826.00 CNY received in  EWire Money Transfer Service-CNY. 	HOINV10756	False	True	07/10/11	13:45:02	Frances	37	HOACC100309	CNY
+HOREG101257	07/07/11	True	Sell	Self	EWire Money Transfer Service-CNY	90	0	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10431	False	False	28/07/11	12:54:54	Lily Qi	5	HOINV10431	CNY
+HOREG101258	07/07/11	True	Buy	Self	Exp. Service Fees Paid-CNY	0	90	Transfer 90  from Everforex-CNY to account Exp. Service Fees Paid-CNY.	HOINV10431	False	True	28/07/11	12:54:54	Lily Qi	5	HOINV10431	CNY
+HOREG102276	21/07/11	False	Sell	Self	EWire Money Transfer Service-CAD	1000	0	1,000.00 CAD paid from  EWire Money Transfer Service-CAD. 	HOINV10756	False	False	07/10/11	13:45:22	Frances	37	HOACC100310	CAD
+HOREG102277	07/10/11	False	Buy	000	Cash-CAD-01	0	320	Received 320.00 Dollars in cash	HOINV10757	False	True	07/10/11	13:48:44	Frances	36	HOCAS100629	CAD
+HOREG101261	28/07/11	False	Buy	HOCUS20071	Bank BMO-CAD	0	764	Cheque Received 
+Amount:  764 CAD 
+Cheque Type:  Personal 
+Cheque No:  150 
+To the order of:  BDT Financial Ltd. 
+Bank:  TD 
+	HOINV10435	False	True	28/07/11	14:15:09	Lily Qi	1	HOCHE100053	CAD
+HOREG101263	28/07/11	False	Sell	HOCUS20071	Cash-USD-01	800	0	Paid 800.00 Dollars (United States of America) in cash	HOINV10435	False	False	28/07/11	15:08:06	Lily Qi	36	HOCAS100392	USD
+HOREG101264	28/07/11	True	Sell	Self	Bank ATB-CAD	8000	0	Transfer 8000  from Bank ATB-CAD to account Bank BMO-CAD.	HOINV10436	False	False	28/07/11	15:09:28	Lily Qi	5	HOINV10436	CAD
+HOREG101265	28/07/11	True	Buy	Self	Bank BMO-CAD	0	8000	Transfer 8000  from Bank ATB-CAD to account Bank BMO-CAD.	HOINV10436	False	True	28/07/11	15:09:28	Lily Qi	5	HOINV10436	CAD
+HOREG101266	28/07/11	True	Sell	Self	Bank BMO-USD	3000	0	Transfer 3000  from Bank BMO-USD to account Cash-USD-01.	HOINV10437	False	False	28/07/11	15:30:44	Lily Qi	5	HOINV10437	USD
+HOREG101267	28/07/11	True	Buy	Self	Cash-USD-01	0	3000	Transfer 3000  from Bank BMO-USD to account Cash-USD-01.	HOINV10437	False	True	28/07/11	15:30:44	Lily Qi	5	HOINV10437	USD
+HOREG101270	30/06/11	True	Sell	Self	Bank CIBC-USD	1.8	0	Transfer 1.8  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10438	False	False	28/07/11	16:01:17	Lily Qi	5	HOINV10438	USD
+HOREG101271	30/06/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	1.8	Transfer 1.8  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10438	False	True	28/07/11	16:01:17	Lily Qi	5	HOINV10438	USD
+HOREG101272	30/06/11	True	Sell	Self	Bank CIBC-USD	6	0	Transfer 6 USD from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10438	False	False	28/07/11	16:02:12	Lily Qi	5	HOINV10438	USD
+HOREG101273	30/06/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	6	Transfer 6 USD from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10438	False	True	28/07/11	16:02:12	Lily Qi	5	HOINV10438	USD
+HOREG101274	02/06/11	True	Sell	Self	Opening Account-USD	30000	0	Transfer 30000  from Opening Account-USD to account Bank CIBC-USD.	HOINV10439	False	False	28/07/11	16:03:45	Lily Qi	5	HOINV10439	USD
+HOREG101275	02/06/11	True	Buy	Self	Bank CIBC-USD	0	30000	Transfer 30000  from Opening Account-USD to account Bank CIBC-USD.	HOINV10439	False	True	28/07/11	16:03:45	Lily Qi	5	HOINV10439	USD
+HOREG101276	02/06/11	True	Sell	Self	Bank CIBC-USD	31.5	0	Transfer 31.5 USD from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10439	False	False	28/07/11	16:04:19	Lily Qi	5	HOINV10439	USD
+HOREG101277	02/06/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	31.5	Transfer 31.5 USD from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10439	False	True	28/07/11	16:04:19	Lily Qi	5	HOINV10439	USD
+HOREG102790	10/05/11	True	Buy	Self	Opening Account-USD	0	5000	Transfer 5000 USD from Bank CIBC-USD to account Opening Account-USD.	HOINV10440	False	True	20/10/11	14:56:52	Tony He	5	HOINV10440	USD
+HOREG102789	10/05/11	True	Sell	Self	Bank CIBC-USD	5000	0	Transfer 5000 USD from Bank CIBC-USD to account Opening Account-USD.	HOINV10440	False	False	20/10/11	14:56:52	Tony He	5	HOINV10440	USD
+HOREG101280	12/04/11	True	Sell	Self	Bank CIBC-USD	5000	0	Transfer 5000  from Bank CIBC-USD to account Opening Account-USD.	HOINV10441	False	False	28/07/11	16:06:22	Lily Qi	5	HOINV10441	USD
+HOREG101281	12/04/11	True	Buy	Self	Opening Account-USD	0	5000	Transfer 5000  from Bank CIBC-USD to account Opening Account-USD.	HOINV10441	False	True	28/07/11	16:06:23	Lily Qi	5	HOINV10441	USD
+HOREG101282	07/03/11	True	Sell	Self	Opening Account-USD	11000	0	Transfer 11000  from Opening Account-USD to account Bank CIBC-USD.	HOINV10442	False	False	28/07/11	16:07:10	Lily Qi	5	HOINV10442	USD
+HOREG101283	07/03/11	True	Buy	Self	Bank CIBC-USD	0	11000	Transfer 11000  from Opening Account-USD to account Bank CIBC-USD.	HOINV10442	False	True	28/07/11	16:07:10	Lily Qi	5	HOINV10442	USD
+HOREG101286	31/12/10	True	Sell	Self	Bank CIBC-USD	0.9	0	Transfer 0.9  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10444	False	False	28/07/11	16:15:46	Lily Qi	5	HOINV10444	USD
+HOREG101287	31/12/10	True	Buy	Self	Exp. Service Fees Paid-USD	0	0.9	Transfer 0.9  from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10444	False	True	28/07/11	16:15:46	Lily Qi	5	HOINV10444	USD
+HOREG101288	31/12/10	True	Sell	Self	Bank CIBC-USD	6	0	Transfer 6 USD from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10444	False	False	28/07/11	16:16:05	Lily Qi	5	HOINV10444	USD
+HOREG101289	31/12/10	True	Buy	Self	Exp. Service Fees Paid-USD	0	6	Transfer 6 USD from Bank CIBC-USD to account Exp. Service Fees Paid-USD.	HOINV10444	False	True	28/07/11	16:16:05	Lily Qi	5	HOINV10444	USD
+HOREG101300	29/07/11	False	Buy	HOCUS20072	Cash-CAD-01	0	1200	Received 1,200.00 Dollars in cash	HOINV10450	False	True	29/07/11	14:58:37	Lily Qi	36	HOCAS100393	CAD
+HOREG102076	29/07/11	False	Sell	HOCUS20072	EWire Money Transfer-CNY	7979.64	0	Send eWire:  HOEWI10083 
+Sender:  Hui Ming Deng sent 7,979.64 CNY 
+From  Canada to China Taishan/Guangdong 
+Recepient:   Qiuyuan Wu - HOLIN1057 -  
+Recepient Address:  Liufu Shanzhuang Yifuyuan 7B #401 
+Recepient Bank:  Postal Savings Bank Of China 
+Branch Transit:  Guangdong Taishan 
+Account #:  6221885892000766150 
+	HOINV10450	False	False	03/10/11	10:36:26	Tony He	13	HOEWI10083	CNY
+HOREG101302	29/07/11	False	Buy	HOCUS20073	Cash-CAD-01	0	200	Received 200.00 Dollars in cash	HOINV10451	False	True	29/07/11	15:13:38	Lily Qi	36	HOCAS100394	CAD
+HOREG102077	29/07/11	False	Sell	HOCUS20073	EWire Money Transfer-CNY	1329.94	0	Send eWire:  HOEWI10084 
+Sender:  Jiehong Yang sent 1,329.94 CNY 
+From  Canada to China Guangzhou/Guangdong 
+Recepient:   Zhuohua Wu - HOLIN1058 -  
+Recepient Bank:  China Merchants Bank 
+Branch Transit:  Guangzhou Guangdong 
+Account #:  6225882001342804 
+	HOINV10451	False	False	03/10/11	10:36:48	Tony He	13	HOEWI10084	CNY
+HOREG101304	02/08/11	False	Sell	HOCUS20074	Bank BMO-CAD	56254.63	0	Cheque Paid 
+Amount:  56254.63 CAD 
+Cheque Type:  Company 
+Cheque No:  00003 
+To the order of:  Hu Fan 
+	HOINV10452	False	False	02/08/11	10:51:04	Tony He	1	HOCHE100054	CAD
+HOREG102124	02/08/11	False	Buy	HOCUS20074	EWire Money Transfer-CNY	0	380000	Received eWire:  HOEWI10085 for :  Hu Fan - HOCUS20074 
+Sender:  Gang Fan - HOLIN1059 paid 380,000.00 CNY 
+From  China to Canada 
+Received Amount (set at source):  380,000.00 CNY 
+Sender Address:  #302 Building 1, Yucai huayuan, caopu, luohu district 
+    Shengzhen, China 
+	HOINV10452	False	True	03/10/11	14:27:32	Tony He	13	HOEWI10085	CNY
+HOREG101306	02/08/11	True	Sell	Self	EWire Money Transfer Service-CAD	45000	0	Transfer 45000  from Everforex-CAD to account Bank BMO-CAD.	HOINV10453	False	False	02/08/11	11:10:43	Tony He	5	HOINV10453	CAD
+HOREG101307	02/08/11	True	Buy	Self	Bank BMO-CAD	0	45000	Transfer 45000  from Everforex-CAD to account Bank BMO-CAD.	HOINV10453	False	True	02/08/11	11:10:43	Tony He	5	HOINV10453	CAD
+HOREG101308	02/08/11	False	Buy	HOCUS20075	Bank BMO-CAD	0	6000	Cheque Received 
+Amount:  6000 CAD 
+Cheque Type:  Personal 
+Cheque No:  231 
+To the order of:  BDT Financial Ltd. 
+Bank:  BMO 
+	HOINV10454	False	True	02/08/11	11:28:23	Tony He	1	HOCHE100055	CAD
+HOREG101309	02/08/11	False	Sell	HOCUS20075	Bank BMO-USD	6220.19	0	Cheque Paid 
+Amount:  6220.19 USD 
+Cheque Type:  Company 
+Cheque No:  00051 
+To the order of:  Dongchuan Li 
+	HOINV10454	False	False	02/08/11	11:30:50	Tony He	1	HOCHE100056	USD
+HOREG101310	02/08/11	False	Buy	HOCUS20034	Bank BMO-CAD	0	10000	Cheque Received 
+Amount:  10000 CAD 
+Cheque Type:  Personal 
+Cheque No:  021 
+To the order of:  BDT Financial Ltd. 
+Bank:  RBC 
+	HOINV10455	False	True	02/08/11	12:46:17	Tony He	1	HOCHE100057	CAD
+HOREG101993	02/08/11	False	Sell	HOCUS20034	Opening Balance	10000	0	10,000.00 CAD paid from  Opening Balance. 	HOINV10455	False	False	29/09/11	16:32:18	Tony He	37	HOACC100230	CAD
+HOREG101314	03/08/11	True	Sell	Self	Cash-CAD-02	5000	0	Transfer 5000 CAD from Cash-CAD-02 to account Cash-CAD-01.	HOINV10456	False	False	03/08/11	15:53:37	Lily Qi	5	HOINV10456	CAD
+HOREG101315	03/08/11	True	Buy	Self	Cash-CAD-01	0	5000	Transfer 5000 CAD from Cash-CAD-02 to account Cash-CAD-01.	HOINV10456	False	True	03/08/11	15:53:37	Lily Qi	5	HOINV10456	CAD
+HOREG101316	03/08/11	True	Sell	Self	Cash-CAD-01	9000	0	Transfer 9000 CAD from Cash-CAD-01 to account Cash-CAD-02.	HOINV10456	False	False	03/08/11	15:53:49	Lily Qi	5	HOINV10456	CAD
+HOREG101317	03/08/11	True	Buy	Self	Cash-CAD-02	0	9000	Transfer 9000 CAD from Cash-CAD-01 to account Cash-CAD-02.	HOINV10456	False	True	03/08/11	15:53:49	Lily Qi	5	HOINV10456	CAD
+HOREG101318	03/08/11	False	Buy	HOCUS20077	Bank CIBC-CAD	0	12025	12,025.00 CAD received in  Bank CIBC-CAD. 	HOINV10457	False	True	03/08/11	16:53:51	Tony He	37	HOACC100205	CAD
+HOREG101327	03/08/11	False	Sell	HOCUS20077	EWire Money Transfer Service-CAD	12000	0	Send Bank to Bank Wire 
+Amount:  12,000.00 CAD 
+Account Holder:  Deng Biyang 
+Bank Name:  Bank of Communications Guilin Branch 
+Account No.:  6222600770000733697 
+SWIFT :  COMMCNSHGLN 
+Recepient Address:  15 Yucai Road, Guilin, Guangxi ph: 13397739939 id:450305196212201031 
+Bank Address:  #8 Nanhuan Road 
+ Guilin/Guangxi,  China 
+	HOINV10457	False	False	05/08/11	11:07:35	Frances	8	HOWIR10005	CAD
+HOREG101320	04/08/11	False	Buy	HOCUS20046	Bank BMO-USD	0	40000	Cheque Received 
+Amount:  40000 USD 
+Cheque Type:  Draft 
+Cheque No:  0002 
+To the order of:  BDT Financial Ltd. 
+Bank:  RBC 
+	HOINV10458	False	True	04/08/11	09:56:59	Tony He	1	HOCHE100058	USD
+HOREG101322	04/08/11	False	Sell	HOCUS20046	Bank BMO-CAD	38320.5	0	Cheque Paid 
+Amount:  38320.5 CAD 
+Cheque Type:  Draft 
+Cheque No:  666238 
+To the order of:  True North Supply LTD 
+	HOINV10458	False	False	04/08/11	10:23:39	Tony He	1	HOCHE100059	CAD
+HOREG101323	04/08/11	True	Sell	Self	Bank CIBC-CAD	9500	0	Transfer 9500  from Bank CIBC-CAD to account Bank BMO-CAD.	HOINV10459	False	False	04/08/11	15:19:08	Lily Qi	5	HOINV10459	CAD
+HOREG101324	04/08/11	True	Buy	Self	Bank BMO-CAD	0	9500	Transfer 9500  from Bank CIBC-CAD to account Bank BMO-CAD.	HOINV10459	False	True	04/08/11	15:19:08	Lily Qi	5	HOINV10459	CAD
+HOREG101325	04/08/11	True	Sell	Self	Bank BMO-USD	38000	0	Transfer 38000 CAD from Bank BMO-USD to account Everforex-USD.	HOINV10459	False	False	04/08/11	15:19:47	Lily Qi	5	HOINV10459	USD
+HOREG101326	04/08/11	True	Buy	Self	EWire Money Transfer Service-USD	0	38000	Transfer 38000 CAD from Bank BMO-USD to account Everforex-USD.	HOINV10459	False	True	04/08/11	15:19:47	Lily Qi	5	HOINV10459	USD
+HOREG101329	05/08/11	False	Buy	000	Cash-CAD-01	0	135	Received 135.00 Dollars in cash	HOINV10460	False	True	05/08/11	11:32:24	Tony He	36	HOCAS100397	CAD
+HOREG101330	05/08/11	False	Sell	000	Cash-USD-01	135	0	Paid 135.00 Dollars (United States of America) in cash	HOINV10460	False	False	05/08/11	11:32:45	Tony He	36	HOCAS100398	USD
+HOREG101331	05/08/11	False	Buy	HOCUS20056	Cash-CAD-01	0	4835	Received 4,835.00 Dollars in cash	HOINV10461	False	True	05/08/11	13:01:54	Tony He	36	HOCAS100399	CAD
+HOREG102079	05/08/11	False	Sell	HOCUS20056	EWire Money Transfer Service-HKD	38007.14	0	Send eWire:  HOEWI10087 
+Sender:  Pui Paul Ngai sent 38,007.14 HKD 
+From  Canada to China Hongkong 
+Recepient:   Kwai Fa Lau - HOLIN1061 -  
+ Cell:  61111215Recepient Address:  Fenling Huadu Guangchang #2 building 3rd floor 
+Recepient Bank:  Standard Chartered Bank 
+Branch Transit:  Wanzai Branch 
+Account #:  41020567594 
+	HOINV10461	False	False	03/10/11	10:38:37	Tony He	13	HOEWI10087	HKD
+HOREG101361	04/08/11	True	Sell	Self	Cash-CAD-02	9000	0	Transfer 9000  from Cash-CAD-02 to account Bank CIBC-CAD.	HOINV10468	False	False	08/08/11	15:19:16	Tony He	5	HOINV10468	CAD
+HOREG101362	04/08/11	True	Buy	Self	Bank CIBC-CAD	0	9000	Transfer 9000  from Cash-CAD-02 to account Bank CIBC-CAD.	HOINV10468	False	True	08/08/11	15:19:16	Tony He	5	HOINV10468	CAD
+HOREG102081	05/08/11	False	Buy	HOCUS20078	EWire Money Transfer-CNY	0	310000	Received eWire:  HOEWI10088 for :  Jie Chen - HOCUS20078 
+Sender:  Zhongping Chen - HOLIN1063 paid 310,000.00 CNY 
+From  China to Canada 
+Received Amount (set at source):  310,000.00 CNY 
+Sender Address:  53302 NO 235, Shahekou District 
+    Dalian/liaoning, China 
+	HOINV10463	False	True	03/10/11	10:39:12	Tony He	13	HOEWI10088	CNY
+HOREG102441	05/08/11	False	Buy	HOCUS20078	EWire Money Transfer Service-CNY	0	490000	Received eWire:  HOEWI10197 for :  Jie Chen - HOCUS20078 
+Sender:  Zhongping Chen - HOLIN1126 paid 490,000.00 CNY 
+From  China to Canada 
+Received Amount (set at source):  490,000.00 CNY 
+Sender Address:  53302 Bi 235m Shahekou District 
+    Dalian/Liaoning, China 
+	HOINV10463	False	True	12/10/11	13:54:18	Tony He	13	HOEWI10197	CNY
+HOREG101342	05/08/11	False	Sell	HOCUS20078	Bank BMO-CAD	119313.94	0	Cheque Paid 
+Amount:  119313.94 CAD 
+Cheque Type:  Company 
+Cheque No:  0004 
+To the order of:  Jie Chen 
+	HOINV10463	False	False	05/08/11	19:42:32	Tony He	1	HOCHE100061	CAD
+HOREG101358	08/08/11	False	Sell	HOCUS20080	Cash-CAD-01	2949	0	Paid 2,949.00 Dollars in cash	HOINV10464	False	False	08/08/11	13:26:59	Lily Qi	36	HOCAS100409	CAD
+HOREG101357	08/08/11	False	Buy	HOCUS20080	Bank BMO-USD	0	10000	Cheque Received 
+Amount:  10000 USD 
+Cheque Type:  Draft 
+Cheque No:  8144882 
+To the order of:  BDT Financial Ltd. 
+Bank:  TD 
+	HOINV10464	False	True	08/08/11	13:26:49	Tony He	1	HOCHE100066	USD
+HOREG101345	08/08/11	False	Buy	HOCUS20081	Cash-CAD-01	0	7000	Received 7,000.00 Dollars in cash	HOINV10465	False	True	08/08/11	11:34:52	Tony He	36	HOCAS100403	CAD
+HOREG102082	08/08/11	False	Sell	HOCUS20081	EWire Money Transfer-CNY	45045	0	Send eWire:  HOEWI10094 
+Sender:  Guoliang Huang sent 45,045.00 CNY 
+From  Canada to China Taishan/Guangdong 
+Recepient:   Yuzan Huang - HOLIN1065 -  
+Recepient Address:  Room 605 N33, Qiaohu Road Taicheng Zhen 
+Recepient Bank:  Bank Of China 
+Branch Transit:  Taicheng Branch 
+Account #:  476900701880270786 
+Bank Address:  Qiaohu Road Taicheng Zhen/Taishan City 
+	HOINV10465	False	False	03/10/11	10:39:50	Tony He	13	HOEWI10094	CNY
+HOREG101349	08/08/11	False	Buy	HOCUS20079	Bank BMO-USD	0	300000	Cheque Received 
+Amount:  300000 USD 
+Cheque Type:  Draft 
+Cheque No:  370795 
+To the order of:  BDT Financial Ltd. 
+Bank:  HSBC 
+	HOINV10466	False	True	08/08/11	12:14:59	Tony He	1	HOCHE100065	USD
+HOREG102401	08/08/11	False	Sell	HOCUS20079	EWire Money Transfer Service-CNY	1127500	0	Send eWire:  HOEWI10191 
+Sender:  Jianmei Li sent 1,127,500.00 CNY 
+From  Canada to Canada Edmonton 
+Recepient:  Mrs. Jianmei Li - HOLIN1101 -  
+ Cell:  13808936253Recepient Address:  6547 Gateway BLVD, edmonton 
+Recepient Bank:  China Merchants Bank 
+Branch Transit:  Jingshi Road Branch 
+Account #:  6225885316129808 
+Bank Address:  Jingshi Road 132, Jinan, Shandong, China 
+	HOINV10466	False	False	11/10/11	15:16:28	Tony He	13	HOEWI10191	CNY
+HOREG101354	08/08/11	False	Buy	HOCUS20058	Cash-CAD-01	0	1120	Received 1,120.00 Dollars in cash	HOINV10467	False	True	08/08/11	13:10:13	Lily Qi	36	HOCAS100407	CAD
+HOREG102084	08/08/11	False	Sell	HOCUS20058	EWire Money Transfer-CNY	7000	0	Send eWire:  HOEWI10092 
+Sender:  Lishi Ying sent 7,000.00 CNY 
+From  Canada to China Changzhou, Jiangsu 
+Recepient:  Ms. Donghong Liu - HOLIN1133 -  
+ Home:  15240529806Recepient Bank:  Bank Of China 
+Branch Transit:  Wenhuagong Branch  
+Account #:  6013826104011170585 
+Bank Address:  Yanlingdong St 
+	HOINV10467	False	False	03/10/11	10:41:00	Frances	13	HOEWI10092	CNY
+HOREG101356	08/08/11	False	Sell	HOCUS20058	Cash-CAD-01	19.4	0	Paid 19.40 Dollars in cash	HOINV10467	False	False	08/08/11	13:11:32	Lily Qi	36	HOCAS100408	CAD
+HOREG101359	08/08/11	False	Sell	HOCUS20080	Cash-CAD-01	2952.9	0	Paid 2,952.90 Dollars in cash	HOINV10464	False	False	08/08/11	13:27:08	Lily Qi	36	HOCAS100410	CAD
+HOREG101360	08/08/11	False	Sell	HOCUS20080	Cash-CAD-01	3948.4	0	Paid 3,948.40 Dollars in cash	HOINV10464	False	False	08/08/11	13:27:26	Lily Qi	36	HOCAS100411	CAD
+HOREG101363	08/08/11	True	Sell	Self	Bank CIBC-CAD	12000	0	Transfer 12000  from Bank CIBC-CAD to account Bank BMO-CAD.Paid cheque to BMO	HOINV10469	False	False	08/08/11	15:21:10	Tony He	5	HOINV10469	CAD
+HOREG101364	08/08/11	True	Buy	Self	Bank BMO-CAD	0	12000	Transfer 12000  from Bank CIBC-CAD to account Bank BMO-CAD.Paid cheque to BMO	HOINV10469	False	True	08/08/11	15:21:10	Tony He	5	HOINV10469	CAD
+HOREG101365	08/08/11	True	Sell	Self	Bank BMO-USD	275000	0	Transfer 275000  from Bank BMO-USD to account Everforex-USD.	HOINV10470	False	False	08/08/11	15:22:12	Tony He	5	HOINV10470	USD
+HOREG101366	08/08/11	True	Buy	Self	EWire Money Transfer Service-USD	0	275000	Transfer 275000  from Bank BMO-USD to account Everforex-USD.	HOINV10470	False	True	08/08/11	15:22:12	Tony He	5	HOINV10470	USD
+HOREG101367	08/08/11	True	Sell	Self	Bank BMO-USD	16800	0	Transfer 16800  from Bank BMO-USD to account Everforex-USD.	HOINV10471	False	False	08/08/11	15:24:33	Tony He	5	HOINV10471	USD
+HOREG101368	08/08/11	True	Buy	Self	EWire Money Transfer Service-USD	0	16800	Transfer 16800  from Bank BMO-USD to account Everforex-USD.	HOINV10471	False	True	08/08/11	15:24:33	Tony He	5	HOINV10471	USD
+HOREG101369	05/08/11	True	Sell	Self	Bank BMO-CAD	15000	0	Transfer 15000  from Bank BMO-CAD to account Everforex-CAD.	HOINV10472	False	False	08/08/11	15:52:54	Lily Qi	5	HOINV10472	CAD
+HOREG101370	05/08/11	True	Buy	Self	EWire Money Transfer Service-CAD	0	15000	Transfer 15000  from Bank BMO-CAD to account Everforex-CAD.	HOINV10472	False	True	08/08/11	15:52:54	Lily Qi	5	HOINV10472	CAD
+HOREG101371	05/08/11	True	Sell	Self	EWire Money Transfer Service-CAD	90000	0	Transfer 90000 CAD from Everforex-CAD to account Bank BMO-CAD.	HOINV10472	False	False	08/08/11	15:53:09	Lily Qi	5	HOINV10472	CAD
+HOREG101372	05/08/11	True	Buy	Self	Bank BMO-CAD	0	90000	Transfer 90000 CAD from Everforex-CAD to account Bank BMO-CAD.	HOINV10472	False	True	08/08/11	15:53:09	Lily Qi	5	HOINV10472	CAD
+HOREG101373	03/08/11	True	Sell	Self	EWire Money Transfer Service-CAD	22000	0	Transfer 22000  from Everforex-CAD to account Bank BMO-CAD.	HOINV10473	False	False	08/08/11	15:54:25	Lily Qi	5	HOINV10473	CAD
+HOREG101374	03/08/11	True	Buy	Self	Bank BMO-CAD	0	22000	Transfer 22000  from Everforex-CAD to account Bank BMO-CAD.	HOINV10473	False	True	08/08/11	15:54:25	Lily Qi	5	HOINV10473	CAD
+HOREG101375	09/08/11	False	Buy	HOCUS20075	Bank BMO-CAD	0	2500	2,500.00 CAD received in  Bank BMO-CAD. 	HOINV10474	False	True	08/08/11	15:58:50	Lily Qi	37	HOACC100208	CAD
+HOREG101403	09/08/11	False	Buy	HOCUS20075	Bank BMO-CAD	0	22500	22,500.00 CAD received in  Bank BMO-CAD. 	HOINV10474	False	True	09/08/11	14:54:03	Lily Qi	37	HOACC100210	CAD
+HOREG101377	08/08/11	True	Sell	Self	Bank BMO-CAD	0.36	0	Transfer 0.36  from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10475	False	False	08/08/11	15:59:50	Lily Qi	5	HOINV10475	CAD
+HOREG101378	08/08/11	True	Buy	Self	Exp. Bank Fees	0	0.36	Transfer 0.36  from Bank BMO-CAD to account Exp. Bank Fees.	HOINV10475	False	True	08/08/11	15:59:50	Lily Qi	5	HOINV10475	CAD
+HOREG101379	08/08/11	True	Sell	Self	Bank BMO-CAD	6.5	0	Transfer 6.5 CAD from Bank BMO-CAD to account Exp. Bank Fees.Bank draft fee	HOINV10475	False	False	08/08/11	16:00:17	Lily Qi	5	HOINV10475	CAD
+HOREG101380	08/08/11	True	Buy	Self	Exp. Bank Fees	0	6.5	Transfer 6.5 CAD from Bank BMO-CAD to account Exp. Bank Fees.Bank draft fee	HOINV10475	False	True	08/08/11	16:00:17	Lily Qi	5	HOINV10475	CAD
+HOREG101381	29/07/11	True	Sell	Self	Bank BMO-USD	0.22	0	Transfer 0.22  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10476	False	False	08/08/11	16:12:17	Lily Qi	5	HOINV10476	USD
+HOREG101382	29/07/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	0.22	Transfer 0.22  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10476	False	True	08/08/11	16:12:17	Lily Qi	5	HOINV10476	USD
+HOREG101383	29/07/11	True	Sell	Self	Bank BMO-USD	6	0	Transfer 6 USD from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10476	False	False	08/08/11	16:12:33	Lily Qi	5	HOINV10476	USD
+HOREG101384	29/07/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	6	Transfer 6 USD from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10476	False	True	08/08/11	16:12:33	Lily Qi	5	HOINV10476	USD
+HOREG101596	07/09/11	True	Buy	Self	EWire Money Transfer Service-USD	0	168875.48	Transfer 168875.48  from Bank BMO-USD to account Everforex-USD.	HOINV10550	False	True	07/09/11	15:20:11	Lily Qi	5	HOINV10550	USD
+HOREG101595	07/09/11	True	Sell	Self	Bank BMO-USD	168875.48	0	Transfer 168875.48  from Bank BMO-USD to account Everforex-USD.	HOINV10550	False	False	07/09/11	15:20:11	Lily Qi	5	HOINV10550	USD
+HOREG101387	29/07/11	True	Sell	Self	Bank BMO-USD	27.02	0	Transfer 27.02  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10476	False	False	08/08/11	16:13:43	Lily Qi	5	HOINV10476	USD
+HOREG101388	29/07/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	27.02	Transfer 27.02  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10476	False	True	08/08/11	16:13:44	Lily Qi	5	HOINV10476	USD
+HOREG101389	29/07/11	True	Sell	Self	Bank BMO-USD	3.8	0	Transfer 3.8  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10476	False	False	08/08/11	16:21:53	Lily Qi	5	HOINV10476	USD
+HOREG101390	29/07/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	3.8	Transfer 3.8  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10476	False	True	08/08/11	16:21:53	Lily Qi	5	HOINV10476	USD
+HOREG101391	08/08/11	False	Buy	HOCUS20082	Bank BMO-CAD	0	2000	Cheque Received 
+Amount:  2000 CAD 
+Cheque Type:  Draft 
+Cheque No:  58211250 
+To the order of:  BDT Financial Ltd. 
+Bank:  TD 
+	HOINV10477	False	True	08/08/11	17:57:33	Tony He	1	HOCHE100067	CAD
+HOREG102442	08/08/11	False	Sell	HOCUS20082	EWire Money Transfer Service-CNY	12879.96	0	Send eWire:  HOEWI10199 
+Sender:  Fan Yang sent 12,879.96 CNY 
+From  Canada to China Beijing 
+Recepient:   Peng Li - HOLIN1066 -  
+Recepient Address:  10-1-302 liuqingyuan, jingding north road 
+Recepient Bank:  China Construction Bank 
+Branch Transit:  Sijingsan Branch 
+Account #:  6227000010510104914 
+Bank Address:  Beijing 
+	HOINV10477	False	False	12/10/11	13:58:44	Frances	13	HOEWI10199	CNY
+HOREG102125	09/08/11	False	Buy	HOCUS20012	EWire Money Transfer-CNY	0	65000	Received eWire:  HOEWI10095 for :  Yahui Wang - HOCUS20012 
+Sender:  Shoutian Gong - HOLIN1067 paid 65,000.00 CNY 
+From  China to Canada 
+Received Amount (set at source):  65,000.00 CNY 
+Sender Address:  Agricultural bank of china song huajiang fen lichu bank dorm 
+    Haerbing/Heilongjiang, China 
+	HOINV10478	False	True	03/10/11	14:27:58	Tony He	13	HOEWI10095	CNY
+HOREG101397	09/08/11	False	Sell	HOCUS20012	Cash-CAD-02	1000	0	Paid 1,000.00 Dollars in cash	HOINV10478	False	False	09/08/11	10:30:15	Tony He	36	HOCAS100412	CAD
+HOREG101398	09/08/11	False	Sell	HOCUS20012	Bank BMO-CAD	9000	0	Cheque Paid 
+Amount:  9000 CAD 
+Cheque Type:  Company 
+Cheque No:  007 
+To the order of:  Yahui Wang 
+	HOINV10478	False	False	09/08/11	10:33:03	Tony He	1	HOCHE100068	CAD
+HOREG101399	09/08/11	True	Sell	Self	Cash-CAD-01	1613.3	0	Transfer 1613.3  from Cash-CAD-01 to account Exp. BMO Credit Card Payment.	HOINV10479	False	False	09/08/11	13:35:47	Lily Qi	5	HOINV10479	CAD
+HOREG104191	09/08/11	True	Buy	Self	Exp. BMO CAD Credit Card	0	1613.3	Transfer 1613.3 CAD from Cash-CAD-01 to account Exp. BMO Credit Card.	HOINV10479	False	True	23/01/12	16:43:09	Administrator	5	HOINV10479	CAD
+HOREG101401	09/08/11	False	Buy	HOCUS20084	Cash-USD-01	0	2400	Received 2,400.00 Dollars (United States of America) in cash	HOINV10480	False	True	09/08/11	14:38:05	Lily Qi	36	HOCAS100413	USD
+HOREG102086	09/08/11	False	Sell	HOCUS20084	EWire Money Transfer Service-CNY	15330.48	0	Send eWire:  HOEWI10096 
+Sender:  Yinggan Zheng sent 15,330.48 CNY 
+From  Canada to China Shenzhen 
+Recepient:   Jia Zheng - HOLIN1068 -  
+Recepient Bank:  Industrial And Commercial Bank Of China 
+Branch Transit:  Shenzhen Zhuzilin Branch 
+Account #:  6222004000108354234 
+	HOINV10480	False	False	03/10/11	10:42:10	Tony He	13	HOEWI10096	CNY
+HOREG101404	09/08/11	False	Sell	HOCUS20075	Bank BMO-USD	25802.45	0	25,802.45 USD paid from  Bank BMO-USD. 	HOINV10474	False	False	09/08/11	14:55:29	Lily Qi	37	HOACC100211	USD
+HOREG101405	10/08/11	False	Buy	000	Cash-USD-01	0	100	Received 100.00 Dollars (United States of America) in cash	HOINV10481	False	True	10/08/11	14:03:29	Lily Qi	36	HOCAS100414	USD
+HOREG101406	10/08/11	False	Sell	000	Cash-CAD-01	97.96	0	Paid 97.96 Dollars in cash	HOINV10481	False	False	10/08/11	14:03:38	Lily Qi	36	HOCAS100415	CAD
+HOREG101445	10/08/11	False	Buy	HOCUS20080	Cash-USD-02	0	2000	Received 2,000.00 Dollars (United States of America) in cash	HOINV10482	False	True	15/08/11	15:36:13	Lily Qi	36	HOCAS100426	USD
+HOREG101419	10/08/11	False	Sell	HOCUS20080	Bank BMO-CAD	1979.2	0	Cheque Paid 
+Amount:  1979.2 CAD 
+Cheque Type:  Company 
+Cheque No:  00008 
+To the order of:  Hui Xue 
+	HOINV10482	False	False	15/08/11	12:45:50	Tony He	1	HOCHE100070	CAD
+HOREG102087	11/08/11	False	Buy	HOCUS20085	EWire Money Transfer-CNY	0	10001	Received eWire:  HOEWI10098 for :  Zhumin Ge - HOCUS20085 
+Sender:  Chunbo Zhao - HOLIN1070 paid 10,001.00 CNY 
+From  China to Canada 
+Received Amount (set at source):  10,001.00 CNY 
+Sender Address:  Shanghai 
+    Shanghai, China 
+	HOINV10483	False	True	03/10/11	10:42:34	Tony He	13	HOEWI10098	CNY
+HOREG101411	11/08/11	False	Sell	HOCUS20085	Cash-CAD-01	1537.76	0	Paid 1,537.76 Dollars in cash	HOINV10483	False	False	11/08/11	12:11:55	Tony He	36	HOCAS100417	CAD
+HOREG101412	15/08/11	False	Buy	HOCUS20088	Cash-CNY-01	0	40000	Received 40,000.00 Yuan Renminbi (China) in cash	HOINV10484	False	True	15/08/11	10:46:24	Tony He	36	HOCAS100418	CNY
+HOREG101413	15/08/11	False	Sell	HOCUS20088	Cash-CAD-01	6153.84	0	Paid 6,153.84 Dollars in cash	HOINV10484	False	False	15/08/11	10:46:33	Tony He	36	HOCAS100419	CAD
+HOREG101414	15/08/11	False	Buy	HOCUS20022	Cash-USD-01	0	400	Received 400.00 Dollars (United States of America) in cash	HOINV10485	False	True	15/08/11	11:01:32	Tony He	36	HOCAS100420	USD
+HOREG102126	15/08/11	False	Sell	HOCUS20022	EWire Money Transfer-CNY	2545.4	0	Send eWire:  HOEWI10099 
+Sender:  Peter Too sent 2,545.40 CNY 
+From  Canada to China Chu Zhou Shi 
+Recepient:   Guo Huan Gong - HOLIN1011 -  
+ Cell:  15900942645Recepient Bank:  Bank Of China 
+Account #:  6216616309000255312 
+	HOINV10485	False	False	03/10/11	14:28:20	Tony He	13	HOEWI10099	CNY
+HOREG101417	15/08/11	False	Buy	HOCUS20022	Cash-CAD-01	0	20	Received 20.00 Dollars in cash	HOINV10485	False	True	15/08/11	11:05:21	Tony He	36	HOCAS100422	CAD
+HOREG101418	15/08/11	False	Sell	HOCUS20022	Cash-CAD-01	5	0	Paid 5.00 Dollars in cash	HOINV10485	False	False	15/08/11	11:05:23	Tony He	36	HOCAS100423	CAD
+HOREG101420	08/08/11	True	Sell	Self	EWire Money Transfer Service-CAD	100000	0	Transfer 100000  from Everforex-CAD to account Bank BMO-CAD.	HOINV10487	False	False	15/08/11	12:57:43	Tony He	5	HOINV10487	CAD
+HOREG101421	08/08/11	True	Buy	Self	Bank BMO-CAD	0	100000	Transfer 100000  from Everforex-CAD to account Bank BMO-CAD.	HOINV10487	False	True	15/08/11	12:57:43	Tony He	5	HOINV10487	CAD
+HOREG101422	15/08/11	True	Sell	Self	Bank BMO-CAD	288.78	0	Transfer 288.78  from Bank BMO-CAD to account Exp. CRA Payroll Tax Payment.	HOINV10488	False	False	15/08/11	12:59:26	Tony He	5	HOINV10488	CAD
+HOREG101423	15/08/11	True	Buy	Self	Exp. CRA Payroll Tax Payment	0	288.78	Transfer 288.78  from Bank BMO-CAD to account Exp. CRA Payroll Tax Payment.	HOINV10488	False	True	15/08/11	12:59:26	Tony He	5	HOINV10488	CAD
+HOREG101424	15/08/11	False	Buy	HOCUS20083	Cash-CAD-01	0	2000	Received 2,000.00 Dollars in cash	HOINV10489	False	True	15/08/11	13:11:02	Lily Qi	36	HOCAS100424	CAD
+HOREG102089	15/08/11	False	Sell	HOCUS20083	EWire Money Transfer-CNY	12923	0	Send eWire:  HOEWI10102 
+Sender:  Yan Bing Weng sent 12,923.00 CNY 
+From  Canada to China Fuzhou/Fujian 
+Recepient:   Xia Chen - HOLIN1071 -  
+ Cell:  13705935904Recepient Address:  Sanshan Zhen Sejiang Cun Rentai #4 
+Recepient Bank:  Agricultural Bank Of China 
+Branch Transit:  Fuzhou Taijiang Xiangyuan Branch 
+Account #:  6228480062035919612 
+Bank Address:  Fuzhou Liuyizhonglu 223 Haolinju 1st Fl 
+	HOINV10489	False	False	03/10/11	10:43:50	Tony He	13	HOEWI10102	CNY
+HOREG101426	15/08/11	False	Buy	HOCUS20089	Cash-CNY-02	0	65000	Received 65,000.00 Yuan Renminbi (China) in cash	HOINV10491	False	True	15/08/11	13:19:58	Tony He	36	HOCAS100425	CNY
+HOREG101427	15/08/11	False	Sell	HOCUS20089	Bank BMO-CAD	9970.87	0	Cheque Paid 
+Amount:  9970.87 CAD 
+Cheque Type:  Company 
+Cheque No:  00009 
+To the order of:  Yu Jun Wang 
+	HOINV10491	False	False	15/08/11	13:20:47	Tony He	1	HOCHE100071	CAD
+HOREG102127	15/08/11	False	Buy	HOCUS20087	EWire Money Transfer-CNY	0	10000	Received eWire:  HOEWI10101 for :  Lifang Li - HOCUS20087 
+Sender:  Yuniu Li - HOLIN1072 paid 10,000.00 CNY 
+From  China to Canada 
+Received Amount (set at source):  10,000.00 CNY 
+    Taiyuan/Shanxi, China 
+	HOINV10493	False	True	03/10/11	14:28:39	Tony He	13	HOEWI10101	CNY
+HOREG101429	15/08/11	False	Sell	HOCUS20087	Bank BMO-CAD	1522.85	0	Cheque Paid 
+Amount:  1522.85 CAD 
+Cheque Type:  Company 
+Cheque No:  00010 
+To the order of:  Lifang Li 
+	HOINV10493	False	False	15/08/11	13:37:50	Lily Qi	1	HOCHE100072	CAD
+HOREG101431	15/08/11	True	Sell	Self	Bank BMO-CAD	4000	0	Transfer 4000  from Bank BMO-CAD to account Cash-CAD-01.	HOINV10494	False	False	15/08/11	14:03:25	Lily Qi	5	HOINV10494	CAD
+HOREG101432	15/08/11	True	Buy	Self	Cash-CAD-01	0	4000	Transfer 4000  from Bank BMO-CAD to account Cash-CAD-01.	HOINV10494	False	True	15/08/11	14:03:25	Lily Qi	5	HOINV10494	CAD
+HOREG101433	15/08/11	True	Sell	Self	Bank BMO-CAD	14450	0	Transfer 14450  from Bank BMO-CAD to account Exp. Share Holder Credit Card Payment.Paid to CIBC Lucy	HOINV10492	False	False	15/08/11	14:12:28	Tony He	5	HOINV10492	CAD
+HOREG101434	15/08/11	True	Buy	Self	Exp. Share Holder Credit Card Payment	0	14450	Transfer 14450  from Bank BMO-CAD to account Exp. Share Holder Credit Card Payment.Paid to CIBC Lucy	HOINV10492	False	True	15/08/11	14:12:28	Tony He	5	HOINV10492	CAD
+HOREG101435	08/08/11	True	Sell	Self	Bank BMO-CAD	551.78	0	Transfer 551.78  from Bank BMO-CAD to account Exp. Salary & Wages.	HOINV10495	False	False	15/08/11	15:12:15	Lily Qi	5	HOINV10495	CAD
+HOREG101436	08/08/11	True	Buy	Self	Exp. Salary & Wages	0	551.78	Transfer 551.78  from Bank BMO-CAD to account Exp. Salary & Wages.	HOINV10495	False	True	15/08/11	15:12:15	Lily Qi	5	HOINV10495	CAD
+HOREG101437	09/08/11	True	Sell	Self	Bank BMO-USD	10000	0	Transfer 10000  from Bank BMO-USD to account Everforex-USD.	HOINV10496	False	False	15/08/11	15:18:21	Lily Qi	5	HOINV10496	USD
+HOREG101438	09/08/11	True	Buy	Self	EWire Money Transfer Service-USD	0	10000	Transfer 10000  from Bank BMO-USD to account Everforex-USD.	HOINV10496	False	True	15/08/11	15:18:21	Lily Qi	5	HOINV10496	USD
+HOREG101439	30/06/11	True	Sell	Self	Bank BMO-USD	26.55	0	Transfer 26.55  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10497	False	False	15/08/11	15:31:01	Lily Qi	5	HOINV10497	USD
+HOREG101440	30/06/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	26.55	Transfer 26.55  from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10497	False	True	15/08/11	15:31:01	Lily Qi	5	HOINV10497	USD
+HOREG102091	16/08/11	False	Sell	HOCUS20091	EWire Money Transfer-CNY	9680.85	0	Send eWire:  HOEWI10103 
+Sender:  Zhizeng Gao sent 9,680.85 CNY 
+From  Canada to China QingDao/Shandong 
+Recepient:   Wenmin Gao - HOLIN1073 -  
+Recepient Bank:  Bank Of China 
+Branch Transit:  Qingdao Branch 
+Account #:  6013821000636982930 
+Bank Address:  #48 Shangqiu Road, Sifang Distric, Qingdao 
+	HOINV10499	False	False	03/10/11	10:44:45	Tony He	13	HOEWI10103	CNY
+HOREG101446	16/08/11	False	Buy	HOCUS20091	Cash-CAD-02	0	1500	Received 1,500.00 Dollars in cash	HOINV10499	False	True	16/08/11	10:27:40	Tony He	36	HOCAS100427	CAD
+HOREG101443	31/05/11	True	Sell	Self	Bank BMO-USD	0.11	0	Transfer 0.11 USD from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10498	False	False	15/08/11	15:33:22	Lily Qi	5	HOINV10498	USD
+HOREG101444	31/05/11	True	Buy	Self	Exp. Service Fees Paid-USD	0	0.11	Transfer 0.11 USD from Bank BMO-USD to account Exp. Service Fees Paid-USD.	HOINV10498	False	True	15/08/11	15:33:22	Lily Qi	5	HOINV10498	USD
+HOREG101449	16/08/11	False	Buy	HOCUS20035	Cash-CAD-02	0	1020	Received 1,020.00 Dollars in cash	HOINV10500	False	True	16/08/11	11:40:56	Tony He	36	HOCAS100429	CAD
+HOREG101450	16/08/11	False	Sell	HOCUS20035	Cash-CNY-01	6300	0	Paid 6,300.00 Yuan Renminbi (China) in cash	HOINV10500	False	False	16/08/11	11:42:03	Lily Qi	36	HOCAS100430	CNY
+HOREG101451	16/08/11	False	Sell	HOCUS20035	Cash-CAD-02	12.76	0	Paid 12.76 Dollars in cash	HOINV10500	False	False	16/08/11	11:42:08	Tony He	36	HOCAS100431	CAD
+HOREG101452	16/08/11	True	Sell	Self	Cash-CAD-02	2507.24	0	Transfer 2507.24  from Cash-CAD-02 to account Cash-CAD-01.	HOINV10501	False	False	16/08/11	13:13:46	Lily Qi	5	HOINV10501	CAD
+HOREG101453	16/08/11	True	Buy	Self	Cash-CAD-01	0	2507.24	Transfer 2507.24  from Cash-CAD-02 to account Cash-CAD-01.	HOINV10501	False	True	16/08/11	13:13:46	Lily Qi	5	HOINV10501	CAD
+HOREG102128	17/08/11	False	Buy	HOCUS20086	EWire Money Transfer-CNY	0	65000	Received eWire:  HOEWI10104 for :  Chenru Yan - HOCUS20086 
+Sender:  Lianyun Peng - HOLIN1074 paid 65,000.00 CNY 
+From  China to Canada 
+Received Amount (set at source):  65,000.00 CNY 
+    Quzhou City/Zhejiang, China 
+	HOINV10502	False	True	03/10/11	14:28:59	Tony He	13	HOEWI10104	CNY
+HOREG101455	17/08/11	False	Sell	HOCUS20086	EWire Money Transfer Service-CAD	5000	0	Send Bank to Bank Wire 
+Amount:  5,000.00 CAD 
+Account Holder:  Chenru Yan 
+Bank Name:  TD Bank of Canada 
+Branch No.:  02389 
+Transit No.:  004 
+Account No.:  7791-6279095 
+Recepient Address:  78 Oxford Road W 
+Bank Address:  Edmonton, Alberta 
+ Lethbridge/AB,  Canada 
+	HOINV10502	False	False	17/08/11	10:12:22	Tony He	8	HOWIR10006	CAD
+HOREG101457	17/08/11	False	Sell	HOCUS20086	Account Pending - CNY	32270	0	32,270.00 CNY paid from  Account Pending - CNY. 	HOINV10502	False	False	17/08/11	10:14:37	Tony He	37	HOACC100212	CNY
+HOREG102039	17/08/11	False	Buy	HOCUS20065	EWire Money Transfer-CNY	0	65000	Received eWire:  HOEWI10105 for :  Qin Lu - HOCUS20065 
+Sender:  Tengyu Fan - HOLIN1076 paid 65,000.00 CNY 
+From  China to Canada 
+Received Amount (set at source):  65,000.00 CNY 
+Sender Address:  Zhongyang Road 
+    Nanjing, China 
+	HOINV10503	False	True	30/09/11	16:59:05	Tony He	13	HOEWI10105	CNY
+HOREG102827	17/08/11	False	Sell	HOCUS20065	Bank BMO-CAD	9883.83	0	9,883.83 CAD paid from  Bank BMO-CAD. Notes:  BMO 001-00149-3482174	HOINV10503	False	False	24/10/11	13:39:30	Tony He	37	HOACC100456	CAD
+HOREG101462	17/08/11	False	Buy	000	Cash-USD-01	0	80	Received 80.00 Dollars (United States of America) in cash	HOINV10504	False	True	17/08/11	15:06:02	Lily Qi	36	HOCAS100434	USD
+HOREG101463	17/08/11	False	Sell	000	Cash-CAD-01	77.36	0	Paid 77.36 Dollars in cash	HOINV10504	False	False	17/08/11	15:06:09	Lily Qi	36	HOCAS100435	CAD
+HOREG101464	19/08/11	False	Buy	HOCUS20042	Bank BMO-USD	0	10000	Cheque Received 
+Amount:  10000 USD 
+Cheque Type:  Draft 
+Cheque No:  9936656 
+To the order of:  BDT Financial Ltd. 
+Bank:  CIBC 
+	HOINV10505	False	True	19/08/11	11:54:29	Tony He	1	HOCHE100073	USD
+HOREG101479	19/08/11	False	Sell	HOCUS20042	Bank BMO-CAD	9815	0	Cheque Paid 
+Amount:  9815 CAD 
+Cheque Type:  Company 
+Cheque No:  00011 
+To the order of:  Shauna Woo 
+	HOINV10505	False	False	19/08/11	15:30:48	Lily Qi	1	HOCHE100074	CAD
+HOREG101466	19/08/11	False	Buy	000	Cash-CAD-01	0	100	Received 100.00 Dollars in cash	HOINV10506	False	True	19/08/11	12:41:20	Tony He	36	HOCAS100437	CAD
+HOREG101469	19/08/11	False	Sell	000	Cash-USD-01	100	0	Paid 100.00 Dollars (United States of America) in cash	HOINV10506	False	False	19/08/11	12:47:35	Tony He	36	HOCAS100440	USD
+HOREG101475	19/08/11	False	Buy	HOCUS20086	Account Pending - CNY	0	32270	32,270.00 CNY received in  Account Pending - CNY. 	HOINV10507	False	True	19/08/11	13:21:26	Lily Qi	37	HOACC100217	CNY
+HOREG101476	19/08/11	False	Sell	HOCUS20086	EWire Money Transfer Service-CAD	4941.8	0	Send Bank to Bank Wire 
+Amount:  4,941.80 CAD 
+Account Holder:  Chenru Yan 
+Bank Name:  TD Bank 
+Branch No.:  02389 
+Transit No.:  004 
+Account No.:  77916279095 
+Recepient Address:  78 Oxford Road W 
+Bank Address:  Edmonton 
+ Edmonton,  Canada 
+	HOINV10507	False	False	19/08/11	13:23:57	Frances	8	HOWIR10010	CAD
+HOREG102129	19/08/11	False	Buy	HOCUS20093	EWire Money Transfer-CNY	0	650	Received eWire:  HOEWI10106 for :  Ning Tan - HOCUS20093 
+Sender:  Li Zhang - HOLIN1077 paid 650.00 CNY 
+From  China to Canada 
+Received Amount (set at source):  650.00 CNY 
+    Shanghai, China 
+	HOINV10508	False	True	03/10/11	14:29:18	Tony He	13	HOEWI10106	CNY
+HOREG101478	19/08/11	False	Sell	HOCUS20093	Cash-CAD-01	100	0	Paid 100.00 Dollars in cash	HOINV10508	False	False	19/08/11	13:27:10	Lily Qi	36	HOCAS100441	CAD
+HOREG101480	22/08/11	False	Buy	000	Cash-USD-01	0	242	Received 242.00 Dollars (United States of America) in cash	HOINV10509	False	True	22/08/11	11:47:46	Tony He	36	HOCAS100442	USD
+HOREG101482	22/08/11	False	Sell	000	Cash-CAD-01	235.93	0	Paid 235.93 Dollars in cash	HOINV10509	False	False	22/08/11	11:48:22	Tony He	36	HOCAS100444	CAD
+HOREG101483	22/08/11	True	Sell	Self	Bank BMO-USD	11000	0	Transfer 11000  from Bank BMO-USD to account Everforex-USD.	HOINV10510	False	False	22/08/11	13:52:58	Tony He	5	HOINV10510	USD
+HOREG101484	22/08/11	True	Buy	Self	EWire Money Transfe

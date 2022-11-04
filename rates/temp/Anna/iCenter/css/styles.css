@@ -1,0 +1,119 @@
+html, body {
+    height: 100%;
+}
+body{
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    color: #222;
+    background: #ffffff;
+}
+tbody th{
+    border: none !important;
+}
+img{
+    max-width: 100%;
+}
+/*--------Style DIV load---------*/
+.wrapper{
+    min-height: 100%;
+    height: auto;
+    background: #E7ED59;
+}
+.content{
+    overflow: hidden;
+}
+
+.logo-wrapper{
+    text-align: center;
+    background: #000000;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.logo-wrapper img{
+    margin: 0 auto;
+}
+.time_update{
+    display: inline-block;
+}
+.note-text{
+    display: inline-block;
+}
+.table-wrapper{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.table-currency{
+    text-align: center;
+    margin-bottom: 0 !important;
+    min-height: 185px;
+}
+.table-currency thead{
+    font-weight: bold;
+    color: #000000;
+    background: transparent;
+}
+
+.table-currency thead .code,
+.table-currency thead .flag{
+    color: #E7ED59;
+}
+.table-currency thead tr{
+    padding: 20px 0 20px 0;
+    text-align: center !important;
+}
+.table-currency thead tr th{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center !important;
+    vertical-align: middle;
+    border-bottom: 1px solid #E7ED59;
+    font-size: 50px;
+}
+.table-currency tbody tr td.displayColCountry,
+.table-currency thead tr .country{
+    padding-left: 1%;
+}
+
+.table-currency tbody tr td{
+    border-bottom: 4px solid #E7ED59;
+    border-left: 4px solid #E7ED59;
+    vertical-align: middle;
+    padding: 0px;
+    color: #ffffff;
+    font-size: 40px;
+    text-transform: uppercase;
+    background: #000000;
+}
+
+.table-currency tbody tr td.displayColFlag{
+    background: transparent;
+}
+
+.table-currency tbody tr td img{
+    margin: 0 auto;
+    width: 160px;
+    height: 90px;
+}
+/*----End Style Div load---------*/
+/**slider*/
+.carousel-inner .item img {
+    margin: 0 auto;
+    width: 100%;
+    min-height: 921px;
+}
+.section-update{
+    padding: 5px 15px;
+    color: #ffffff;
+    background: #000000;
+}
+.section-update h4{
+    margin-bottom: 3px;
+    margin-top: 6px;
+}
+.carousel-indicators li{
+    border: 1px solid #E7ED59 !important;
+}
+.carousel-indicators .active{
+    background-color: #E7ED59 !important;
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Nour Bureau de Change</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+<div class="wrapper">
+
+    <section class="header">
+        <div class="container">
+            <div class="header-logo">
+                <img src="images/logo-2.png" class="img-responsive" alt="">
+            </div>
+        </div><!--close div  /.container -->
+    </section><!--close  section /.header-->
+
+    <section class="rates-table">
+        <div class="container-fluid">
+            <div class="load row">
+                <div class="col-md-12">
+                    <div class="table-wrapper cvs-light">
+                        <table class="table ">
+                            <thead>
+                            <tr>
+                                <th class="flag" >Flag</th>
+                                <th class="country" >Country</th>
+                                <th class="code" >Code</th>
+                                <th class="cur">Currency</th>
+                                <th class="buy" >We Buy</th>
+                                <th class="sell">We Sell</th>
+                                <th class="invbuy" >Inverse Buy</th>
+                                <th class="invsell">Inverse Sell</th>
+                            </tr>
+                            </thead>
+                            <tbody class="fade_table main_tbody left-table"></tbody>
+                        </table>
+                    </div><!--close div /.table-wrapper .cvs-green-->
+                    <div class="time-update-wrapper ">
+                        <p class="time_update"></p>
+                        <p class="note-text"> – Please note rates are subject to change without notice </p>
+                    </div>
+                </div>
+            </div><!--close div /.load-->
+        </div><!--close div  /.container -->
+    </section><!--close  section /.rates-table-->
+
+</div><!--close /.wrapper-->
+<!-- javascript -->
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/table_creater.js"></script>
+</body>
+</html>

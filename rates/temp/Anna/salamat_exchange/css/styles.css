@@ -1,0 +1,95 @@
+/*-----------------*/
+/*----Base Styles----*/
+/*-----------------*/
+html, body {
+
+}
+body {
+  font-size: 14px;
+  color: #fff;
+  background: #a43a2a;
+}
+img {
+  max-width: 100% !important;
+}
+.wrapper {
+  height: 100vh;
+}
+/*--------------------------*/
+/*-----------Header---------*/
+/*--------------------------*/
+.header-logo {
+  padding: 1vh;
+}
+.header-logo img {
+  margin: 0 auto;
+  width: 540px;
+}
+/*------------------------------------*/
+/*------Rate board table styles---*/
+/*------------------------------------*/
+.table {
+  margin-bottom: 0;
+}
+.table > thead > tr > th{
+  border-bottom: none;
+}
+.table-wrapper table thead tr {
+  background: #FED42A;
+  color: #a43a2a;
+}
+.table-wrapper table thead tr th {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  font-size: 26px;
+  text-align: center;
+  border-left: 1px solid #FED42A;
+}
+.table-wrapper table thead tr th:first-of-type {
+  border-left: none;
+}
+.table-wrapper table#africa thead tr th,
+.table-wrapper table#europe thead tr th,
+.table-wrapper table#asia thead tr th,
+.table-wrapper table#north-america thead tr th,
+.table-wrapper table#south-america thead tr th {
+  padding: 0;
+}
+.table-wrapper table tr td {
+  font-size: 24px;
+  vertical-align: middle;
+  text-align: center;
+  border-top: none;
+  font-weight: normal;
+  padding: 0.5vh 2px 0.5vh 2px;
+  color: #fff;
+}
+.table-wrapper table tbody tr {
+  border-bottom: 1px solid #FED42A;
+}
+.displayColFlag img {
+  margin: 0 auto;
+  width: 80px;
+}
+.position-relative {
+  position: relative;
+}
+#slider {
+}
+#slider img {
+}
+/*----------------------*/
+/**------time update-----*/
+/*----------------------*/
+.time-update-wrapper {
+  padding: 1vh 15px 0vh 15px;
+  background: #FED42A;
+  font-size: 20px;
+  color: #a43a2a;
+}
+.time_update {
+  display: inline-block;
+}
+.note-text {
+  display: inline-block;
+}

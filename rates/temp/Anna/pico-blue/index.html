@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Rate board</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+
+    <!-- OWL CSS file -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+<section class="wrapper">
+    <div class="container-fluid">
+        <div class="row header-logo">
+            <img src="images/logo.png" alt="">
+            <div class="header-logo-info">
+                <span>No Fees & commissions</span>
+                <span>Email: Order@picomoney.net</span>
+                <span>Contact: 0436404028</span>
+            </div>
+        </div>
+        <div class="load row">
+            <div class="time-update-wrapper">
+                <p class="time_update"></p>
+            </div>
+            <div class="load">
+                <!-- table head-->
+                <table class="table table-currency  cvs-light" id="main-rates">
+                    <thead>
+                    <tr>
+                        <th class="flag" width="15%">Flag</th>
+                        <th class="country" width="27%">Country</th>
+                        <th class="code" width="10%">Code</th>
+                        <th class="cur" width="10%">Currency</th>
+                        <th class="buy" width="12%">We Buy</th>
+                        <th class="sell" width="12%">We Sell</th>
+                        <th class="invbuy" width="12%">Inv Buy</th>
+                        <th class="invsell" width="12%">We Sell</th>
+                    </tr>
+                    </thead>
+                    <tbody class="main_tbody"></tbody>
+                </table>
+                <!-- ------------ -->
+            </div>
+        </div><!--close div /.load-->
+        <!------------------>
+        <div class="row">
+            <p class="text-center best-rates">
+                Great Rates.
+                <span class="margin-right-30 margin-left-30"></span>
+                Senior Discount Available
+            </p>
+        </div>
+        <!--Currency Slider-->
+        <div class="row">
+            <div class="">
+                <div class="owl-carousel owl-theme" id="other-rates-slider">
+                    <div class="main-rates-slider-item table-wrapper table-wrapper">
+                        <table class="table table-currency cvs-light" id="first_slide_table">
+                            <thead>
+                            <tr>
+                                <th class="flag" width="15%"></th>
+                                <th class="country" width="27%"></th>
+                                <th class="code" width="10%"></th>
+                                <th class="cur" width="10%"></th>
+                                <th class="buy" width="12%"></th>
+                                <th class="sell" width="12%"></th>
+                                <th class="invbuy" width="12%"></th>
+                                <th class="invsell" width="12%"></th>
+                            </tr>
+                            </thead>
+                            <tbody class="main_tbody"></tbody>
+                        </table>
+                    </div>
+                    <div class="main-rates-slider-item table-wrapper">
+                        <table class="table table-currency cvs-light" id="second_slide_table">
+                            <thead>
+                            <tr>
+                                <th class="flag" width="15%"></th>
+                                <th class="country" width="27%"></th>
+                                <th class="code" width="10%"></th>
+                                <th class="cur" width="10%"></th>
+                                <th class="buy" width="12%"></th>
+                                <th class="sell" width="12%"></th>
+                                <th class="invbuy" width="12%"></th>
+                                <th class="invsell" width="12%"></th>
+                            </tr>
+                            </thead>
+                            <tbody class="main_tbody"></tbody>
+                        </table>
+                    </div>
+                </div><!--close div/.owl-carousel .owl-theme-->
+            </div>
+        </div><!--close div/.row-->
+        <!--END Currency Slider-->
+    </div><!--close div  /.container-fluid -->
+</section><!--close /.wrapper'-->
+<!--footer-->
+<section class="footer">
+    <div class="col-md-12 footer-row">
+        <div class="row">
+            <div class="bottom-slogan">
+                <p class="note-text">Rates subject to changes, please confirm within the store</p>
+            </div>
+        </div>
+    </div>
+</section>
+<!------------------>
+
+<!-- javascript -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery-1.11.3.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+
+<!--Owl carousel plugin script-->
+<script src="js/owl.carousel.min.js"></script>
+
+<!--Table create JS scripts-->
+<script src="js/tables_creater.js"></script>
+</body>
+</html>

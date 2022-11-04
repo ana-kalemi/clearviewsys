@@ -1,0 +1,209 @@
+@font-face {
+  font-family: 'Trebuchet Bold'; /* fonts name */
+  src: url('../fonts/trebucbd.ttf'); /* path to fonts */
+}
+@font-face {
+  font-family: 'Trebuchet'; /* fonts name */
+  src: url('../fonts/trebuc.ttf'); /* path to fonts */
+}
+html, body {
+  height: 100%;
+}
+body {
+  font-family: "Trebuchet Bold", sans-serif;
+  font-size: 24px;
+  color: #222;
+  min-height: 600px;
+  height: 100vh;
+}
+li {
+  list-style-type: none;
+}
+ul {
+  padding: 0;
+}
+tbody th {
+  border: none !important;
+}
+img {
+  max-width: 100% !important;
+}
+.footer {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer p {
+  margin-bottom: 0;
+}
+.font-48 {
+  font-size: 48px;
+  letter-spacing: 6px;
+  margin-bottom: 0;
+}
+.font-65 {
+  font-size: 65px;
+  letter-spacing: 6px;
+  margin-bottom: 0;
+}
+.font-30 {
+  font-size: 30px;
+}
+.margin-right-10 {
+  margin-right: 10px;
+}
+.margin-right-20 {
+  margin-right: 20px;
+}
+.margin-right-25 {
+  margin-right: 25px;
+}
+.margin-right-30 {
+  margin-right: 30px;
+}
+.margin-left-20 {
+  margin-left: 20px;
+}
+.margin-left-25 {
+  margin-left: 25px;
+}
+.margin-left-30 {
+  margin-left: 30px;
+}
+/*--------Style DIV load---------*/
+.header-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 0;
+  background: #fff;
+}
+.header-logo-info{
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  font-size: 24px;
+  text-shadow: 1px 1px 1px #000;
+  padding: 0 15px 0 0;
+}
+.header-logo img {
+  margin: 0 auto;
+}
+.time_update {
+  display: inline-block;
+}
+.note-text {
+  display: inline-block;
+}
+.table-currency {
+  text-align: center;
+  margin-bottom: 0 !important;
+  min-height: 60px;
+}
+.table-currency thead {
+  border-bottom: 2px solid #fff;
+  background: #429ED3 !important;
+  border-top: 2px solid #fff;
+}
+.table-currency thead tr {
+  text-align: center !important;
+  color: #fff;
+}
+.table-currency thead tr th {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center !important;
+  vertical-align: middle;
+  border-bottom: none;
+  background: #429ED3 !important;
+  color: #000000 !important;
+}
+#other-rates-slider .table-currency thead tr th{
+  padding: 0px;
+}
+.best-rates{
+  font-size: 40px;
+  text-shadow: 1px 1px 1px #222;
+  padding-top: 8px;
+}
+.table-currency tbody tr td.displayColCountry,
+.table-currency thead tr .country {
+  text-align: left !important;
+  padding-left: 3%;
+}
+.table-currency thead tr .sell {
+  color: #fff !important;
+  background: #EA531C !important;
+}
+.table-currency .buy {
+  background: #1D2249 !important;
+  color: #fff !important;
+}
+.table-currency .flag {
+  color: #429ED3 !important;
+}
+.table-currency tbody tr {
+  font-size: 40px;
+}
+.table-currency tbody tr td {
+  vertical-align: middle;
+  padding: 10px 2px;
+  border: none;
+}
+.table-currency tbody tr td img {
+  margin: 20px;
+  max-width: 100px !important;
+}
+.main_table {
+  margin-bottom: 20px;
+}
+/*----End Style Div load---------*/
+.time-update-wrapper {
+  padding: 6px 15px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+.time-update-wrapper p{
+  margin-bottom: 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+.bottom-slogan {
+  padding:15px;
+  background: #429ED3;
+  color: #1D2249;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+.bottom-slogan p{
+  margin-bottom: 0;
+}
+
+/*-------@media-----------*/
+@media screen and (min-width: 1200px) {
+  .table-currency th {
+    font-size: 46px;
+    font-weight: bold;
+  }
+  .main-container {
+    width: 1400px;
+    margin: 0 auto;
+  }
+}
+@media screen and (min-width: 320px) and  (max-width: 1198px) {
+  .table-currency th {
+    font-size: 36px !important;
+  }
+  .table-currency img {
+    width: 100% !important;
+    height: auto !important;
+    max-height: 100%;
+  }
+}
+/*----------------------*/

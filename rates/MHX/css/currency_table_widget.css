@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #fff;
+}
+.COMPANYNAME {
+  font-family: Verdana, Geneva, sans-serif;
+  margin-bottom: 20px;
+  font-weight: normal;
+  color: #fff;
+  background: #e21225;
+  padding: 20px;
+  text-shadow: 1px 1px 2px #555;
+}
+.COMPANYNAME div {
+  font-size: 50px;
+}
+#currency_widget_table_header {
+  background-color: #000 !important;
+  color: #fff !important;
+  font: bold 24px Arial;
+}
+.country {
+  text-align: left;
+}
+#currency_table td {
+  font-size: 24pt;
+  padding: 8px 30px;
+  font-family: DS-Digital, Arial, sans-serif;
+  vertical-align: middle;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+}
+#currency_table td.flag {
+  padding: 4px;
+}
+#currency_table td img {
+  width: 150px;
+  border: 1px solid #ddd;
+}
+.inversebuy {
+  color: #000;
+  text-align: center;
+}
+.buy {
+  color: #000;
+  text-align: center;
+}
+.sell {
+  color: #000;
+  text-align: center;
+}
+.currency {
+  color: #6f3;
+  text-align: center;
+}
+.time {
+  text-align: center;
+  color: #000;
+}
+.country {
+  color: #deebeb;
+}
+.rate-time {
+  color: #fff;
+  background: #000;
+  padding: 15px;
+  font-size: 20px;
+  font-family: Verdana, Geneva, sans-serif;
+}

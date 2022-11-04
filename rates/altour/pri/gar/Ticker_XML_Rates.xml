@@ -1,0 +1,55 @@
+<dataSet><data><name>EUR       		1.43    		1.435   </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/10</tDate>
+<dataRow>Currency :EUREuro Member Countries  (Euro)We buy :1.43 CADWe Sell :1.435 CADInverse Buy :0.6993 CADInverse Sell :0.6969 CAD</dataRow>
+</data>
+<data><name>FJD       		0.6823  		0.6928  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/10</tDate>
+<dataRow>Currency :FJDFiji (Dollars)We buy :0.6823 CADWe Sell :0.6928 CADInverse Buy :1.46563 CADInverse Sell :1.44342 CAD</dataRow>
+</data>
+<data><name>GBP       		1.6469  		1.6529  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/10</tDate>
+<dataRow>Currency :GBPUnited Kingdom (Pounds)We buy :1.6469 CADWe Sell :1.6529 CADInverse Buy :0.6072 CADInverse Sell :0.605 CAD</dataRow>
+</data>
+<data><name>JMD       		0.01152 		0.01234 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/10</tDate>
+<dataRow>Currency :JMDJamaica (Dollars)We buy :0.01152 CADWe Sell :0.01234 CADInverse Buy :86.84325 CADInverse Sell :81.0537 CAD</dataRow>
+</data>
+<data><name>JPY       		0.01169 		0.01181 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/10</tDate>
+<dataRow>Currency :JPYJapan (Yen)We buy :0.01169 CADWe Sell :0.01181 CADInverse Buy :85.53405 CADInverse Sell :84.68261 CAD</dataRow>
+</data>
+<data><name>PLN_      		0.48    		0.5     </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/10</tDate>
+<dataRow>Currency :PLN_Poland (Zlotych)We buy :0.48 CADWe Sell :0.5 CADInverse Buy :2.08333 CADInverse Sell :2 CAD</dataRow>
+</data>
+<data><name>SAR       		0.27    		0.3     </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/10</tDate>
+<dataRow>Currency :SARSaudi Arabia (Riyals)We buy :0.27 CADWe Sell :0.3 CADInverse Buy :3.7037 CADInverse Sell :3.33333 CAD</dataRow>
+</data>
+<data><name>UAH       		0.224   		0.25    </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/10</tDate>
+<dataRow>Currency :UAHUkraine (Hryvnia)We buy :0.224 CADWe Sell :0.25 CADInverse Buy :4.46429 CADInverse Sell :4 CAD</dataRow>
+</data>
+<data><name>USD       		1.0499  		1.0519  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/10</tDate>
+<dataRow>Currency :USDUnited States of America (Dollars)We buy :1.0499 CADWe Sell :1.0519 CADInverse Buy :0.9525 CADInverse Sell :0.9507 CAD</dataRow>
+</data>
+</dataSet>

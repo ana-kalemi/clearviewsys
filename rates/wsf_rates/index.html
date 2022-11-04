@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Cache-Control" content="no-cache"/>
+<meta http-equiv="Pragma" content="no-cache" />
+<META HTTP-EQUIV="REFRESH" CONTENT="60">
+
+<title>Exchange Rates - Powered By CurrencyXchanger</title>
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" type="text/css" href="css/base/advanced-slider-base.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="css/glossy-square/gray/glossy-square-gray.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="css/responsive-slider.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="css/currency_table_widget.css" media="screen"/>
+
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.touchSwipe.min.js"></script>
+<script type="text/javascript" src="js/jquery.advancedSlider.min.js"></script>
+
+<script type="text/javascript" src="js/AC_RunActiveContent.js"></script>
+<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/currency_table_widget2.js"></script>
+
+
+<script type="text/javascript">
+
+	jQuery(document).ready(function($){
+		$('#responsive-slider').advancedSlider({width: 1024,
+												height: 150,
+												responsive: false,
+												shadow: false,
+												effectType: 'random',
+												slideshow: true,
+												pauseSlideshowOnHover: false,
+												swipeThreshold: 20,
+												slideButtons: false,
+												thumbnailType: 'none',
+												thumbnailWidth: 0,
+												thumbnailHeight: 0,
+												thumbnailButtons: false,
+												thumbnailSwipe: true,
+												thumbnailScrollerResponsive: false,
+												minimumVisibleThumbnails: 2,
+												maximumVisibleThumbnails: 4,
+												keyboardNavigation: true,
+												xmlSource: 'slider.xml'
+		});
+	});
+
+</script>
+
+
+</head>
+
+
+<body>
+<table width="90%" align="center">
+  
+  <tr valign="top">
+    <td align="center"><table width="100%" align="center">
+      <br/>
+      <tr align="center" valign="top">
+        <td height="522"><div align="center" id="currency_table"  style="currency_table_widget.css">
+            <div align="center">Loading Rates...</div>
+        </div></td>
+      </tr>
+    </table>
+ </td> </tr>
+ <tr>
+ 
+ </tr>
+</table>
+<div align="center"></div>
+	<div class="advanced-slider" id="responsive-slider"></div>
+
+</body>
+</html>

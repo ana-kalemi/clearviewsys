@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>ExchangeNow</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/select2.css"/>
+    <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+<div class="container-fluid">
+    <div class="row">
+        <div class="container load">
+
+            <h1 class="humanst521Bold_80">Currency Exchange Rates</h1>
+
+            <div class="row" >
+                <div class="container">
+                    <!-- table head-->
+                    <table class="table table-currency upperSection">
+                        <tr>
+                            <th class="flag">Flag</th>
+                            <th class="code">Code</th>
+                            <th class="cur">Currency</th>
+                            <th class="buy" >Buy</th>
+                            <th class="sell">Sell</th>
+                            <th class="invbuy">WE BUY</th>
+                            <th class="invsell">WE SELL</th>
+                            <th class="country">Country</th>
+                        </tr>
+                    </table>
+                    <!-- ------------ -->
+
+                    <!--main courses -->
+                    <div class="fade_table1 upperSection">
+                        <ul class="main_table table-currency main_tbody upperScroll">
+
+                        </ul>
+                    </div>
+                    <button type="button" id="prev-button-top" class="btn btn-default btn-sm upperSection"><span class="glyphicon glyphicon-arrow-up" ></span>prev</button>
+                    <button type="button" id="next-button-top" class="btn btn-default btn-sm upperSection"><span class="glyphicon glyphicon-arrow-down" ></span>next</button>
+                    <!-- ------------ -->
+                </div>
+            </div>
+            <div class="separate"></div>
+
+            <div class="row" >
+                <div class="container">
+                    <!-- table head-->
+                    <table class="table table-currency lowerSection">
+                        <tr>
+                            <th class="flag">Flag</th>
+                            <th class="code">Code</th>
+                            <th class="cur">Currency</th>
+                            <th class="buy" >We BUY</th>
+                            <th class="sell">We SELL</th>
+                            <th class="invbuy">INV BUY</th>
+                            <th class="invsell">INV Sell</th>
+                            <th class="country">Country</th>
+                        </tr>
+                    </table>
+                    <!-- ------------ -->
+
+                    <!--other courses -->
+                    <div class="table_scroll fade_table2 lowerSection">
+                        <ul class="table-currency tbody low ">
+
+                        </ul>
+                    </div>
+                    <button type="button" id="prev-button-low" class="btn btn-default btn-sm lowerSection"><span class="glyphicon glyphicon-arrow-up" ></span>prev</button>
+                    <button type="button" id="next-button-low" class="btn btn-default btn-sm lowerSection"><span class="glyphicon glyphicon-arrow-down" ></span>next</button>
+                    <!-- ------------ -->
+                </div>
+            </div>
+            <div class="row text-center">
+                <h4 class="time_update"></h4>
+                <h4> – Due to currency fluctuations, rates are subject to change.</h4>
+            </div>
+        </div><!--close div /.load-->
+    </div>
+</div> <!--close div class='container-fluid'-->
+
+<!-- javascript -->
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/table_creater.js"></script>
+<script src="js/newsTicker.js"></script>
+<script src="js/select2.js"></script>
+</body>
+</html>

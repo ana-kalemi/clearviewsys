@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>TBC </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+
+    <link rel="stylesheet" href="css/table-theme.css"/>
+    <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+<section class="wrapper">
+    <div class="container-fluid">
+        <div class="row header-logo">
+            <img src="images/logo.png" alt="">
+        </div>
+        <div class="load row">
+            <div class="load">
+                <!-- table head-->
+                <table class="table table-currency  cvs-blue" id="main-rates">
+                    <thead>
+                    <tr>
+                        <th class="flag" width="10%">Flag</th>
+                        <th class="country" width="23%">Country</th>
+                        <th class="code" width="8%">Code</th>
+                        <th class="cur" width="10%">Currency</th>
+                        <th class="buy" width="14%">We Buy</th>
+                        <th class="sell" width="14%">We Sell</th>
+                        <th class="invbuy" width="12%">Inv Buy</th>
+                        <th class="invsell" width="12%">We Sell</th>
+                    </tr>
+                    </thead>
+                    <tbody class="main_tbody"></tbody>
+                </table>
+                <!-- ------------ -->
+            </div>
+        </div><!--close div /.load-->
+    </div><!--close div  /.container-fluid -->
+</section><!--close /.wrapper'-->
+<!--footer-->
+<section class="footer">
+    <div class="col-md-12 footer-row">
+        <div class="row">
+            <div class="bottom-slogan">
+                <p class="time_update"></p>
+            </div>
+        </div>
+    </div>
+</section>
+<!------------------>
+
+<!-- javascript -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery-1.11.3.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+
+<!--Table create JS scripts-->
+<script src="js/tables_creater.js"></script>
+</body>
+</html>
+

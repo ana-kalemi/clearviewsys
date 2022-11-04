@@ -1,0 +1,203 @@
+@font-face {
+  font-family: 'Trebuchet Bold'; /* fonts name */
+  src: url('../fonts/trebucbd.ttf'); /* path to fonts */
+}
+@font-face {
+  font-family: 'Trebuchet'; /* fonts name */
+  src: url('../fonts/trebuc.ttf'); /* path to fonts */
+}
+html, body {
+  height: 100%;
+}
+body {
+  font-family: "Trebuchet Bold", sans-serif;
+  font-size: 16px;
+  color: #222;
+  min-height: 600px;
+  height: 100vh;
+}
+li {
+  list-style-type: none;
+}
+ul {
+  padding: 0;
+}
+tbody th {
+  border: none !important;
+}
+img {
+  max-width: 100% !important;
+}
+.wrapper{
+  background: url("../images/background.jpeg") no-repeat;
+  background-size: cover;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #222;
+}
+.footer p {
+  margin-bottom: 0;
+  color: #fff;
+  font-size: 18px;
+}
+.font-48 {
+  font-size: 48px;
+  letter-spacing: 6px;
+  margin-bottom: 0;
+}
+.font-65 {
+  font-size: 65px;
+  letter-spacing: 6px;
+  margin-bottom: 0;
+}
+.font-30 {
+  font-size: 30px;
+}
+.margin-right-10 {
+  margin-right: 10px;
+}
+.margin-right-20 {
+  margin-right: 20px;
+}
+.margin-right-25 {
+  margin-right: 25px;
+}
+.margin-right-30 {
+  margin-right: 30px;
+}
+.margin-left-20 {
+  margin-left: 20px;
+}
+.margin-left-25 {
+  margin-left: 25px;
+}
+.margin-left-30 {
+  margin-left: 30px;
+}
+/*--------Style DIV load---------*/
+.header-logo > div:first-of-type {
+  text-shadow: 1px 1px 0 #555;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  padding-left: 60px;
+}
+.header-logo > div:last-child {
+  padding-right: 60px;
+}
+.logo img {
+  margin-right: 20px;
+  width: 300px;
+}
+.time_update {
+  display: inline-block;
+}
+.note-text {
+  display: inline-block;
+}
+.table-currency {
+  text-align: center;
+  margin-bottom: 0 !important;
+  min-height: 60px;
+}
+.table-currency thead {
+  border-bottom: 3px solid #808080;
+  background: #333;
+  border-top: 3px solid #808080;
+}
+.table-currency thead tr {
+  padding: 20px 0 20px 0;
+  text-align: center !important;
+}
+.table-currency thead tr th {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center !important;
+  color: #fff !important;
+  vertical-align: middle;
+  border-bottom: none;
+  background: #222 !important;
+  font-size: 40px;
+}
+.table-currency tbody tr td.displayColCountry,
+.table-currency thead tr .country {
+  text-align: left !important;
+  padding-left: 3%;
+}
+.table-currency tbody {
+  border-bottom: 3px solid #808080;
+}
+.table-currency thead tr .invbuy {
+  color: #222;
+}
+.table-currency .buy {
+}
+.displayColWeBuy {
+  color: #1e93bb;
+}
+.table-currency .sell {
+}
+.displayColWeSell {
+  color: #ff6d00;
+  border-right: 2px solid #808080 !important;
+}
+.table-currency .invbuy {
+  background: #598a83;
+}
+.displayColINVBuy {
+  color: #598a83;
+}
+.table-currency .invsell {
+  background: #b4b32e;
+}
+.displayColINVSell {
+  color: #b4b32e;
+}
+.table-currency .code {
+}
+.table-currency .flag {
+}
+.table-currency tbody tr {
+  font-size: 35px;
+  color: #fff;
+}
+.table-currency tbody tr td {
+  vertical-align: middle;
+  padding: 2px;
+  border: none !important;
+  color: #fff;
+}
+.table-currency tbody tr td img {
+  margin: 0 auto;
+  max-width: 114px !important;
+}
+.main_table {
+  margin-bottom: 20px;
+}
+/*----End Style Div load---------*/
+.time-update-wrapper {
+  padding: 12px 0 12px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/*-------@media-----------*/
+@media screen and (min-width: 1200px) {
+  .table-currency th {
+    font-size: 40px;
+    font-weight: normal;
+  }
+  .main-container {
+    width: 1400px;
+    margin: 0 auto;
+  }
+}
+@media screen and (max-width: 345px) {
+  .cvs-calc-half span {
+    margin-right: 0px;
+  }
+}
+/*----------------------*/

@@ -1,0 +1,133 @@
+<dataSet><data><name>CAD       		1       		1       </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate></tDate>
+<dataRow>Currency :CADCanada (Dollars)We buy :1 CADWe Sell :1 CADInverse Buy :1 CADInverse Sell :1 CAD</dataRow>
+</data>
+<data><name>CNY       		0.157994		0.165249</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :CNYChina (Yuan Renminbi)We buy :0.157994 CADWe Sell :0.165249 CADInverse Buy :6.3294 CADInverse Sell :6.0515 CAD</dataRow>
+</data>
+<data><name>CNY-CTR   		0.159283		0.16283 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :CNY-CTRChina (Yuan Renminbi)We buy :0.159283 CADWe Sell :0.16283 CADInverse Buy :6.2781 CADInverse Sell :6.1414 CAD</dataRow>
+</data>
+<data><name>CNY-TR    		0.159283		0.162508</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :CNY-TRChina (Yuan Renminbi)We buy :0.159283 CADWe Sell :0.162508 CADInverse Buy :6.2781 CADInverse Sell :6.1536 CAD</dataRow>
+</data>
+<data><name>CNY-VIP   		0.159928		0.161944</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :CNY-VIPChina (Yuan Renminbi)We buy :0.159928 CADWe Sell :0.161944 CADInverse Buy :6.2528 CADInverse Sell :6.175 CAD</dataRow>
+</data>
+<data><name>CUP       		1.0171  		1.05862 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :CUPCuba (Pesos)We buy :1.0171 CADWe Sell :1.05862 CADInverse Buy :0.9832 CADInverse Sell :0.9446 CAD</dataRow>
+</data>
+<data><name>EUR       		1.3648  		1.4492  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :EUREuro Member Countries  (Euro)We buy :1.3648 CADWe Sell :1.4492 CADInverse Buy :0.7327 CADInverse Sell :0.69 CAD</dataRow>
+</data>
+<data><name>EUR-TR    		1.3817  		1.4351  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :EUR-TREuro Member Countries  (Euro)We buy :1.3817 CADWe Sell :1.4351 CADInverse Buy :0.7238 CADInverse Sell :0.6968 CAD</dataRow>
+</data>
+<data><name>GBP       		1.5867  		1.6677  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :GBPUnited Kingdom (Pounds)We buy :1.5867 CADWe Sell :1.6677 CADInverse Buy :0.6302 CADInverse Sell :0.5996 CAD</dataRow>
+</data>
+<data><name>GBP-TR    		1.58673 		1.65149 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :GBP-TRUnited Kingdom (Pounds)We buy :1.58673 CADWe Sell :1.65149 CADInverse Buy :0.6302 CADInverse Sell :0.6055 CAD</dataRow>
+</data>
+<data><name>HKD       		0.129794		0.136849</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :HKDHong Kong (Dollars)We buy :0.129794 CADWe Sell :0.136849 CADInverse Buy :7.7045 CADInverse Sell :7.3073 CAD</dataRow>
+</data>
+<data><name>HKD-CTR   		0.131525		0.13472 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :HKD-CTRHong Kong (Dollars)We buy :0.131525 CADWe Sell :0.13472 CADInverse Buy :7.6031 CADInverse Sell :7.4228 CAD</dataRow>
+</data>
+<data><name>HKD-TR    		0.132057		0.134187</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :HKD-TRHong Kong (Dollars)We buy :0.132057 CADWe Sell :0.134187 CADInverse Buy :7.5725 CADInverse Sell :7.4523 CAD</dataRow>
+</data>
+<data><name>HKD-VIP   		0.13219 		0.13405 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :HKD-VIPHong Kong (Dollars)We buy :0.13219 CADWe Sell :0.13405 CADInverse Buy :7.565 CADInverse Sell :7.4598 CAD</dataRow>
+</data>
+<data><name>JPY       		0.013253		0.013929</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :JPYJapan (Yen)We buy :0.0132535 CADWe Sell :0.0139298 CADInverse Buy :75.4513 CADInverse Sell :71.7885 CAD</dataRow>
+</data>
+<data><name>JPY-TR    		0.013253		0.013794</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :JPY-TRJapan (Yen)We buy :0.0132535 CADWe Sell :0.0137946 CADInverse Buy :75.45 CADInverse Sell :72.49 CAD</dataRow>
+</data>
+<data><name>MXN       		0.07507 		0.0789  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :MXNMexico (Pesos)We buy :0.07507 CADWe Sell :0.0789 CADInverse Buy :13.3213 CADInverse Sell :12.6746 CAD</dataRow>
+</data>
+<data><name>SEK       		0.14846 		0.15764 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :SEKSweden (Kronor)We buy :0.14846 CADWe Sell :0.15764 CADInverse Buy :6.7359 CADInverse Sell :6.3435 CAD</dataRow>
+</data>
+<data><name>USD       		1.0221  		1.0481  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :USDUnited States of America (Dollars)We buy :1.0221 CADWe Sell :1.0481 CADInverse Buy :0.9784 CADInverse Sell :0.9541 CAD</dataRow>
+</data>
+<data><name>USD-CTR   		1.0267  		1.0454  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :USD-CTRUnited States of America (Dollars)We buy :1.0267 CADWe Sell :1.0454 CADInverse Buy :0.974 CADInverse Sell :0.9566 CAD</dataRow>
+</data>
+<data><name>USD-TR    		1.0291  		1.0441  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :USD-TRUnited States of America (Dollars)We buy :1.0291 CADWe Sell :1.0441 CADInverse Buy :0.9717 CADInverse Sell :0.9578 CAD</dataRow>
+</data>
+<data><name>USD-VIP   		1.0311  		1.0421  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>29/09/2011</tDate>
+<dataRow>Currency :USD-VIPUnited States of America (Dollars)We buy :1.0311 CADWe Sell :1.0421 CADInverse Buy :0.9698 CADInverse Sell :0.9596 CAD</dataRow>
+</data>
+</dataSet>

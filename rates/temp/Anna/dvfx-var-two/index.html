@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>DVFX</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Fonts-->
+
+    <!-- Bootstrap CSS file -->
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <!-- Custom CSS file -->
+    <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+<div class="wrapper">
+    <section >
+        <div class="container-fluid">
+            <div class="row header">
+                <img src="images/logo.png" alt="">
+            </div>
+        </div>
+    </section><!--close  section /.header-->
+
+    <section class="rates-table">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="time-update-wrapper">
+                    <p>Today's Live Rates</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="table-wrapper">
+                    <table class="table" id="currency_table">
+                        <thead>
+                        <tr>
+                            <th class="code" colspan="3">Currency</th>
+                            <th class="invbuy">We Buy</th>
+                            <th class="invsell">We Sell</th>
+                        </tr>
+                        </thead>
+                        <tbody class="main_tbody"></tbody>
+                    </table>
+                </div><!--close div /.table-wrapper .cvs-green-->
+            </div>
+            <div class="row">
+                <div class="time-update-wrapper under-table">
+                    <p class="text-center">Reserve & Collect</p>
+                </div>
+            </div>
+        </div>
+    </section><!--close  section /.rates-table-->
+
+    <!-----slider---->
+    <section>
+        <div class="container-fluid">
+
+            <div class="row">
+                <div id="carousel" class="carousel slide">
+                    <ol class="carousel-indicators">
+                        <li class="active" data-target="#carousel" data-slide-to="0"></li>
+                        <li data-target="#carousel" data-slide-to="1"></li>
+                    </ol>
+                    <!--Slider-->
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img src="https://placehold.it/1080x500" alt=""/>
+                            <div class="carousel-caption">
+                                <!--here you can write some text-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-inner">
+                        <div class="item">
+                            <img src="https://placehold.it/1080x500" alt=""/>
+                            <div class="carousel-caption">
+                                <!--here you can write some text-->
+                            </div>
+                        </div>
+                    </div>
+                    <a href="#carousel" class="left carousel-control" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" ></span>
+                    </a>
+                    <a href="#carousel"  class="right carousel-control" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" ></span>
+                    </a>
+                </div><!-- /.carousel slide-->
+            </div>
+        </div>
+    </section>
+    <!-----end slider---->
+
+    <!--Footer-->
+    <section class="footer-section">
+        <div class="container-fluid">
+            <div class="footer-wrapper">
+                <div class="footer"></div>
+            </div>
+        </div>
+    </section>
+    <!--End Footer-->
+
+</div><!-- /.wrapper-->
+
+<!-- javascript -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/table_creater.js"></script>
+<script>
+    $(function () {
+        $('.carousel').carousel({
+            interval: 2000
+        });
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>iCenter | Branch - H3</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+
+    <!-- OWL CSS file -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="css/styles_t1.css"/>
+</head>
+<body>
+<div class="wrapper">
+    <div class="container-fluid">
+        <div class="row">
+            <section class="header">
+                <div class="logo-wrapper">
+                    <img src="images/logo_iXchange.jpg" alt="">
+                </div>
+            </section>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="owl-carousel owl-theme" id="main-rates-slider">
+                    <div class="main-rates-slider-item table-wrapper table-wrapper">
+                        <table class="table table-currency upperSection" id="first_slide_table">
+                            <thead>
+                            <tr>
+                                <th class="flag" width="12%">Flag</th>
+                                <th class="country" width="28%">Country</th>
+                                <th class="invbuy" width="16%">We Buy</th>
+                                <th class="invsell" width="16%">We Sell</th>
+                                <th class="cur" width="">Currency</th>
+                                <th class="code" width="">Code</th>
+                                <th class="buy" width="">We Buy</th>
+                                <th class="sell" width="">We Sell</th>
+                            </tr>
+                            </thead>
+                            <tbody class="main_tbody"></tbody>
+                        </table>
+                    </div>
+                    <div class="main-rates-slider-item table-wrapper">
+                        <table class="table table-currency upperSection" id="second_slide_table">
+                            <thead>
+                            <tr>
+                                <th class="flag" width="12%">Flag</th>
+                                <th class="country" width="28%">Country</th>
+                                <th class="invbuy" width="16%">We Buy</th>
+                                <th class="invsell" width="16%">We Sell</th>
+                                <th class="cur" width="">Currency</th>
+                                <th class="code" width="">Code</th>
+                                <th class="buy" width="">We Buy</th>
+                                <th class="sell" width="">We Sell</th>
+                            </tr>
+                            </thead>
+                            <tbody class="main_tbody"></tbody>
+                        </table>
+                    </div>
+                </div><!--close div/.owl-carousel .owl-theme-->
+            </div>
+        </div><!--close div/.row-->
+
+        <div class="row">
+            <div class="section-update">
+                <h4 class="time_update"></h4>
+                <h4 class="note-text"></h4>
+            </div>
+        </div>
+        <div class="row">
+            <div id="carousel" class="carousel slide">
+                <ol class="carousel-indicators">
+                    <li class="active" data-target="#carousel" data-slide-to="0"></li>
+                    <li data-target="#carousel" data-slide-to="1"></li>
+                    <li data-target="#carousel" data-slide-to="2"></li>
+                    <li data-target="#carousel" data-slide-to="3"></li>
+                    <li data-target="#carousel" data-slide-to="4"></li>
+                </ol>
+                <!--Slides-->
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <img class="img-responsive" src="images/slider/1.jpg" alt=""/>
+                        <div class="carousel-caption">
+                            <!--here you can write some text-->
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img class="img-responsive" src="images/slider/2.jpg" alt=""/>
+                        <div class="carousel-caption">
+                            <!--here you can write some text-->
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img class="img-responsive" src="images/slider/3.jpg" alt=""/>
+                        <div class="carousel-caption">
+                            <!--here you can write some text-->
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img class="img-responsive" src="images/slider/4.jpg" alt=""/>
+                        <div class="carousel-caption">
+                            <!--here you can write some text-->
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img class="img-responsive" src="images/slider/5.jpg" alt=""/>
+                        <div class="carousel-caption">
+                            <!--here you can write some text-->
+                        </div>
+                    </div>
+                </div>
+            </div><!--close div /.carousel slide'-->
+        </div>
+    </div>
+</div><!--close /.wrapper'-->
+
+<!-- javascript -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+
+<!--Owl carousel plugin script-->
+<script src="js/owl.carousel.min.js"></script>
+
+<!--Table create JS scripts-->
+<script src="js/table_creater_t1.js"></script>
+<script>
+    $(function () {
+        $('.carousel').carousel({
+            interval: 60000
+        });
+    });
+</script>
+</body>
+</html>

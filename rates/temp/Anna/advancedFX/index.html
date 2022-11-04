@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Rates | AdvancedFX</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/styles.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.css">
+</head>
+<body>
+<div class="wrapper">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="container cvs-light padding-top-30 padding-bottom-30">
+                <table class="table table-currency" id="currency_table">
+                    <thead>
+                    <tr>
+                        <th class="flag" width="12%">Flag</th>
+                        <th class="country" width="40%">Country</th>
+                        <th class="code" width="10%">Code</th>
+                        <th class="cur">Currency</th>
+                        <th class="buy" width="15%">We BUY</th>
+                        <th class="sell" width="15%">We SELL</th>
+                        <th class="invbuy">Inverse BUY</th>
+                        <th class="invsell">Inverse SELL</th>
+                    </tr>
+                    </thead>
+                    <tbody class="main_tbody table-currency">
+                    </tbody>
+                </table>
+            </div> <!-- close div /.col-md-12 ------- -->
+        </div><!--close div /.row-->
+    </div><!--close div  /.container-fluid -->
+</div><!--close /.wrapper'-->
+
+<!-- javascript -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.js"></script>
+
+<!--Table create JS scripts-->
+<script src="js/table_creater.js"></script>
+</body>
+</html>

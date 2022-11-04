@@ -1,0 +1,69 @@
+<!-- Shpjeguesi Shqip. Ju lutem m� kontaktoni p�r korrigjime (artonberisha@radiokosova.nhttps:ttp://www.radiokosova.net) -->
+<!-- $Revision: 1.3 $ - $Date: 2003/09/16 18:58:16 $ -->
+<div class="CTooltip" id="tt1">
+Vizita �sht� p�rkufizuar si <b>vizitor</b> risi (Shfletimin apo Shiqimin e faqes) t� cil�t nuk e kan vizituar faqen q� nga <b>#VisitTimeOut# min</b>.
+</div>
+<div class="CTooltip" id="tt2">
+Numri i klient�ve strehues (<b>IP adresa</b>) t� cil�t erdh�n ta vizitojn� faqen (dhe q� shfletuan se paku nj� <b>faqe</b>).<br />
+K�to t'dh�na tregojn� numrin e <b>personave t� ndrysh�m fizik�</b> t� cil�t arrit�n faqen n� �do dit�.
+</div>
+<div class="CTooltip" id="tt3">
+Hera e <b>faqeve</b> q� �sht� <b>shiquar</b> (Shuma e t� gjitha vizitave).<br />
+Kjo pjes e t'dh�nave ndryshon nga "Hyrjet" n� at� m�nyr i numron vet�m faqet HTML kund�r atyre p�r figur dhe t� tjera.
+</div>
+<div class="CTooltip" id="tt4">
+Hera e <b>faqes, figur�s, vargut</b> q� �sht� <b>shiquar</b> ose <b>shkarkuar</b> nga dikush.<br />
+K�to t'dh�na jan� ofruar vet�m si referenc�, pasi q� numri i shiqimeve "Faqe" �sht� menduar p�r q�llime tregtie.
+</div>
+<div class="CTooltip" id="tt5">
+Kjo informat� trtegon sasin� e t'dh�nave shkarkuar nga t� gjitha <b>faqet</b>, <b>figurat</b> dhe <b>vargjet</b> mbrenda nj� Faq�sie.<br />
+Njesit� jan� n� KB, MB ose GB (KiloBajt, MegaBajta or GigaBajta)
+</div>
+<div class="CTooltip" id="tt13">
+#PROG# e njeh �do lidhje n� faqe <b>search</b> nga <b>#SearchEnginesArray# Makinat K�rkuese n� Internet m� t� popullarizuara si dhe Tregues</b> (si Yahoo, Altavista, Lycos, Google, Voila, etj...).
+</div>
+<div class="CTooltip" id="tt14">
+Lista e t� gjitha <b>faqeve jashta faq�s</b> q� nyj�zuan (dhe hyrje) te faqja e juaj (Vet�m <b>#MaxNbOfRefererShown#</b> faqe m� t� shpeshta).
+Nyjet q� jan� p�rdor nga rezultatet e makinave k�rkuese jan� p�rjashtu k�tu sepse ato p�rfshi n� rreshtat e tabelave.
+</div>
+<div class="CTooltip" id="tt15">
+Kjo tabel� tregon <b>kryefrazat dhe kryefjalit�</b> m� t� shpeshta q� jan� p�rdorur ta gjejn� faqen t�nde nga Makinat K�rkuese dhe tregues n� Internet.
+(kryefjal� nga <b>#SearchEnginesArray#</b> Makinat K�rkuese dhe Treguest m� t� popullarizuar jan� njohur nga #PROG#, si Yahoo, Altavista, Lycos, Google, Voila, etj...).<br />
+V�shtri se shuma e kryefalive mund t� jet m� i madh se sa shume p�r kryefraza (numri real i k�rkesave) sepse ndoshta dy fjali jan� p�rdor n� t� njejtin K�rkues, k�rkuese �sht� numruar dy her� p�r fjali (nj� her� p�r �do fjal�).
+</div>
+<div class="CTooltip" id="tt16">
+Robotat (rrall� emruar si Marimanga) jan� <b>vizita automatike kompjuterike</b> p�rdorur nga shum� Makina K�rkuese q� e Shiqon faqen t�nga p�r tregues dhe radhitje, grumbullon statistika n� Faqet e Internetit dhe/ose shiqon n�se faqja e juaj�sht� ende n� linje.<br />
+#PROG# Ka mund�si q� t'i njoh� <b>#RobotArray#</b> robota.
+</div>
+<div class="CTooltip" id="tt17">
+T� gjitha vizitat jan� bazuar nga koha reale e Sh�rbyesit.<br />
+</div>
+<div class="CTooltip" id="tt18">
+K�tu, t'dh�nat e raportuara jan�: <b>valutat mesatare</b> (llogaritur nga t'dh�ant nd�rmjet vizites s� par� dhe t� fundit)
+</div>
+<div class="CTooltip" id="tt19">
+K�tu, t'dh�nat e raportuara jan�: <b>Shuma grumbulluese</b> (llogaritur nga t'dh�ant nd�rmjet vizites s� par� dhe t� fundit)
+</div>
+<div class="CTooltip" id="tt20">
+Disa <b>zgjatje t� vizitave</b> jan� 'panjohur' sepse gjithmon� ato nuk mund t� llogariten. Kjo �sht� arsya kryesore p�r k�t�:<br />
+- vizita nuk ishte p�rfundur kur 'freskimi' ndodhi.<br />
+- vizita filloi n� or�n e fundit (pas 23:00) te fundi i dit�s s� muajit (Nj� arsye teknike parandalon  #PROG# p�r llogaritjen e nj� zgjatje t� nj� mbledhje t� till�)
+</div>
+
+<div class="CTooltip" id="tt201"> Nuk ka p�rshkrim p�r k�t� gabim. </div>
+<div class="CTooltip" id="tt202"> K�rkesa �sht� kuptuar nga sh�rbyesi por do t� kryesohet m� von�. </div>
+<div class="CTooltip" id="tt204"> Sh�rbyesi ka kryesuar mirpo atje nuk ka dokument p�r ta d�rguar. </div>
+<div class="CTooltip" id="tt206"> P�rmbajtje gjysore. </div>
+<div class="CTooltip" id="tt301"> Dokumenti i k�rkuar ishte larguar dhe tani nj� adres tjet�r �sht� p�rgjigj. </div>
+<div class="CTooltip" id="tt302"> Nuk ka p�rshkrim p�r k�t� gabim. </div>
+<div class="CTooltip" id="tt400"> Gabim sintaksor, sh�rbyesi nuk e ka kuptuar k�rkesen. </div>
+<div class="CTooltip" id="tt401"> Provoi q� ta arrij nj� <b>URL ku nj� hyrje/parull� �sht� nevojitur</b>.<br />Numri i madh n� k�t� gj� d.m.th. se (si psh. Grepi) �sht� duke provuar q� ta then, ose p�r t� hyr n� faqen t�nde t� siguruar (si shembull, duke shpresuar se duke provu parulla t� ndryshme mund t� hyn� n� hapsiren e siguruar). </div>
+<div class="CTooltip" id="tt403"> Provoi q� ta arrij nj� <b>URL pa trajtur p�r arritje, edhe me parull�</b> (p�r shembull, nj� URL mbrenda Treguesit jo e p�rkufizuar si "shfletuese".). </div>
+<div class="CTooltip" id="tt404"> Provoi q� ta arrij nj� <b>URL joekzistuese</b>. Ky gabim shpesh dmth nj� nyje pavler� diku n� faqen t�nde ekziston ose vizitori e ka gabuar nj� URL t� caktuar. </div>
+<div class="CTooltip" id="tt408"> Sh�rbyesi shfryt�zoi <b>shum� koh�</b> ti p�rgjigjet k�rkes�s. Ky gabim shpesh p�rfshin skriptat (CGI, PHP) e ngadalsh�m q� sh�rbyesi �sht� detyru q� ta zhduk Faqe sh�rbyesin jasht�zakonisht t� dyndur. </div>
+<div class="CTooltip" id="tt500"> Gabim i mbrendsh�m. Ky gabim shpesh shkaktohet nga nj� program CGI q� p�rfundoi parregull (psh trajtim i keq). </div>
+<div class="CTooltip" id="tt501"> K�rkes e panjohur. </div>
+<div class="CTooltip" id="tt502"> Kodi i kthyer nga nj� sh�rbyes HTTP q� punon si port� prokurie kur realisht, sh�rbyesi shenjuar nuk p�rgjigjet suksesh�m te k�rkesat e klient�ve. </div>
+<div class="CTooltip" id="tt503"> Gabim mbrenda sh�rbyesit. </div>
+<div class="CTooltip" id="tt504"> Parta tejkaloi koh�n. </div>
+<div class="CTooltip" id="tt505"> Botimi i HTTP Nuk �sht� i P�rkrahur </div>

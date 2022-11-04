@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Rate board</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+
+    <!-- OWL CSS file -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="css/table-themes.css"/>
+    <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+<section class="wrapper">
+    <div class="container-fluid">
+        <div class="row header-logo">
+            Gloucester Road FX Limited - Exchange Rates
+        </div>
+        <div class="row">
+            <div class="col-md-6 padding-left-0">
+                <!-- Currency table left header-->
+                <table class="table table-currency  cvs-yellow-red" id="main-rates-left">
+                    <thead>
+                    <tr>
+                        <th class="flag" width="">Flag</th>
+                        <th class="country" width="">Country</th>
+                        <th class="cur" width="">Currency</th>
+                        <th class="code" width="">Code</th>
+                        <th class="buy" width="">We Buy</th>
+                        <th class="sell" width="">We Sell</th>
+                        <th class="invbuy" width="">Buy</th>
+                        <th class="invsell" width="">Sell</th>
+                    </tr>
+                    </thead>
+                    <tbody class="main_tbody"></tbody>
+                </table>
+                <!-- ------------ -->
+            </div>
+            <!-- Currency table right header -->
+            <div class="col-md-6 padding-right-0">
+                <table class="table table-currency  cvs-yellow-red" id="main-rates-right">
+                    <thead>
+                    <tr>
+                        <th class="flag" width="">Flag</th>
+                        <th class="country" width="">Country</th>
+                        <th class="cur" width="">Currency</th>
+                        <th class="code" width="">Code</th>
+                        <th class="buy" width="">We Buy</th>
+                        <th class="sell" width="">We Sell</th>
+                        <th class="invbuy" width="">Buy</th>
+                        <th class="invsell" width="">Sell</th>
+                    </tr>
+                    </thead>
+                    <tbody class="main_tbody"></tbody>
+                </table>
+            </div>
+            <!-- ------------ -->
+        </div><!--close div /.load-->
+        <!------------------>
+        <div class="row">
+            <div class="bottom-slogan">
+                <p class="time_update"></p>
+                <span class="margin-right-15 margin-left-15">|</span>
+                <p class="note-text">Rates subject to change please confirm within</p>
+            </div>
+        </div>
+
+        <!--Currency Slider-->
+        <div class="row">
+            <div class="">
+                <div class="owl-carousel owl-theme" id="other-rates-slider">
+                    <div class="slide-wrapper">
+                        <img src="images/slides/Slide1J.jpeg" alt="">
+                    </div>
+                    <div class="slide-wrapper">
+                        <img src="images/slides/Slide2J.jpeg" alt="">
+                    </div>
+                    <div class="slide-wrapper">
+                        <img src="images/slides/Slide4J.jpeg" alt="">
+                    </div>
+                    <div class="slide-wrapper">
+                        <img src="images/slides/Slide5J.jpeg" alt="">
+                    </div>
+                    <div class="slide-wrapper">
+                        <img src="images/slides/Slide3J.jpeg" alt="">
+                    </div>
+                </div><!--close div/.owl-carousel .owl-theme-->
+            </div>
+        </div><!--close div/.row-->
+        <!--END Currency Slider-->
+    </div><!--close div  /.container-fluid -->
+</section><!--close /.wrapper'-->
+<!------------------>
+
+<!-- javascript -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery-1.11.3.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+
+<!--Owl carousel plugin script-->
+<script src="js/owl.carousel.min.js"></script>
+
+<!--Table create JS scripts-->
+<script src="js/tables_creater.js"></script>
+</body>
+</html>

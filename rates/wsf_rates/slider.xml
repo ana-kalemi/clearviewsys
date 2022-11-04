@@ -1,0 +1,19 @@
+<slider>
+
+	<slide>
+		<image alt="image alt">slides/image1.png</image>
+	</slide>
+	
+	<slide>
+		<image alt="image alt">slides/image2.png</image>
+	</slide>
+	
+	<slide>
+		<image alt="image alt">slides/image3.png</image>
+	</slide>
+
+	<slide>
+		<image alt="image alt">slides/image4.png</image>
+	</slide>
+
+</slider>

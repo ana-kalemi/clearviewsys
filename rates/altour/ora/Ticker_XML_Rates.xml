@@ -1,0 +1,175 @@
+<dataSet><data><name>ARS       		0.24412 		0.27788 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :ARSArgentina (Pesos)We buy :0.24412 USDWe Sell :0.27788 USDInverse Buy :4.09638 USDInverse Sell :3.59869 USD</dataRow>
+</data>
+<data><name>AUD       		0.83425 		0.94963 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :AUDAustralia (Dollars)We buy :0.83425 USDWe Sell :0.94963 USDInverse Buy :1.19868 USDInverse Sell :1.05305 USD</dataRow>
+</data>
+<data><name>BRL       		0.50769 		0.57791 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :BRLBrazil (Brazil Real)We buy :0.50769 USDWe Sell :0.57791 USDInverse Buy :1.96969 USDInverse Sell :1.73038 USD</dataRow>
+</data>
+<data><name>BSD       		0.94    		1.07    </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :BSDBahamas (Dollars)We buy :0.94 USDWe Sell :1.07 USDInverse Buy :1.06383 USDInverse Sell :0.93458 USD</dataRow>
+</data>
+<data><name>BZD       		0.48203 		0.5487  </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :BZDBelize (Dollars)We buy :0.48203 USDWe Sell :0.5487 USDInverse Buy :2.07455 USDInverse Sell :1.8225 USD</dataRow>
+</data>
+<data><name>CAD       		0.8945  		1.01821 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :CADCanada (Dollars)We buy :0.8945 USDWe Sell :1.01821 USDInverse Buy :1.11794 USDInverse Sell :0.98211 USD</dataRow>
+</data>
+<data><name>CHF       		0.87439 		0.99531 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :CHFSwitzerland (Francs)We buy :0.87439 USDWe Sell :0.99531 USDInverse Buy :1.14366 USDInverse Sell :1.00471 USD</dataRow>
+</data>
+<data><name>CLP       		0.00179 		0.00203 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :CLPChile (Pesos)We buy :0.00179 USDWe Sell :0.00203 USDInverse Buy :559.91041 USDInverse Sell :491.88392 USD</dataRow>
+</data>
+<data><name>CNY       		0.13752 		0.15654 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :CNYChina (Yuan Renminbi)We buy :0.13752 USDWe Sell :0.15654 USDInverse Buy :7.27156 USDInverse Sell :6.3881 USD</dataRow>
+</data>
+<data><name>CRC       		0.00169 		0.00193 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :CRCCosta Rica (Colones)We buy :0.00169 USDWe Sell :0.00193 USDInverse Buy :591.01655 USDInverse Sell :519.2108 USD</dataRow>
+</data>
+<data><name>CZK       		0.04926 		0.05607 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :CZKCzech Republic (Koruny)We buy :0.04926 USDWe Sell :0.05607 USDInverse Buy :20.3021 USDInverse Sell :17.83549 USD</dataRow>
+</data>
+<data><name>DKK       		0.17221 		0.19602 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :DKKDenmark (Kroner)We buy :0.17221 USDWe Sell :0.19602 USDInverse Buy :5.80693 USDInverse Sell :5.10142 USD</dataRow>
+</data>
+<data><name>EUR       		1.274405		1.45841 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :EUREuro Member Countries  (Euro)We buy :1.274405 USDWe Sell :1.45841 USDInverse Buy :0.78468 USDInverse Sell :0.685678 USD</dataRow>
+</data>
+<data><name>FJD       		0.47564 		0.56353 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate></tDate>
+<dataRow>Currency :FJDFiji (Dollars)We buy :0.47564 USDWe Sell :0.56353 USDInverse Buy :2.10243 USDInverse Sell :1.77453 USD</dataRow>
+</data>
+<data><name>GBP       		1.475706		1.679793</name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :GBPUnited Kingdom (Pounds)We buy :1.475706 USDWe Sell :1.679793 USDInverse Buy :0.677642 USDInverse Sell :0.595311 USD</dataRow>
+</data>
+<data><name>HKD       		0.12098 		0.13771 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :HKDHong Kong (Dollars)We buy :0.12098 USDWe Sell :0.13771 USDInverse Buy :8.26597 USDInverse Sell :7.26169 USD</dataRow>
+</data>
+<data><name>ILS       		0.25107 		0.28847 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :ILSIsrael (New Shekels)We buy :0.25107 USDWe Sell :0.28847 USDInverse Buy :3.98289 USDInverse Sell :3.46659 USD</dataRow>
+</data>
+<data><name>INR       		0.02021 		0.02301 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :INRIndia (Rupees)We buy :0.02021 USDWe Sell :0.02301 USDInverse Buy :49.48046 USDInverse Sell :43.46881 USD</dataRow>
+</data>
+<data><name>JPY       		0.01043 		0.01188 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :JPYJapan (Yen)We buy :0.01043 USDWe Sell :0.01188 USDInverse Buy :95.84052 USDInverse Sell :84.19635 USD</dataRow>
+</data>
+<data><name>KRW       		0.00085 		0.00096 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :KRWKorea (South) (Won)We buy :0.00085 USDWe Sell :0.00096 USDInverse Buy :1,182.0331 USDInverse Sell :1,038.4216 USD</dataRow>
+</data>
+<data><name>MXN       		0.07238 		0.08239 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :MXNMexico (Pesos)We buy :0.07238 USDWe Sell :0.08239 USDInverse Buy :13.81597 USDInverse Sell :12.1374 USD</dataRow>
+</data>
+<data><name>NPR       		0.00938 		0.01742 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :NPRNepal (Nepal Rupees)We buy :0.00938 USDWe Sell :0.01742 USDInverse Buy :106.60981 USDInverse Sell :57.40528 USD</dataRow>
+</data>
+<data><name>NZD       		0.65584 		0.74654 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :NZDNew Zealand (Dollars)We buy :0.65584 USDWe Sell :0.74654 USDInverse Buy :1.52477 USDInverse Sell :1.33951 USD</dataRow>
+</data>
+<data><name>PEN       		0.32919 		0.37471 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :PENPeru (Nuevos Soles)We buy :0.32919 USDWe Sell :0.37471 USDInverse Buy :3.03778 USDInverse Sell :2.6687 USD</dataRow>
+</data>
+<data><name>SEK       		0.12981 		0.14777 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :SEKSweden (Kronor)We buy :0.12981 USDWe Sell :0.14777 USDInverse Buy :7.70333 USDInverse Sell :6.76741 USD</dataRow>
+</data>
+<data><name>SGD       		0.6659  		0.75799 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :SGDSingapore (Dollars)We buy :0.6659 USDWe Sell :0.75799 USDInverse Buy :1.50174 USDInverse Sell :1.31928 USD</dataRow>
+</data>
+<data><name>THB       		0.02829 		0.03221 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :THBThailand (Baht)We buy :0.02829 USDWe Sell :0.03221 USDInverse Buy :35.34318 USDInverse Sell :31.04915 USD</dataRow>
+</data>
+<data><name>USD       		1       		1       </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate></tDate>
+<dataRow>Currency :USDUnited States of America (Dollars)We buy :1 USDWe Sell :1 USDInverse Buy :1 USDInverse Sell :1 USD</dataRow>
+</data>
+<data><name>UYU       		0.04756 		0.05566 </name>
+<textColor>0xFFFFFF</textColor>
+<BGColor>0x888888</BGColor>
+<tDate>2/14/2010</tDate>
+<dataRow>Currency :UYUUruguay (Pesos)We buy :0.04756 USDWe Sell :0.05566 USDInverse Buy :21.0243 USDInverse Sell :17.96622 USD</dataRow>
+</data>
+</dataSet>

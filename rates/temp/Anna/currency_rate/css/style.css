@@ -1,0 +1,93 @@
+body{
+    font-family: 'pt_sans', sans-serif;
+    font-weight: normal;
+    font-size: 14pt;
+}
+.container{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+.header img{
+    margin: 0 auto;
+}
+.load{
+    margin-bottom: 20px;
+    text-align: center;
+}
+    .load h4{
+        margin-bottom: 20px;
+        text-decoration: underline;
+    }
+.table-currency{
+    /*border: 1px solid silver;*/
+
+    text-align: center;
+    background: #f1f1f1;
+    margin-bottom: 0 !important;
+
+}
+    .table-currency td, .table-currency th{
+        border:1px solid silver !important;
+        text-align: center;
+    }
+@media screen and (min-width: 1200px){
+    .table-currency th{
+        font-size: 16pt;
+    }
+    .table_scroll{
+        overflow-y: scroll;
+        height: 380px;
+
+    }
+}
+@media screen and (min-width: 320px) and  (max-width: 1198px){
+    .table_scroll{
+        overflow-y: scroll;
+        height: 200px;
+        font-size: 11px !important;
+    }
+    .table-currency td{
+        padding: 2px !important;
+        font-size: 11px !important;
+    }
+    .table-currency th{
+        padding: 2px !important;
+        font-size: 11px !important;
+    }
+    .container{
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+    }
+}
+.table-currency th{
+    color: #ffffff;
+    background: #004a85;
+}
+.table-currency td{
+    padding: 8px;
+
+}
+.table-currency img{
+    margin: 5px auto;
+    width: 50%;
+}
+.footer{
+    background: #004a85;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+.item img{
+    margin: 0 auto;
+    max-width: 100%;
+}
+.carousel-indicators li{
+    border: 1px solid #004a85 !important;
+}
+.carousel-indicators .active{
+    background-color: #004a85 !important;
+}
+.main_table{
+    margin-bottom: 20px;
+
+}

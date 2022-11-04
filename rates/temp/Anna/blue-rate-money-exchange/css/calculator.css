@@ -1,0 +1,227 @@
+/*-----------------------------------------------------------------------*/
+/***************************Calculator styles******************************/
+/*-----------------------------------------------------------------------*/
+
+/*-----------------------------------*/
+/****************Base styles*********/
+/*-----------------------------------*/
+.cvs-calc-bold {
+  font-weight: bold;
+}
+.cvs-calc-font-16 {
+  font-size: 16px;
+}
+.border-blue-2 {
+  border: 2px solid #4fa0ca;
+}
+/*-----------------------------------*/
+/**Front-end plugin styles by default template horizontal**/
+/*-----------------------------------*/
+.cvs-calc-wrapper-front .cvs-wesell.cvs-sell > p:first-of-type {
+  border-right: 1px solid #68bae5;
+}
+.cvs-calc-wrapper-front .cvs-wesell.cvs-buy {
+}
+.cvs-calc-wrapper-front .cvs-wesell p {
+  font-size: 16px;
+  padding: 5px 0 5px 0;
+  margin-bottom: 0;
+}
+.cvs-calc-wrapper-front .cvs-wesell p:last-child {
+  font: normal 16px 'proxima_nova_rgregular';
+  padding: 5px 0 5px 0;
+}
+.cvs-calc-wrapper-front .cvs-amount {
+  font-size: 16px;
+}
+.cvs-calc-inner-wrapper {
+  position: relative;
+}
+.cvs-calc-inner {
+  overflow: hidden;
+}
+.cvs-calc-inner:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+.cvs-calc-half {
+  width: 50%;
+  float: left;
+}
+.cvs-calc-half.top div {
+  height: 110px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: left;
+  justify-content: center;
+}
+.cvs-calc-half div.cvs-wesell {
+  text-align: center;
+  padding: 0;
+}
+.cvs-calc-half input,
+.cvs-calc-half select {
+  width: 400px;
+  display: block;
+  height: 50px;
+  padding: 0 0 0 10px;
+  border: none;
+  font: normal 16px 'proxima_nova_rgregular';
+  border-radius: 4px;
+}
+.cvs-calc-half span {
+  width: 400px;
+}
+.cvs-calc-wrapper-front .cvs-calc-currency-inner div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 20px;
+  text-transform: uppercase;
+  height: 110px;
+}
+.cvs-calc-currency-inner span {
+  margin-right: 15px;
+}
+.cvs-calc-image {
+  max-width: 50px;
+  position: relative;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+/*-----------------------------------*/
+/**Error, div with errors*/
+/*-----------------------------------*/
+.cvs-calc-wrong-url {
+  position: absolute;
+  padding: 15px 15px 15px 20px;
+  left: 2%;
+  max-width: 96%;
+  background: #f5e0d8;
+  border: 1px solid #d59780;
+  top: 30%;
+  border-radius: 10px;
+}
+.cvs-calc-wrong-code {
+  position: absolute;
+  padding: 15px 20px 15px 20px;
+  left: 9%;
+  max-width: 96%;
+  background: #f5e0d8;
+  border: 1px solid #d59780;
+  top: 34%;
+  border-radius: 10px;
+}
+.cvs-calc-wrong {
+  padding: 15px 15px 15px 20px;
+  background: #f5e0d8;
+  border: 1px solid #d59780;
+  border-radius: 10px;
+  color: brown;
+}
+/*-----------------------------------*/
+/***** AFX template, special for *****/
+/*------------------------------------*/
+.cvs-switcher-wrapper {
+  display: flex;
+  width: 100%;
+}
+.cvs-switcher {
+  width: 100%;
+  color: #4fa0ca;
+  background: #fff;
+  border-bottom: 1px solid #68bae5;;
+  text-align: center;
+  flex: 0 0 50%;
+  padding: 18px;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.cvs-switcher:hover {
+  cursor: pointer;
+}
+.cvs-inv-rate-wrap {
+  font-size: 16px;
+  text-align: center;
+}
+.cvs-inv-rate-wrap > span {
+  background-color: #ea7351;
+  display: block;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 15px;
+}
+.cvs-inv-rate {
+  padding: 2px 12px;
+  margin-right: 10px;
+}
+/*-----------------------------------*/
+/**color theme - blue*/
+/*-----------------------------------*/
+.cvs-calc-blue.cvs-calc-wrapper-front {
+  color: #fff;
+}
+.cvs-calc-blue .cvs-calc-half div.cvs-amount {
+  background-color: #4fa0ca;
+}
+.cvs-calc-blue .cvs-calc-half div.cvs-amount span {
+  color: #fff;
+}
+.cvs-calc-blue .cvs-calc-half select,
+.cvs-calc-blue .cvs-calc-half input {
+  color: #454545;
+}
+.cvs-calc-blue .cvs-calc-currency-inner div {
+  color: #3971b2;
+}
+.cvs-calc-blue .cvs-wesell:first-child p {
+  background: #fff;
+  padding: 26px;
+  color: #35455c;
+  font-size: 20px;
+}
+.cvs-calc-blue .cvs-wesell:first-child p:first-child {
+  background-color: #3971b2;
+  color: #fff;
+  font-family: "Montserrat-ExtraBold", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 20px 0 20px 0;
+}
+.cvs-calc-blue .cvs-switcher {
+  color: #0277bd;
+}
+.cvs-calc-blue .cvs-switcher.active {
+  background-color: #4fa0ca;
+  color: #fff;
+}
+.cvs-calc-blue .cvs-switcher:hover {
+  background-color: #4fa0ca;
+  color: #fff;
+  cursor: pointer;
+}
+.cvs-calc-currency-inner img {
+  width: 120px;
+}
+.cvs-calc-blue .cvs-inv-rate {
+  background-color: #4fa0ca;
+  color: #fff;
+}
+#cvs_user_amount {
+  border-right: 2px solid #4fa0ca;
+}
+/*=======================================================================================*/
+
+.cvs-calc-wrapper-front select,
+.cvs-wrapper select {
+  border-radius: 4px !important;
+  height: 50px !important;
+}

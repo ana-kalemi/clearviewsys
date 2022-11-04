@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>HA$TI Rates Board</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+<div class="wrapper">
+
+    <section class="header">
+        <div class="container">
+            <div class="header-logo">
+                <img src="images/main-logo.png" class="img-responsive" alt="">
+            </div>
+        </div><!--close div  /.container -->
+    </section><!--close  section /.header-->
+
+    <section class="rates-table">
+        <div class="container-fluid">
+            <div class="load row">
+                <div class="col-md-6">
+                    <div class="time-update-wrapper ">
+                        <p class="time_update"></p>
+                        <p class="note-text"> – Please note rates are subject to change without notice </p>
+                    </div>
+                    <div class="table-wrapper cvs-green">
+                        <table class="table ">
+                            <thead>
+                            <tr>
+                                <th class="flag" >Flag</th>
+                                <th class="country" >Country</th>
+                                <th class="code" >Code</th>
+                                <th class="cur">Currency</th>
+                                <th class="buy" >We Buy</th>
+                                <th class="sell">We Sell</th>
+                                <th class="invbuy" >Inverse Buy</th>
+                                <th class="invsell">Inverse Sell</th>
+                            </tr>
+                            </thead>
+                            <tbody class="fade_table main_tbody left-table"></tbody>
+                        </table>
+                    </div><!--close div /.table-wrapper-->
+                </div>
+                <div class="col-md-6">
+                    <div class="time-update-wrapper ">
+                        <p class="time_update"></p>
+                        <p class="note-text"> – Please note rates are subject to change without notice </p>
+                    </div>
+                    <div class="table-wrapper cvs-green">
+                        <table class="table ">
+                            <thead>
+                            <tr>
+                                <th class="flag" >Flag</th>
+                                <th class="country" >Country</th>
+                                <th class="code" >Code</th>
+                                <th class="cur">Currency</th>
+                                <th class="buy" >We Buy</th>
+                                <th class="sell">We Sell</th>
+                                <th class="invbuy" >Inverse Buy</th>
+                                <th class="invsell">Inverse Sell</th>
+                            </tr>
+                            </thead>
+                            <tbody class="fade_table main_tbody right-table"></tbody>
+                        </table>
+                    </div><!--close div /.table-wrapper-->
+                </div>
+
+            </div><!--close div /.load-->
+        </div><!--close div  /.container -->
+    </section><!--close  section /.rates-table-->
+
+    <section class="section-slider">
+        <div class="container-fluid">
+            <div id="carousel" class="carousel slide">
+                <ol class="carousel-indicators">
+                    <li class="active" data-target="#carousel" data-slide-to="0"></li>
+                    <li data-target="#carousel" data-slide-to="1"></li>
+                    <li data-target="#carousel" data-slide-to="2"></li>
+                    <li data-target="#carousel" data-slide-to="3"></li>
+                    <li data-target="#carousel" data-slide-to="4"></li>
+                </ol>
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <img class="img-responsive" src="https://placehold.it/1875x400" alt=""/>
+                    </div>
+                    <div class="item">
+                        <img class="img-responsive" src="https://placehold.it/1875x400" alt=""/>
+                    </div>
+                    <div class="item">
+                        <img class="img-responsive" src="https://placehold.it/1875x400" alt=""/>
+                    </div>
+                    <div class="item">
+                        <img class="img-responsive" src="https://placehold.it/1875x400" alt=""/>
+                    </div>
+                    <div class="item">
+                        <img class="img-responsive" src="https://placehold.it/1875x400" alt=""/>
+                    </div>
+                </div>
+
+                <!-- Controls -->
+                <a href="#carousel" class="left carousel-control" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" ></span>
+                </a>
+                <a href="#carousel"  class="right carousel-control" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" ></span>
+                </a>
+            </div><!-----end div /.carousel .slide ---->
+        </div>
+    </section><!--close /.section-slider-->
+
+</div><!--close /.wrapper-->
+<!-- javascript -->
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/table_creater.js"></script>
+<script>
+    /**Slider*/
+    $(function () {
+        $('.carousel').carousel({
+            interval: 10000
+        });
+    });
+</script>
+</body>
+</html>

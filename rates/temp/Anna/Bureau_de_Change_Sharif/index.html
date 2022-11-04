@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Bureau de Change Sharif Inc.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+<div class="wrapper">
+    <div class="container-fluid">
+        <div class="row">
+            <section class="cvs-green">
+                <div class="logo-wrapper">
+                    <img src="images/logo.png" alt="">
+                    Sharif Exchange
+                </div>
+                <!-- table head-->
+                <table class="table table-currency upperSection">
+                    <thead>
+                    <tr>
+                        <th class="flag" width="12%">Flag</th>
+                        <th class="code" width="10%">Code</th>
+                        <th class="country" width="40%">Country</th>
+                        <th class="cur">Currency</th>
+                        <th class="buy" width="15%">We BUY</th>
+                        <th class="sell" width="15%">We SELL</th>
+                        <th class="invbuy">Inverse BUY</th>
+                        <th class="invsell">Inverse SELL</th>
+                    </tr>
+                    </thead>
+                    <tbody class="main_tbody table-currency">
+                    </tbody>
+                </table>
+                <!-- end table head ------- -->
+            </section> <!-- end div /.rate-table ------- -->
+            <section class="section-update">
+                <div class="container-fluid ">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <h4 class="time_update"></h4>
+                            <h4 class="note-text"></h4>
+                        </div>
+                        <div class="col-md-7">
+                            <h4 class="text-uppercase">OTHER CURRENCIES ARE available</h4>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="section-slider">
+                <div id="carousel" class="carousel slide">
+                    <ol class="carousel-indicators">
+                        <li class="active" data-target="#carousel" data-slide-to="0"></li>
+                        <li data-target="#carousel" data-slide-to="1"></li>
+                        <li data-target="#carousel" data-slide-to="2"></li>
+                        <li data-target="#carousel" data-slide-to="3"></li>
+                    </ol>
+                    <!--Slides-->
+                    <div class="carousel-inner">
+                        <div class="item active" >
+                            <img class="img-responsive" src="images/slider/slide-3.jpg" alt=""/>
+                            <div class="carousel-caption">
+                                <!--here you can write some text-->
+                            </div>
+                        </div>
+                        <div class="item" >
+                            <img class="img-responsive" src="images/slider/slide-4.jpg" alt=""/>
+                            <div class="carousel-caption">
+                                <!--here you can write some text-->
+                            </div>
+                        </div>
+                        <div class="item" >
+                            <img class="img-responsive" src="images/slider/slide-5.jpg" alt=""/>
+                            <div class="carousel-caption">
+                                <!--here you can write some text-->
+                            </div>
+                        </div>
+                        <div class="item" >
+                            <img class="img-responsive" src="images/slider/slide-3.jpg" alt=""/>
+                            <div class="carousel-caption">
+                                <!--here you can write some text-->
+                            </div>
+                        </div>
+                    </div>
+                    <a href="#carousel" class="left carousel-control" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" ></span>
+                    </a>
+                    <a href="#carousel"  class="right carousel-control" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" ></span>
+                    </a>
+                </div>
+            </section><!--close section /.section-slider-->
+
+        </div><!--close div /.row-->
+    </div><!--close div  /.container-fluid -->
+</div><!--close /.wrapper'-->
+
+<!-- javascript -->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+
+<!--Table create JS scripts-->
+<script src="js/table_creater.js"></script>
+<script>
+    $(function () {
+        $('.carousel').carousel({
+            interval: 4000
+        });
+    });
+</script>
+</body>
+</html>
